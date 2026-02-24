@@ -1,0 +1,500 @@
+{"filename": "PeppermintCandy/test/good/rgb/018.png", "filename_xyz": "PeppermintCandy/test/good/xyz/018.tiff", "label": 0, "label_name": "good"}
+{"filename": "PeppermintCandy/test/good/rgb/016.png", "filename_xyz": "PeppermintCandy/test/good/xyz/016.tiff", "label": 0, "label_name": "good"}
+{"filename": "PeppermintCandy/test/good/rgb/009.png", "filename_xyz": "PeppermintCandy/test/good/xyz/009.tiff", "label": 0, "label_name": "good"}
+{"filename": "PeppermintCandy/test/good/rgb/007.png", "filename_xyz": "PeppermintCandy/test/good/xyz/007.tiff", "label": 0, "label_name": "good"}
+{"filename": "PeppermintCandy/test/good/rgb/014.png", "filename_xyz": "PeppermintCandy/test/good/xyz/014.tiff", "label": 0, "label_name": "good"}
+{"filename": "PeppermintCandy/test/good/rgb/000.png", "filename_xyz": "PeppermintCandy/test/good/xyz/000.tiff", "label": 0, "label_name": "good"}
+{"filename": "PeppermintCandy/test/good/rgb/017.png", "filename_xyz": "PeppermintCandy/test/good/xyz/017.tiff", "label": 0, "label_name": "good"}
+{"filename": "PeppermintCandy/test/good/rgb/022.png", "filename_xyz": "PeppermintCandy/test/good/xyz/022.tiff", "label": 0, "label_name": "good"}
+{"filename": "PeppermintCandy/test/good/rgb/019.png", "filename_xyz": "PeppermintCandy/test/good/xyz/019.tiff", "label": 0, "label_name": "good"}
+{"filename": "PeppermintCandy/test/good/rgb/012.png", "filename_xyz": "PeppermintCandy/test/good/xyz/012.tiff", "label": 0, "label_name": "good"}
+{"filename": "PeppermintCandy/test/good/rgb/010.png", "filename_xyz": "PeppermintCandy/test/good/xyz/010.tiff", "label": 0, "label_name": "good"}
+{"filename": "PeppermintCandy/test/good/rgb/024.png", "filename_xyz": "PeppermintCandy/test/good/xyz/024.tiff", "label": 0, "label_name": "good"}
+{"filename": "PeppermintCandy/test/good/rgb/004.png", "filename_xyz": "PeppermintCandy/test/good/xyz/004.tiff", "label": 0, "label_name": "good"}
+{"filename": "PeppermintCandy/test/good/rgb/011.png", "filename_xyz": "PeppermintCandy/test/good/xyz/011.tiff", "label": 0, "label_name": "good"}
+{"filename": "PeppermintCandy/test/good/rgb/005.png", "filename_xyz": "PeppermintCandy/test/good/xyz/005.tiff", "label": 0, "label_name": "good"}
+{"filename": "PeppermintCandy/test/good/rgb/015.png", "filename_xyz": "PeppermintCandy/test/good/xyz/015.tiff", "label": 0, "label_name": "good"}
+{"filename": "PeppermintCandy/test/good/rgb/013.png", "filename_xyz": "PeppermintCandy/test/good/xyz/013.tiff", "label": 0, "label_name": "good"}
+{"filename": "PeppermintCandy/test/good/rgb/001.png", "filename_xyz": "PeppermintCandy/test/good/xyz/001.tiff", "label": 0, "label_name": "good"}
+{"filename": "PeppermintCandy/test/good/rgb/021.png", "filename_xyz": "PeppermintCandy/test/good/xyz/021.tiff", "label": 0, "label_name": "good"}
+{"filename": "PeppermintCandy/test/good/rgb/023.png", "filename_xyz": "PeppermintCandy/test/good/xyz/023.tiff", "label": 0, "label_name": "good"}
+{"filename": "PeppermintCandy/test/good/rgb/002.png", "filename_xyz": "PeppermintCandy/test/good/xyz/002.tiff", "label": 0, "label_name": "good"}
+{"filename": "PeppermintCandy/test/good/rgb/008.png", "filename_xyz": "PeppermintCandy/test/good/xyz/008.tiff", "label": 0, "label_name": "good"}
+{"filename": "PeppermintCandy/test/good/rgb/006.png", "filename_xyz": "PeppermintCandy/test/good/xyz/006.tiff", "label": 0, "label_name": "good"}
+{"filename": "PeppermintCandy/test/good/rgb/003.png", "filename_xyz": "PeppermintCandy/test/good/xyz/003.tiff", "label": 0, "label_name": "good"}
+{"filename": "PeppermintCandy/test/good/rgb/020.png", "filename_xyz": "PeppermintCandy/test/good/xyz/020.tiff", "label": 0, "label_name": "good"}
+{"filename": "PeppermintCandy/test/bad/rgb/035.png", "filename_xyz": "PeppermintCandy/test/bad/xyz/035.tiff", "label": 1, "label_name": "defective", "maskname": "PeppermintCandy/test/bad/gt/035.png"}
+{"filename": "PeppermintCandy/test/bad/rgb/028.png", "filename_xyz": "PeppermintCandy/test/bad/xyz/028.tiff", "label": 1, "label_name": "defective", "maskname": "PeppermintCandy/test/bad/gt/028.png"}
+{"filename": "PeppermintCandy/test/bad/rgb/041.png", "filename_xyz": "PeppermintCandy/test/bad/xyz/041.tiff", "label": 1, "label_name": "defective", "maskname": "PeppermintCandy/test/bad/gt/041.png"}
+{"filename": "PeppermintCandy/test/bad/rgb/046.png", "filename_xyz": "PeppermintCandy/test/bad/xyz/046.tiff", "label": 1, "label_name": "defective", "maskname": "PeppermintCandy/test/bad/gt/046.png"}
+{"filename": "PeppermintCandy/test/bad/rgb/042.png", "filename_xyz": "PeppermintCandy/test/bad/xyz/042.tiff", "label": 1, "label_name": "defective", "maskname": "PeppermintCandy/test/bad/gt/042.png"}
+{"filename": "PeppermintCandy/test/bad/rgb/048.png", "filename_xyz": "PeppermintCandy/test/bad/xyz/048.tiff", "label": 1, "label_name": "defective", "maskname": "PeppermintCandy/test/bad/gt/048.png"}
+{"filename": "PeppermintCandy/test/bad/rgb/032.png", "filename_xyz": "PeppermintCandy/test/bad/xyz/032.tiff", "label": 1, "label_name": "defective", "maskname": "PeppermintCandy/test/bad/gt/032.png"}
+{"filename": "PeppermintCandy/test/bad/rgb/039.png", "filename_xyz": "PeppermintCandy/test/bad/xyz/039.tiff", "label": 1, "label_name": "defective", "maskname": "PeppermintCandy/test/bad/gt/039.png"}
+{"filename": "PeppermintCandy/test/bad/rgb/033.png", "filename_xyz": "PeppermintCandy/test/bad/xyz/033.tiff", "label": 1, "label_name": "defective", "maskname": "PeppermintCandy/test/bad/gt/033.png"}
+{"filename": "PeppermintCandy/test/bad/rgb/031.png", "filename_xyz": "PeppermintCandy/test/bad/xyz/031.tiff", "label": 1, "label_name": "defective", "maskname": "PeppermintCandy/test/bad/gt/031.png"}
+{"filename": "PeppermintCandy/test/bad/rgb/044.png", "filename_xyz": "PeppermintCandy/test/bad/xyz/044.tiff", "label": 1, "label_name": "defective", "maskname": "PeppermintCandy/test/bad/gt/044.png"}
+{"filename": "PeppermintCandy/test/bad/rgb/027.png", "filename_xyz": "PeppermintCandy/test/bad/xyz/027.tiff", "label": 1, "label_name": "defective", "maskname": "PeppermintCandy/test/bad/gt/027.png"}
+{"filename": "PeppermintCandy/test/bad/rgb/034.png", "filename_xyz": "PeppermintCandy/test/bad/xyz/034.tiff", "label": 1, "label_name": "defective", "maskname": "PeppermintCandy/test/bad/gt/034.png"}
+{"filename": "PeppermintCandy/test/bad/rgb/030.png", "filename_xyz": "PeppermintCandy/test/bad/xyz/030.tiff", "label": 1, "label_name": "defective", "maskname": "PeppermintCandy/test/bad/gt/030.png"}
+{"filename": "PeppermintCandy/test/bad/rgb/037.png", "filename_xyz": "PeppermintCandy/test/bad/xyz/037.tiff", "label": 1, "label_name": "defective", "maskname": "PeppermintCandy/test/bad/gt/037.png"}
+{"filename": "PeppermintCandy/test/bad/rgb/036.png", "filename_xyz": "PeppermintCandy/test/bad/xyz/036.tiff", "label": 1, "label_name": "defective", "maskname": "PeppermintCandy/test/bad/gt/036.png"}
+{"filename": "PeppermintCandy/test/bad/rgb/049.png", "filename_xyz": "PeppermintCandy/test/bad/xyz/049.tiff", "label": 1, "label_name": "defective", "maskname": "PeppermintCandy/test/bad/gt/049.png"}
+{"filename": "PeppermintCandy/test/bad/rgb/029.png", "filename_xyz": "PeppermintCandy/test/bad/xyz/029.tiff", "label": 1, "label_name": "defective", "maskname": "PeppermintCandy/test/bad/gt/029.png"}
+{"filename": "PeppermintCandy/test/bad/rgb/026.png", "filename_xyz": "PeppermintCandy/test/bad/xyz/026.tiff", "label": 1, "label_name": "defective", "maskname": "PeppermintCandy/test/bad/gt/026.png"}
+{"filename": "PeppermintCandy/test/bad/rgb/047.png", "filename_xyz": "PeppermintCandy/test/bad/xyz/047.tiff", "label": 1, "label_name": "defective", "maskname": "PeppermintCandy/test/bad/gt/047.png"}
+{"filename": "PeppermintCandy/test/bad/rgb/043.png", "filename_xyz": "PeppermintCandy/test/bad/xyz/043.tiff", "label": 1, "label_name": "defective", "maskname": "PeppermintCandy/test/bad/gt/043.png"}
+{"filename": "PeppermintCandy/test/bad/rgb/045.png", "filename_xyz": "PeppermintCandy/test/bad/xyz/045.tiff", "label": 1, "label_name": "defective", "maskname": "PeppermintCandy/test/bad/gt/045.png"}
+{"filename": "PeppermintCandy/test/bad/rgb/038.png", "filename_xyz": "PeppermintCandy/test/bad/xyz/038.tiff", "label": 1, "label_name": "defective", "maskname": "PeppermintCandy/test/bad/gt/038.png"}
+{"filename": "PeppermintCandy/test/bad/rgb/040.png", "filename_xyz": "PeppermintCandy/test/bad/xyz/040.tiff", "label": 1, "label_name": "defective", "maskname": "PeppermintCandy/test/bad/gt/040.png"}
+{"filename": "PeppermintCandy/test/bad/rgb/025.png", "filename_xyz": "PeppermintCandy/test/bad/xyz/025.tiff", "label": 1, "label_name": "defective", "maskname": "PeppermintCandy/test/bad/gt/025.png"}
+{"filename": "Marshmallow/test/good/rgb/018.png", "filename_xyz": "Marshmallow/test/good/xyz/018.tiff", "label": 0, "label_name": "good"}
+{"filename": "Marshmallow/test/good/rgb/016.png", "filename_xyz": "Marshmallow/test/good/xyz/016.tiff", "label": 0, "label_name": "good"}
+{"filename": "Marshmallow/test/good/rgb/009.png", "filename_xyz": "Marshmallow/test/good/xyz/009.tiff", "label": 0, "label_name": "good"}
+{"filename": "Marshmallow/test/good/rgb/007.png", "filename_xyz": "Marshmallow/test/good/xyz/007.tiff", "label": 0, "label_name": "good"}
+{"filename": "Marshmallow/test/good/rgb/014.png", "filename_xyz": "Marshmallow/test/good/xyz/014.tiff", "label": 0, "label_name": "good"}
+{"filename": "Marshmallow/test/good/rgb/000.png", "filename_xyz": "Marshmallow/test/good/xyz/000.tiff", "label": 0, "label_name": "good"}
+{"filename": "Marshmallow/test/good/rgb/017.png", "filename_xyz": "Marshmallow/test/good/xyz/017.tiff", "label": 0, "label_name": "good"}
+{"filename": "Marshmallow/test/good/rgb/022.png", "filename_xyz": "Marshmallow/test/good/xyz/022.tiff", "label": 0, "label_name": "good"}
+{"filename": "Marshmallow/test/good/rgb/019.png", "filename_xyz": "Marshmallow/test/good/xyz/019.tiff", "label": 0, "label_name": "good"}
+{"filename": "Marshmallow/test/good/rgb/012.png", "filename_xyz": "Marshmallow/test/good/xyz/012.tiff", "label": 0, "label_name": "good"}
+{"filename": "Marshmallow/test/good/rgb/010.png", "filename_xyz": "Marshmallow/test/good/xyz/010.tiff", "label": 0, "label_name": "good"}
+{"filename": "Marshmallow/test/good/rgb/024.png", "filename_xyz": "Marshmallow/test/good/xyz/024.tiff", "label": 0, "label_name": "good"}
+{"filename": "Marshmallow/test/good/rgb/004.png", "filename_xyz": "Marshmallow/test/good/xyz/004.tiff", "label": 0, "label_name": "good"}
+{"filename": "Marshmallow/test/good/rgb/011.png", "filename_xyz": "Marshmallow/test/good/xyz/011.tiff", "label": 0, "label_name": "good"}
+{"filename": "Marshmallow/test/good/rgb/005.png", "filename_xyz": "Marshmallow/test/good/xyz/005.tiff", "label": 0, "label_name": "good"}
+{"filename": "Marshmallow/test/good/rgb/015.png", "filename_xyz": "Marshmallow/test/good/xyz/015.tiff", "label": 0, "label_name": "good"}
+{"filename": "Marshmallow/test/good/rgb/013.png", "filename_xyz": "Marshmallow/test/good/xyz/013.tiff", "label": 0, "label_name": "good"}
+{"filename": "Marshmallow/test/good/rgb/001.png", "filename_xyz": "Marshmallow/test/good/xyz/001.tiff", "label": 0, "label_name": "good"}
+{"filename": "Marshmallow/test/good/rgb/021.png", "filename_xyz": "Marshmallow/test/good/xyz/021.tiff", "label": 0, "label_name": "good"}
+{"filename": "Marshmallow/test/good/rgb/023.png", "filename_xyz": "Marshmallow/test/good/xyz/023.tiff", "label": 0, "label_name": "good"}
+{"filename": "Marshmallow/test/good/rgb/002.png", "filename_xyz": "Marshmallow/test/good/xyz/002.tiff", "label": 0, "label_name": "good"}
+{"filename": "Marshmallow/test/good/rgb/008.png", "filename_xyz": "Marshmallow/test/good/xyz/008.tiff", "label": 0, "label_name": "good"}
+{"filename": "Marshmallow/test/good/rgb/006.png", "filename_xyz": "Marshmallow/test/good/xyz/006.tiff", "label": 0, "label_name": "good"}
+{"filename": "Marshmallow/test/good/rgb/003.png", "filename_xyz": "Marshmallow/test/good/xyz/003.tiff", "label": 0, "label_name": "good"}
+{"filename": "Marshmallow/test/good/rgb/020.png", "filename_xyz": "Marshmallow/test/good/xyz/020.tiff", "label": 0, "label_name": "good"}
+{"filename": "Marshmallow/test/bad/rgb/035.png", "filename_xyz": "Marshmallow/test/bad/xyz/035.tiff", "label": 1, "label_name": "defective", "maskname": "Marshmallow/test/bad/gt/035.png"}
+{"filename": "Marshmallow/test/bad/rgb/028.png", "filename_xyz": "Marshmallow/test/bad/xyz/028.tiff", "label": 1, "label_name": "defective", "maskname": "Marshmallow/test/bad/gt/028.png"}
+{"filename": "Marshmallow/test/bad/rgb/041.png", "filename_xyz": "Marshmallow/test/bad/xyz/041.tiff", "label": 1, "label_name": "defective", "maskname": "Marshmallow/test/bad/gt/041.png"}
+{"filename": "Marshmallow/test/bad/rgb/046.png", "filename_xyz": "Marshmallow/test/bad/xyz/046.tiff", "label": 1, "label_name": "defective", "maskname": "Marshmallow/test/bad/gt/046.png"}
+{"filename": "Marshmallow/test/bad/rgb/042.png", "filename_xyz": "Marshmallow/test/bad/xyz/042.tiff", "label": 1, "label_name": "defective", "maskname": "Marshmallow/test/bad/gt/042.png"}
+{"filename": "Marshmallow/test/bad/rgb/048.png", "filename_xyz": "Marshmallow/test/bad/xyz/048.tiff", "label": 1, "label_name": "defective", "maskname": "Marshmallow/test/bad/gt/048.png"}
+{"filename": "Marshmallow/test/bad/rgb/032.png", "filename_xyz": "Marshmallow/test/bad/xyz/032.tiff", "label": 1, "label_name": "defective", "maskname": "Marshmallow/test/bad/gt/032.png"}
+{"filename": "Marshmallow/test/bad/rgb/039.png", "filename_xyz": "Marshmallow/test/bad/xyz/039.tiff", "label": 1, "label_name": "defective", "maskname": "Marshmallow/test/bad/gt/039.png"}
+{"filename": "Marshmallow/test/bad/rgb/033.png", "filename_xyz": "Marshmallow/test/bad/xyz/033.tiff", "label": 1, "label_name": "defective", "maskname": "Marshmallow/test/bad/gt/033.png"}
+{"filename": "Marshmallow/test/bad/rgb/031.png", "filename_xyz": "Marshmallow/test/bad/xyz/031.tiff", "label": 1, "label_name": "defective", "maskname": "Marshmallow/test/bad/gt/031.png"}
+{"filename": "Marshmallow/test/bad/rgb/044.png", "filename_xyz": "Marshmallow/test/bad/xyz/044.tiff", "label": 1, "label_name": "defective", "maskname": "Marshmallow/test/bad/gt/044.png"}
+{"filename": "Marshmallow/test/bad/rgb/027.png", "filename_xyz": "Marshmallow/test/bad/xyz/027.tiff", "label": 1, "label_name": "defective", "maskname": "Marshmallow/test/bad/gt/027.png"}
+{"filename": "Marshmallow/test/bad/rgb/034.png", "filename_xyz": "Marshmallow/test/bad/xyz/034.tiff", "label": 1, "label_name": "defective", "maskname": "Marshmallow/test/bad/gt/034.png"}
+{"filename": "Marshmallow/test/bad/rgb/030.png", "filename_xyz": "Marshmallow/test/bad/xyz/030.tiff", "label": 1, "label_name": "defective", "maskname": "Marshmallow/test/bad/gt/030.png"}
+{"filename": "Marshmallow/test/bad/rgb/037.png", "filename_xyz": "Marshmallow/test/bad/xyz/037.tiff", "label": 1, "label_name": "defective", "maskname": "Marshmallow/test/bad/gt/037.png"}
+{"filename": "Marshmallow/test/bad/rgb/036.png", "filename_xyz": "Marshmallow/test/bad/xyz/036.tiff", "label": 1, "label_name": "defective", "maskname": "Marshmallow/test/bad/gt/036.png"}
+{"filename": "Marshmallow/test/bad/rgb/049.png", "filename_xyz": "Marshmallow/test/bad/xyz/049.tiff", "label": 1, "label_name": "defective", "maskname": "Marshmallow/test/bad/gt/049.png"}
+{"filename": "Marshmallow/test/bad/rgb/029.png", "filename_xyz": "Marshmallow/test/bad/xyz/029.tiff", "label": 1, "label_name": "defective", "maskname": "Marshmallow/test/bad/gt/029.png"}
+{"filename": "Marshmallow/test/bad/rgb/026.png", "filename_xyz": "Marshmallow/test/bad/xyz/026.tiff", "label": 1, "label_name": "defective", "maskname": "Marshmallow/test/bad/gt/026.png"}
+{"filename": "Marshmallow/test/bad/rgb/047.png", "filename_xyz": "Marshmallow/test/bad/xyz/047.tiff", "label": 1, "label_name": "defective", "maskname": "Marshmallow/test/bad/gt/047.png"}
+{"filename": "Marshmallow/test/bad/rgb/043.png", "filename_xyz": "Marshmallow/test/bad/xyz/043.tiff", "label": 1, "label_name": "defective", "maskname": "Marshmallow/test/bad/gt/043.png"}
+{"filename": "Marshmallow/test/bad/rgb/045.png", "filename_xyz": "Marshmallow/test/bad/xyz/045.tiff", "label": 1, "label_name": "defective", "maskname": "Marshmallow/test/bad/gt/045.png"}
+{"filename": "Marshmallow/test/bad/rgb/038.png", "filename_xyz": "Marshmallow/test/bad/xyz/038.tiff", "label": 1, "label_name": "defective", "maskname": "Marshmallow/test/bad/gt/038.png"}
+{"filename": "Marshmallow/test/bad/rgb/040.png", "filename_xyz": "Marshmallow/test/bad/xyz/040.tiff", "label": 1, "label_name": "defective", "maskname": "Marshmallow/test/bad/gt/040.png"}
+{"filename": "Marshmallow/test/bad/rgb/025.png", "filename_xyz": "Marshmallow/test/bad/xyz/025.tiff", "label": 1, "label_name": "defective", "maskname": "Marshmallow/test/bad/gt/025.png"}
+{"filename": "Lollipop/test/good/rgb/035.png", "filename_xyz": "Lollipop/test/good/xyz/035.tiff", "label": 0, "label_name": "good"}
+{"filename": "Lollipop/test/good/rgb/028.png", "filename_xyz": "Lollipop/test/good/xyz/028.tiff", "label": 0, "label_name": "good"}
+{"filename": "Lollipop/test/good/rgb/041.png", "filename_xyz": "Lollipop/test/good/xyz/041.tiff", "label": 0, "label_name": "good"}
+{"filename": "Lollipop/test/good/rgb/018.png", "filename_xyz": "Lollipop/test/good/xyz/018.tiff", "label": 0, "label_name": "good"}
+{"filename": "Lollipop/test/good/rgb/016.png", "filename_xyz": "Lollipop/test/good/xyz/016.tiff", "label": 0, "label_name": "good"}
+{"filename": "Lollipop/test/good/rgb/009.png", "filename_xyz": "Lollipop/test/good/xyz/009.tiff", "label": 0, "label_name": "good"}
+{"filename": "Lollipop/test/good/rgb/032.png", "filename_xyz": "Lollipop/test/good/xyz/032.tiff", "label": 0, "label_name": "good"}
+{"filename": "Lollipop/test/good/rgb/007.png", "filename_xyz": "Lollipop/test/good/xyz/007.tiff", "label": 0, "label_name": "good"}
+{"filename": "Lollipop/test/good/rgb/014.png", "filename_xyz": "Lollipop/test/good/xyz/014.tiff", "label": 0, "label_name": "good"}
+{"filename": "Lollipop/test/good/rgb/000.png", "filename_xyz": "Lollipop/test/good/xyz/000.tiff", "label": 0, "label_name": "good"}
+{"filename": "Lollipop/test/good/rgb/033.png", "filename_xyz": "Lollipop/test/good/xyz/033.tiff", "label": 0, "label_name": "good"}
+{"filename": "Lollipop/test/good/rgb/017.png", "filename_xyz": "Lollipop/test/good/xyz/017.tiff", "label": 0, "label_name": "good"}
+{"filename": "Lollipop/test/good/rgb/022.png", "filename_xyz": "Lollipop/test/good/xyz/022.tiff", "label": 0, "label_name": "good"}
+{"filename": "Lollipop/test/good/rgb/019.png", "filename_xyz": "Lollipop/test/good/xyz/019.tiff", "label": 0, "label_name": "good"}
+{"filename": "Lollipop/test/good/rgb/012.png", "filename_xyz": "Lollipop/test/good/xyz/012.tiff", "label": 0, "label_name": "good"}
+{"filename": "Lollipop/test/good/rgb/027.png", "filename_xyz": "Lollipop/test/good/xyz/027.tiff", "label": 0, "label_name": "good"}
+{"filename": "Lollipop/test/good/rgb/010.png", "filename_xyz": "Lollipop/test/good/xyz/010.tiff", "label": 0, "label_name": "good"}
+{"filename": "Lollipop/test/good/rgb/024.png", "filename_xyz": "Lollipop/test/good/xyz/024.tiff", "label": 0, "label_name": "good"}
+{"filename": "Lollipop/test/good/rgb/037.png", "filename_xyz": "Lollipop/test/good/xyz/037.tiff", "label": 0, "label_name": "good"}
+{"filename": "Lollipop/test/good/rgb/004.png", "filename_xyz": "Lollipop/test/good/xyz/004.tiff", "label": 0, "label_name": "good"}
+{"filename": "Lollipop/test/good/rgb/011.png", "filename_xyz": "Lollipop/test/good/xyz/011.tiff", "label": 0, "label_name": "good"}
+{"filename": "Lollipop/test/good/rgb/005.png", "filename_xyz": "Lollipop/test/good/xyz/005.tiff", "label": 0, "label_name": "good"}
+{"filename": "Lollipop/test/good/rgb/015.png", "filename_xyz": "Lollipop/test/good/xyz/015.tiff", "label": 0, "label_name": "good"}
+{"filename": "Lollipop/test/good/rgb/013.png", "filename_xyz": "Lollipop/test/good/xyz/013.tiff", "label": 0, "label_name": "good"}
+{"filename": "Lollipop/test/good/rgb/001.png", "filename_xyz": "Lollipop/test/good/xyz/001.tiff", "label": 0, "label_name": "good"}
+{"filename": "Lollipop/test/good/rgb/021.png", "filename_xyz": "Lollipop/test/good/xyz/021.tiff", "label": 0, "label_name": "good"}
+{"filename": "Lollipop/test/good/rgb/023.png", "filename_xyz": "Lollipop/test/good/xyz/023.tiff", "label": 0, "label_name": "good"}
+{"filename": "Lollipop/test/good/rgb/002.png", "filename_xyz": "Lollipop/test/good/xyz/002.tiff", "label": 0, "label_name": "good"}
+{"filename": "Lollipop/test/good/rgb/047.png", "filename_xyz": "Lollipop/test/good/xyz/047.tiff", "label": 0, "label_name": "good"}
+{"filename": "Lollipop/test/good/rgb/008.png", "filename_xyz": "Lollipop/test/good/xyz/008.tiff", "label": 0, "label_name": "good"}
+{"filename": "Lollipop/test/good/rgb/006.png", "filename_xyz": "Lollipop/test/good/xyz/006.tiff", "label": 0, "label_name": "good"}
+{"filename": "Lollipop/test/good/rgb/003.png", "filename_xyz": "Lollipop/test/good/xyz/003.tiff", "label": 0, "label_name": "good"}
+{"filename": "Lollipop/test/good/rgb/038.png", "filename_xyz": "Lollipop/test/good/xyz/038.tiff", "label": 0, "label_name": "good"}
+{"filename": "Lollipop/test/good/rgb/020.png", "filename_xyz": "Lollipop/test/good/xyz/020.tiff", "label": 0, "label_name": "good"}
+{"filename": "Lollipop/test/bad/rgb/046.png", "filename_xyz": "Lollipop/test/bad/xyz/046.tiff", "label": 1, "label_name": "defective", "maskname": "Lollipop/test/bad/gt/046.png"}
+{"filename": "Lollipop/test/bad/rgb/042.png", "filename_xyz": "Lollipop/test/bad/xyz/042.tiff", "label": 1, "label_name": "defective", "maskname": "Lollipop/test/bad/gt/042.png"}
+{"filename": "Lollipop/test/bad/rgb/048.png", "filename_xyz": "Lollipop/test/bad/xyz/048.tiff", "label": 1, "label_name": "defective", "maskname": "Lollipop/test/bad/gt/048.png"}
+{"filename": "Lollipop/test/bad/rgb/039.png", "filename_xyz": "Lollipop/test/bad/xyz/039.tiff", "label": 1, "label_name": "defective", "maskname": "Lollipop/test/bad/gt/039.png"}
+{"filename": "Lollipop/test/bad/rgb/031.png", "filename_xyz": "Lollipop/test/bad/xyz/031.tiff", "label": 1, "label_name": "defective", "maskname": "Lollipop/test/bad/gt/031.png"}
+{"filename": "Lollipop/test/bad/rgb/044.png", "filename_xyz": "Lollipop/test/bad/xyz/044.tiff", "label": 1, "label_name": "defective", "maskname": "Lollipop/test/bad/gt/044.png"}
+{"filename": "Lollipop/test/bad/rgb/034.png", "filename_xyz": "Lollipop/test/bad/xyz/034.tiff", "label": 1, "label_name": "defective", "maskname": "Lollipop/test/bad/gt/034.png"}
+{"filename": "Lollipop/test/bad/rgb/030.png", "filename_xyz": "Lollipop/test/bad/xyz/030.tiff", "label": 1, "label_name": "defective", "maskname": "Lollipop/test/bad/gt/030.png"}
+{"filename": "Lollipop/test/bad/rgb/036.png", "filename_xyz": "Lollipop/test/bad/xyz/036.tiff", "label": 1, "label_name": "defective", "maskname": "Lollipop/test/bad/gt/036.png"}
+{"filename": "Lollipop/test/bad/rgb/049.png", "filename_xyz": "Lollipop/test/bad/xyz/049.tiff", "label": 1, "label_name": "defective", "maskname": "Lollipop/test/bad/gt/049.png"}
+{"filename": "Lollipop/test/bad/rgb/029.png", "filename_xyz": "Lollipop/test/bad/xyz/029.tiff", "label": 1, "label_name": "defective", "maskname": "Lollipop/test/bad/gt/029.png"}
+{"filename": "Lollipop/test/bad/rgb/026.png", "filename_xyz": "Lollipop/test/bad/xyz/026.tiff", "label": 1, "label_name": "defective", "maskname": "Lollipop/test/bad/gt/026.png"}
+{"filename": "Lollipop/test/bad/rgb/043.png", "filename_xyz": "Lollipop/test/bad/xyz/043.tiff", "label": 1, "label_name": "defective", "maskname": "Lollipop/test/bad/gt/043.png"}
+{"filename": "Lollipop/test/bad/rgb/045.png", "filename_xyz": "Lollipop/test/bad/xyz/045.tiff", "label": 1, "label_name": "defective", "maskname": "Lollipop/test/bad/gt/045.png"}
+{"filename": "Lollipop/test/bad/rgb/040.png", "filename_xyz": "Lollipop/test/bad/xyz/040.tiff", "label": 1, "label_name": "defective", "maskname": "Lollipop/test/bad/gt/040.png"}
+{"filename": "Lollipop/test/bad/rgb/025.png", "filename_xyz": "Lollipop/test/bad/xyz/025.tiff", "label": 1, "label_name": "defective", "maskname": "Lollipop/test/bad/gt/025.png"}
+{"filename": "LicoriceSandwich/test/good/rgb/018.png", "filename_xyz": "LicoriceSandwich/test/good/xyz/018.tiff", "label": 0, "label_name": "good"}
+{"filename": "LicoriceSandwich/test/good/rgb/016.png", "filename_xyz": "LicoriceSandwich/test/good/xyz/016.tiff", "label": 0, "label_name": "good"}
+{"filename": "LicoriceSandwich/test/good/rgb/009.png", "filename_xyz": "LicoriceSandwich/test/good/xyz/009.tiff", "label": 0, "label_name": "good"}
+{"filename": "LicoriceSandwich/test/good/rgb/007.png", "filename_xyz": "LicoriceSandwich/test/good/xyz/007.tiff", "label": 0, "label_name": "good"}
+{"filename": "LicoriceSandwich/test/good/rgb/014.png", "filename_xyz": "LicoriceSandwich/test/good/xyz/014.tiff", "label": 0, "label_name": "good"}
+{"filename": "LicoriceSandwich/test/good/rgb/000.png", "filename_xyz": "LicoriceSandwich/test/good/xyz/000.tiff", "label": 0, "label_name": "good"}
+{"filename": "LicoriceSandwich/test/good/rgb/017.png", "filename_xyz": "LicoriceSandwich/test/good/xyz/017.tiff", "label": 0, "label_name": "good"}
+{"filename": "LicoriceSandwich/test/good/rgb/022.png", "filename_xyz": "LicoriceSandwich/test/good/xyz/022.tiff", "label": 0, "label_name": "good"}
+{"filename": "LicoriceSandwich/test/good/rgb/019.png", "filename_xyz": "LicoriceSandwich/test/good/xyz/019.tiff", "label": 0, "label_name": "good"}
+{"filename": "LicoriceSandwich/test/good/rgb/012.png", "filename_xyz": "LicoriceSandwich/test/good/xyz/012.tiff", "label": 0, "label_name": "good"}
+{"filename": "LicoriceSandwich/test/good/rgb/010.png", "filename_xyz": "LicoriceSandwich/test/good/xyz/010.tiff", "label": 0, "label_name": "good"}
+{"filename": "LicoriceSandwich/test/good/rgb/024.png", "filename_xyz": "LicoriceSandwich/test/good/xyz/024.tiff", "label": 0, "label_name": "good"}
+{"filename": "LicoriceSandwich/test/good/rgb/004.png", "filename_xyz": "LicoriceSandwich/test/good/xyz/004.tiff", "label": 0, "label_name": "good"}
+{"filename": "LicoriceSandwich/test/good/rgb/011.png", "filename_xyz": "LicoriceSandwich/test/good/xyz/011.tiff", "label": 0, "label_name": "good"}
+{"filename": "LicoriceSandwich/test/good/rgb/005.png", "filename_xyz": "LicoriceSandwich/test/good/xyz/005.tiff", "label": 0, "label_name": "good"}
+{"filename": "LicoriceSandwich/test/good/rgb/015.png", "filename_xyz": "LicoriceSandwich/test/good/xyz/015.tiff", "label": 0, "label_name": "good"}
+{"filename": "LicoriceSandwich/test/good/rgb/013.png", "filename_xyz": "LicoriceSandwich/test/good/xyz/013.tiff", "label": 0, "label_name": "good"}
+{"filename": "LicoriceSandwich/test/good/rgb/001.png", "filename_xyz": "LicoriceSandwich/test/good/xyz/001.tiff", "label": 0, "label_name": "good"}
+{"filename": "LicoriceSandwich/test/good/rgb/021.png", "filename_xyz": "LicoriceSandwich/test/good/xyz/021.tiff", "label": 0, "label_name": "good"}
+{"filename": "LicoriceSandwich/test/good/rgb/023.png", "filename_xyz": "LicoriceSandwich/test/good/xyz/023.tiff", "label": 0, "label_name": "good"}
+{"filename": "LicoriceSandwich/test/good/rgb/002.png", "filename_xyz": "LicoriceSandwich/test/good/xyz/002.tiff", "label": 0, "label_name": "good"}
+{"filename": "LicoriceSandwich/test/good/rgb/008.png", "filename_xyz": "LicoriceSandwich/test/good/xyz/008.tiff", "label": 0, "label_name": "good"}
+{"filename": "LicoriceSandwich/test/good/rgb/006.png", "filename_xyz": "LicoriceSandwich/test/good/xyz/006.tiff", "label": 0, "label_name": "good"}
+{"filename": "LicoriceSandwich/test/good/rgb/003.png", "filename_xyz": "LicoriceSandwich/test/good/xyz/003.tiff", "label": 0, "label_name": "good"}
+{"filename": "LicoriceSandwich/test/good/rgb/020.png", "filename_xyz": "LicoriceSandwich/test/good/xyz/020.tiff", "label": 0, "label_name": "good"}
+{"filename": "LicoriceSandwich/test/bad/rgb/035.png", "filename_xyz": "LicoriceSandwich/test/bad/xyz/035.tiff", "label": 1, "label_name": "defective", "maskname": "LicoriceSandwich/test/bad/gt/035.png"}
+{"filename": "LicoriceSandwich/test/bad/rgb/028.png", "filename_xyz": "LicoriceSandwich/test/bad/xyz/028.tiff", "label": 1, "label_name": "defective", "maskname": "LicoriceSandwich/test/bad/gt/028.png"}
+{"filename": "LicoriceSandwich/test/bad/rgb/041.png", "filename_xyz": "LicoriceSandwich/test/bad/xyz/041.tiff", "label": 1, "label_name": "defective", "maskname": "LicoriceSandwich/test/bad/gt/041.png"}
+{"filename": "LicoriceSandwich/test/bad/rgb/046.png", "filename_xyz": "LicoriceSandwich/test/bad/xyz/046.tiff", "label": 1, "label_name": "defective", "maskname": "LicoriceSandwich/test/bad/gt/046.png"}
+{"filename": "LicoriceSandwich/test/bad/rgb/042.png", "filename_xyz": "LicoriceSandwich/test/bad/xyz/042.tiff", "label": 1, "label_name": "defective", "maskname": "LicoriceSandwich/test/bad/gt/042.png"}
+{"filename": "LicoriceSandwich/test/bad/rgb/048.png", "filename_xyz": "LicoriceSandwich/test/bad/xyz/048.tiff", "label": 1, "label_name": "defective", "maskname": "LicoriceSandwich/test/bad/gt/048.png"}
+{"filename": "LicoriceSandwich/test/bad/rgb/032.png", "filename_xyz": "LicoriceSandwich/test/bad/xyz/032.tiff", "label": 1, "label_name": "defective", "maskname": "LicoriceSandwich/test/bad/gt/032.png"}
+{"filename": "LicoriceSandwich/test/bad/rgb/039.png", "filename_xyz": "LicoriceSandwich/test/bad/xyz/039.tiff", "label": 1, "label_name": "defective", "maskname": "LicoriceSandwich/test/bad/gt/039.png"}
+{"filename": "LicoriceSandwich/test/bad/rgb/033.png", "filename_xyz": "LicoriceSandwich/test/bad/xyz/033.tiff", "label": 1, "label_name": "defective", "maskname": "LicoriceSandwich/test/bad/gt/033.png"}
+{"filename": "LicoriceSandwich/test/bad/rgb/031.png", "filename_xyz": "LicoriceSandwich/test/bad/xyz/031.tiff", "label": 1, "label_name": "defective", "maskname": "LicoriceSandwich/test/bad/gt/031.png"}
+{"filename": "LicoriceSandwich/test/bad/rgb/044.png", "filename_xyz": "LicoriceSandwich/test/bad/xyz/044.tiff", "label": 1, "label_name": "defective", "maskname": "LicoriceSandwich/test/bad/gt/044.png"}
+{"filename": "LicoriceSandwich/test/bad/rgb/027.png", "filename_xyz": "LicoriceSandwich/test/bad/xyz/027.tiff", "label": 1, "label_name": "defective", "maskname": "LicoriceSandwich/test/bad/gt/027.png"}
+{"filename": "LicoriceSandwich/test/bad/rgb/034.png", "filename_xyz": "LicoriceSandwich/test/bad/xyz/034.tiff", "label": 1, "label_name": "defective", "maskname": "LicoriceSandwich/test/bad/gt/034.png"}
+{"filename": "LicoriceSandwich/test/bad/rgb/030.png", "filename_xyz": "LicoriceSandwich/test/bad/xyz/030.tiff", "label": 1, "label_name": "defective", "maskname": "LicoriceSandwich/test/bad/gt/030.png"}
+{"filename": "LicoriceSandwich/test/bad/rgb/037.png", "filename_xyz": "LicoriceSandwich/test/bad/xyz/037.tiff", "label": 1, "label_name": "defective", "maskname": "LicoriceSandwich/test/bad/gt/037.png"}
+{"filename": "LicoriceSandwich/test/bad/rgb/036.png", "filename_xyz": "LicoriceSandwich/test/bad/xyz/036.tiff", "label": 1, "label_name": "defective", "maskname": "LicoriceSandwich/test/bad/gt/036.png"}
+{"filename": "LicoriceSandwich/test/bad/rgb/049.png", "filename_xyz": "LicoriceSandwich/test/bad/xyz/049.tiff", "label": 1, "label_name": "defective", "maskname": "LicoriceSandwich/test/bad/gt/049.png"}
+{"filename": "LicoriceSandwich/test/bad/rgb/029.png", "filename_xyz": "LicoriceSandwich/test/bad/xyz/029.tiff", "label": 1, "label_name": "defective", "maskname": "LicoriceSandwich/test/bad/gt/029.png"}
+{"filename": "LicoriceSandwich/test/bad/rgb/026.png", "filename_xyz": "LicoriceSandwich/test/bad/xyz/026.tiff", "label": 1, "label_name": "defective", "maskname": "LicoriceSandwich/test/bad/gt/026.png"}
+{"filename": "LicoriceSandwich/test/bad/rgb/047.png", "filename_xyz": "LicoriceSandwich/test/bad/xyz/047.tiff", "label": 1, "label_name": "defective", "maskname": "LicoriceSandwich/test/bad/gt/047.png"}
+{"filename": "LicoriceSandwich/test/bad/rgb/043.png", "filename_xyz": "LicoriceSandwich/test/bad/xyz/043.tiff", "label": 1, "label_name": "defective", "maskname": "LicoriceSandwich/test/bad/gt/043.png"}
+{"filename": "LicoriceSandwich/test/bad/rgb/045.png", "filename_xyz": "LicoriceSandwich/test/bad/xyz/045.tiff", "label": 1, "label_name": "defective", "maskname": "LicoriceSandwich/test/bad/gt/045.png"}
+{"filename": "LicoriceSandwich/test/bad/rgb/038.png", "filename_xyz": "LicoriceSandwich/test/bad/xyz/038.tiff", "label": 1, "label_name": "defective", "maskname": "LicoriceSandwich/test/bad/gt/038.png"}
+{"filename": "LicoriceSandwich/test/bad/rgb/040.png", "filename_xyz": "LicoriceSandwich/test/bad/xyz/040.tiff", "label": 1, "label_name": "defective", "maskname": "LicoriceSandwich/test/bad/gt/040.png"}
+{"filename": "LicoriceSandwich/test/bad/rgb/025.png", "filename_xyz": "LicoriceSandwich/test/bad/xyz/025.tiff", "label": 1, "label_name": "defective", "maskname": "LicoriceSandwich/test/bad/gt/025.png"}
+{"filename": "CandyCane/test/good/rgb/018.png", "filename_xyz": "CandyCane/test/good/xyz/018.tiff", "label": 0, "label_name": "good"}
+{"filename": "CandyCane/test/good/rgb/016.png", "filename_xyz": "CandyCane/test/good/xyz/016.tiff", "label": 0, "label_name": "good"}
+{"filename": "CandyCane/test/good/rgb/009.png", "filename_xyz": "CandyCane/test/good/xyz/009.tiff", "label": 0, "label_name": "good"}
+{"filename": "CandyCane/test/good/rgb/007.png", "filename_xyz": "CandyCane/test/good/xyz/007.tiff", "label": 0, "label_name": "good"}
+{"filename": "CandyCane/test/good/rgb/014.png", "filename_xyz": "CandyCane/test/good/xyz/014.tiff", "label": 0, "label_name": "good"}
+{"filename": "CandyCane/test/good/rgb/000.png", "filename_xyz": "CandyCane/test/good/xyz/000.tiff", "label": 0, "label_name": "good"}
+{"filename": "CandyCane/test/good/rgb/017.png", "filename_xyz": "CandyCane/test/good/xyz/017.tiff", "label": 0, "label_name": "good"}
+{"filename": "CandyCane/test/good/rgb/022.png", "filename_xyz": "CandyCane/test/good/xyz/022.tiff", "label": 0, "label_name": "good"}
+{"filename": "CandyCane/test/good/rgb/019.png", "filename_xyz": "CandyCane/test/good/xyz/019.tiff", "label": 0, "label_name": "good"}
+{"filename": "CandyCane/test/good/rgb/012.png", "filename_xyz": "CandyCane/test/good/xyz/012.tiff", "label": 0, "label_name": "good"}
+{"filename": "CandyCane/test/good/rgb/010.png", "filename_xyz": "CandyCane/test/good/xyz/010.tiff", "label": 0, "label_name": "good"}
+{"filename": "CandyCane/test/good/rgb/024.png", "filename_xyz": "CandyCane/test/good/xyz/024.tiff", "label": 0, "label_name": "good"}
+{"filename": "CandyCane/test/good/rgb/004.png", "filename_xyz": "CandyCane/test/good/xyz/004.tiff", "label": 0, "label_name": "good"}
+{"filename": "CandyCane/test/good/rgb/011.png", "filename_xyz": "CandyCane/test/good/xyz/011.tiff", "label": 0, "label_name": "good"}
+{"filename": "CandyCane/test/good/rgb/005.png", "filename_xyz": "CandyCane/test/good/xyz/005.tiff", "label": 0, "label_name": "good"}
+{"filename": "CandyCane/test/good/rgb/015.png", "filename_xyz": "CandyCane/test/good/xyz/015.tiff", "label": 0, "label_name": "good"}
+{"filename": "CandyCane/test/good/rgb/013.png", "filename_xyz": "CandyCane/test/good/xyz/013.tiff", "label": 0, "label_name": "good"}
+{"filename": "CandyCane/test/good/rgb/001.png", "filename_xyz": "CandyCane/test/good/xyz/001.tiff", "label": 0, "label_name": "good"}
+{"filename": "CandyCane/test/good/rgb/021.png", "filename_xyz": "CandyCane/test/good/xyz/021.tiff", "label": 0, "label_name": "good"}
+{"filename": "CandyCane/test/good/rgb/023.png", "filename_xyz": "CandyCane/test/good/xyz/023.tiff", "label": 0, "label_name": "good"}
+{"filename": "CandyCane/test/good/rgb/002.png", "filename_xyz": "CandyCane/test/good/xyz/002.tiff", "label": 0, "label_name": "good"}
+{"filename": "CandyCane/test/good/rgb/008.png", "filename_xyz": "CandyCane/test/good/xyz/008.tiff", "label": 0, "label_name": "good"}
+{"filename": "CandyCane/test/good/rgb/006.png", "filename_xyz": "CandyCane/test/good/xyz/006.tiff", "label": 0, "label_name": "good"}
+{"filename": "CandyCane/test/good/rgb/003.png", "filename_xyz": "CandyCane/test/good/xyz/003.tiff", "label": 0, "label_name": "good"}
+{"filename": "CandyCane/test/good/rgb/020.png", "filename_xyz": "CandyCane/test/good/xyz/020.tiff", "label": 0, "label_name": "good"}
+{"filename": "CandyCane/test/bad/rgb/035.png", "filename_xyz": "CandyCane/test/bad/xyz/035.tiff", "label": 1, "label_name": "defective", "maskname": "CandyCane/test/bad/gt/035.png"}
+{"filename": "CandyCane/test/bad/rgb/028.png", "filename_xyz": "CandyCane/test/bad/xyz/028.tiff", "label": 1, "label_name": "defective", "maskname": "CandyCane/test/bad/gt/028.png"}
+{"filename": "CandyCane/test/bad/rgb/041.png", "filename_xyz": "CandyCane/test/bad/xyz/041.tiff", "label": 1, "label_name": "defective", "maskname": "CandyCane/test/bad/gt/041.png"}
+{"filename": "CandyCane/test/bad/rgb/046.png", "filename_xyz": "CandyCane/test/bad/xyz/046.tiff", "label": 1, "label_name": "defective", "maskname": "CandyCane/test/bad/gt/046.png"}
+{"filename": "CandyCane/test/bad/rgb/042.png", "filename_xyz": "CandyCane/test/bad/xyz/042.tiff", "label": 1, "label_name": "defective", "maskname": "CandyCane/test/bad/gt/042.png"}
+{"filename": "CandyCane/test/bad/rgb/048.png", "filename_xyz": "CandyCane/test/bad/xyz/048.tiff", "label": 1, "label_name": "defective", "maskname": "CandyCane/test/bad/gt/048.png"}
+{"filename": "CandyCane/test/bad/rgb/032.png", "filename_xyz": "CandyCane/test/bad/xyz/032.tiff", "label": 1, "label_name": "defective", "maskname": "CandyCane/test/bad/gt/032.png"}
+{"filename": "CandyCane/test/bad/rgb/039.png", "filename_xyz": "CandyCane/test/bad/xyz/039.tiff", "label": 1, "label_name": "defective", "maskname": "CandyCane/test/bad/gt/039.png"}
+{"filename": "CandyCane/test/bad/rgb/033.png", "filename_xyz": "CandyCane/test/bad/xyz/033.tiff", "label": 1, "label_name": "defective", "maskname": "CandyCane/test/bad/gt/033.png"}
+{"filename": "CandyCane/test/bad/rgb/031.png", "filename_xyz": "CandyCane/test/bad/xyz/031.tiff", "label": 1, "label_name": "defective", "maskname": "CandyCane/test/bad/gt/031.png"}
+{"filename": "CandyCane/test/bad/rgb/044.png", "filename_xyz": "CandyCane/test/bad/xyz/044.tiff", "label": 1, "label_name": "defective", "maskname": "CandyCane/test/bad/gt/044.png"}
+{"filename": "CandyCane/test/bad/rgb/027.png", "filename_xyz": "CandyCane/test/bad/xyz/027.tiff", "label": 1, "label_name": "defective", "maskname": "CandyCane/test/bad/gt/027.png"}
+{"filename": "CandyCane/test/bad/rgb/034.png", "filename_xyz": "CandyCane/test/bad/xyz/034.tiff", "label": 1, "label_name": "defective", "maskname": "CandyCane/test/bad/gt/034.png"}
+{"filename": "CandyCane/test/bad/rgb/030.png", "filename_xyz": "CandyCane/test/bad/xyz/030.tiff", "label": 1, "label_name": "defective", "maskname": "CandyCane/test/bad/gt/030.png"}
+{"filename": "CandyCane/test/bad/rgb/037.png", "filename_xyz": "CandyCane/test/bad/xyz/037.tiff", "label": 1, "label_name": "defective", "maskname": "CandyCane/test/bad/gt/037.png"}
+{"filename": "CandyCane/test/bad/rgb/036.png", "filename_xyz": "CandyCane/test/bad/xyz/036.tiff", "label": 1, "label_name": "defective", "maskname": "CandyCane/test/bad/gt/036.png"}
+{"filename": "CandyCane/test/bad/rgb/049.png", "filename_xyz": "CandyCane/test/bad/xyz/049.tiff", "label": 1, "label_name": "defective", "maskname": "CandyCane/test/bad/gt/049.png"}
+{"filename": "CandyCane/test/bad/rgb/029.png", "filename_xyz": "CandyCane/test/bad/xyz/029.tiff", "label": 1, "label_name": "defective", "maskname": "CandyCane/test/bad/gt/029.png"}
+{"filename": "CandyCane/test/bad/rgb/026.png", "filename_xyz": "CandyCane/test/bad/xyz/026.tiff", "label": 1, "label_name": "defective", "maskname": "CandyCane/test/bad/gt/026.png"}
+{"filename": "CandyCane/test/bad/rgb/047.png", "filename_xyz": "CandyCane/test/bad/xyz/047.tiff", "label": 1, "label_name": "defective", "maskname": "CandyCane/test/bad/gt/047.png"}
+{"filename": "CandyCane/test/bad/rgb/043.png", "filename_xyz": "CandyCane/test/bad/xyz/043.tiff", "label": 1, "label_name": "defective", "maskname": "CandyCane/test/bad/gt/043.png"}
+{"filename": "CandyCane/test/bad/rgb/045.png", "filename_xyz": "CandyCane/test/bad/xyz/045.tiff", "label": 1, "label_name": "defective", "maskname": "CandyCane/test/bad/gt/045.png"}
+{"filename": "CandyCane/test/bad/rgb/038.png", "filename_xyz": "CandyCane/test/bad/xyz/038.tiff", "label": 1, "label_name": "defective", "maskname": "CandyCane/test/bad/gt/038.png"}
+{"filename": "CandyCane/test/bad/rgb/040.png", "filename_xyz": "CandyCane/test/bad/xyz/040.tiff", "label": 1, "label_name": "defective", "maskname": "CandyCane/test/bad/gt/040.png"}
+{"filename": "CandyCane/test/bad/rgb/025.png", "filename_xyz": "CandyCane/test/bad/xyz/025.tiff", "label": 1, "label_name": "defective", "maskname": "CandyCane/test/bad/gt/025.png"}
+{"filename": "ChocolateCookie/test/good/rgb/018.png", "filename_xyz": "ChocolateCookie/test/good/xyz/018.tiff", "label": 0, "label_name": "good"}
+{"filename": "ChocolateCookie/test/good/rgb/016.png", "filename_xyz": "ChocolateCookie/test/good/xyz/016.tiff", "label": 0, "label_name": "good"}
+{"filename": "ChocolateCookie/test/good/rgb/009.png", "filename_xyz": "ChocolateCookie/test/good/xyz/009.tiff", "label": 0, "label_name": "good"}
+{"filename": "ChocolateCookie/test/good/rgb/007.png", "filename_xyz": "ChocolateCookie/test/good/xyz/007.tiff", "label": 0, "label_name": "good"}
+{"filename": "ChocolateCookie/test/good/rgb/014.png", "filename_xyz": "ChocolateCookie/test/good/xyz/014.tiff", "label": 0, "label_name": "good"}
+{"filename": "ChocolateCookie/test/good/rgb/000.png", "filename_xyz": "ChocolateCookie/test/good/xyz/000.tiff", "label": 0, "label_name": "good"}
+{"filename": "ChocolateCookie/test/good/rgb/017.png", "filename_xyz": "ChocolateCookie/test/good/xyz/017.tiff", "label": 0, "label_name": "good"}
+{"filename": "ChocolateCookie/test/good/rgb/022.png", "filename_xyz": "ChocolateCookie/test/good/xyz/022.tiff", "label": 0, "label_name": "good"}
+{"filename": "ChocolateCookie/test/good/rgb/019.png", "filename_xyz": "ChocolateCookie/test/good/xyz/019.tiff", "label": 0, "label_name": "good"}
+{"filename": "ChocolateCookie/test/good/rgb/012.png", "filename_xyz": "ChocolateCookie/test/good/xyz/012.tiff", "label": 0, "label_name": "good"}
+{"filename": "ChocolateCookie/test/good/rgb/010.png", "filename_xyz": "ChocolateCookie/test/good/xyz/010.tiff", "label": 0, "label_name": "good"}
+{"filename": "ChocolateCookie/test/good/rgb/024.png", "filename_xyz": "ChocolateCookie/test/good/xyz/024.tiff", "label": 0, "label_name": "good"}
+{"filename": "ChocolateCookie/test/good/rgb/004.png", "filename_xyz": "ChocolateCookie/test/good/xyz/004.tiff", "label": 0, "label_name": "good"}
+{"filename": "ChocolateCookie/test/good/rgb/011.png", "filename_xyz": "ChocolateCookie/test/good/xyz/011.tiff", "label": 0, "label_name": "good"}
+{"filename": "ChocolateCookie/test/good/rgb/005.png", "filename_xyz": "ChocolateCookie/test/good/xyz/005.tiff", "label": 0, "label_name": "good"}
+{"filename": "ChocolateCookie/test/good/rgb/015.png", "filename_xyz": "ChocolateCookie/test/good/xyz/015.tiff", "label": 0, "label_name": "good"}
+{"filename": "ChocolateCookie/test/good/rgb/013.png", "filename_xyz": "ChocolateCookie/test/good/xyz/013.tiff", "label": 0, "label_name": "good"}
+{"filename": "ChocolateCookie/test/good/rgb/001.png", "filename_xyz": "ChocolateCookie/test/good/xyz/001.tiff", "label": 0, "label_name": "good"}
+{"filename": "ChocolateCookie/test/good/rgb/021.png", "filename_xyz": "ChocolateCookie/test/good/xyz/021.tiff", "label": 0, "label_name": "good"}
+{"filename": "ChocolateCookie/test/good/rgb/023.png", "filename_xyz": "ChocolateCookie/test/good/xyz/023.tiff", "label": 0, "label_name": "good"}
+{"filename": "ChocolateCookie/test/good/rgb/002.png", "filename_xyz": "ChocolateCookie/test/good/xyz/002.tiff", "label": 0, "label_name": "good"}
+{"filename": "ChocolateCookie/test/good/rgb/008.png", "filename_xyz": "ChocolateCookie/test/good/xyz/008.tiff", "label": 0, "label_name": "good"}
+{"filename": "ChocolateCookie/test/good/rgb/006.png", "filename_xyz": "ChocolateCookie/test/good/xyz/006.tiff", "label": 0, "label_name": "good"}
+{"filename": "ChocolateCookie/test/good/rgb/003.png", "filename_xyz": "ChocolateCookie/test/good/xyz/003.tiff", "label": 0, "label_name": "good"}
+{"filename": "ChocolateCookie/test/good/rgb/020.png", "filename_xyz": "ChocolateCookie/test/good/xyz/020.tiff", "label": 0, "label_name": "good"}
+{"filename": "ChocolateCookie/test/bad/rgb/035.png", "filename_xyz": "ChocolateCookie/test/bad/xyz/035.tiff", "label": 1, "label_name": "defective", "maskname": "ChocolateCookie/test/bad/gt/035.png"}
+{"filename": "ChocolateCookie/test/bad/rgb/028.png", "filename_xyz": "ChocolateCookie/test/bad/xyz/028.tiff", "label": 1, "label_name": "defective", "maskname": "ChocolateCookie/test/bad/gt/028.png"}
+{"filename": "ChocolateCookie/test/bad/rgb/041.png", "filename_xyz": "ChocolateCookie/test/bad/xyz/041.tiff", "label": 1, "label_name": "defective", "maskname": "ChocolateCookie/test/bad/gt/041.png"}
+{"filename": "ChocolateCookie/test/bad/rgb/046.png", "filename_xyz": "ChocolateCookie/test/bad/xyz/046.tiff", "label": 1, "label_name": "defective", "maskname": "ChocolateCookie/test/bad/gt/046.png"}
+{"filename": "ChocolateCookie/test/bad/rgb/042.png", "filename_xyz": "ChocolateCookie/test/bad/xyz/042.tiff", "label": 1, "label_name": "defective", "maskname": "ChocolateCookie/test/bad/gt/042.png"}
+{"filename": "ChocolateCookie/test/bad/rgb/048.png", "filename_xyz": "ChocolateCookie/test/bad/xyz/048.tiff", "label": 1, "label_name": "defective", "maskname": "ChocolateCookie/test/bad/gt/048.png"}
+{"filename": "ChocolateCookie/test/bad/rgb/032.png", "filename_xyz": "ChocolateCookie/test/bad/xyz/032.tiff", "label": 1, "label_name": "defective", "maskname": "ChocolateCookie/test/bad/gt/032.png"}
+{"filename": "ChocolateCookie/test/bad/rgb/039.png", "filename_xyz": "ChocolateCookie/test/bad/xyz/039.tiff", "label": 1, "label_name": "defective", "maskname": "ChocolateCookie/test/bad/gt/039.png"}
+{"filename": "ChocolateCookie/test/bad/rgb/033.png", "filename_xyz": "ChocolateCookie/test/bad/xyz/033.tiff", "label": 1, "label_name": "defective", "maskname": "ChocolateCookie/test/bad/gt/033.png"}
+{"filename": "ChocolateCookie/test/bad/rgb/031.png", "filename_xyz": "ChocolateCookie/test/bad/xyz/031.tiff", "label": 1, "label_name": "defective", "maskname": "ChocolateCookie/test/bad/gt/031.png"}
+{"filename": "ChocolateCookie/test/bad/rgb/044.png", "filename_xyz": "ChocolateCookie/test/bad/xyz/044.tiff", "label": 1, "label_name": "defective", "maskname": "ChocolateCookie/test/bad/gt/044.png"}
+{"filename": "ChocolateCookie/test/bad/rgb/027.png", "filename_xyz": "ChocolateCookie/test/bad/xyz/027.tiff", "label": 1, "label_name": "defective", "maskname": "ChocolateCookie/test/bad/gt/027.png"}
+{"filename": "ChocolateCookie/test/bad/rgb/034.png", "filename_xyz": "ChocolateCookie/test/bad/xyz/034.tiff", "label": 1, "label_name": "defective", "maskname": "ChocolateCookie/test/bad/gt/034.png"}
+{"filename": "ChocolateCookie/test/bad/rgb/030.png", "filename_xyz": "ChocolateCookie/test/bad/xyz/030.tiff", "label": 1, "label_name": "defective", "maskname": "ChocolateCookie/test/bad/gt/030.png"}
+{"filename": "ChocolateCookie/test/bad/rgb/037.png", "filename_xyz": "ChocolateCookie/test/bad/xyz/037.tiff", "label": 1, "label_name": "defective", "maskname": "ChocolateCookie/test/bad/gt/037.png"}
+{"filename": "ChocolateCookie/test/bad/rgb/036.png", "filename_xyz": "ChocolateCookie/test/bad/xyz/036.tiff", "label": 1, "label_name": "defective", "maskname": "ChocolateCookie/test/bad/gt/036.png"}
+{"filename": "ChocolateCookie/test/bad/rgb/049.png", "filename_xyz": "ChocolateCookie/test/bad/xyz/049.tiff", "label": 1, "label_name": "defective", "maskname": "ChocolateCookie/test/bad/gt/049.png"}
+{"filename": "ChocolateCookie/test/bad/rgb/029.png", "filename_xyz": "ChocolateCookie/test/bad/xyz/029.tiff", "label": 1, "label_name": "defective", "maskname": "ChocolateCookie/test/bad/gt/029.png"}
+{"filename": "ChocolateCookie/test/bad/rgb/026.png", "filename_xyz": "ChocolateCookie/test/bad/xyz/026.tiff", "label": 1, "label_name": "defective", "maskname": "ChocolateCookie/test/bad/gt/026.png"}
+{"filename": "ChocolateCookie/test/bad/rgb/047.png", "filename_xyz": "ChocolateCookie/test/bad/xyz/047.tiff", "label": 1, "label_name": "defective", "maskname": "ChocolateCookie/test/bad/gt/047.png"}
+{"filename": "ChocolateCookie/test/bad/rgb/043.png", "filename_xyz": "ChocolateCookie/test/bad/xyz/043.tiff", "label": 1, "label_name": "defective", "maskname": "ChocolateCookie/test/bad/gt/043.png"}
+{"filename": "ChocolateCookie/test/bad/rgb/045.png", "filename_xyz": "ChocolateCookie/test/bad/xyz/045.tiff", "label": 1, "label_name": "defective", "maskname": "ChocolateCookie/test/bad/gt/045.png"}
+{"filename": "ChocolateCookie/test/bad/rgb/038.png", "filename_xyz": "ChocolateCookie/test/bad/xyz/038.tiff", "label": 1, "label_name": "defective", "maskname": "ChocolateCookie/test/bad/gt/038.png"}
+{"filename": "ChocolateCookie/test/bad/rgb/040.png", "filename_xyz": "ChocolateCookie/test/bad/xyz/040.tiff", "label": 1, "label_name": "defective", "maskname": "ChocolateCookie/test/bad/gt/040.png"}
+{"filename": "ChocolateCookie/test/bad/rgb/025.png", "filename_xyz": "ChocolateCookie/test/bad/xyz/025.tiff", "label": 1, "label_name": "defective", "maskname": "ChocolateCookie/test/bad/gt/025.png"}
+{"filename": "ChocolatePraline/test/good/rgb/018.png", "filename_xyz": "ChocolatePraline/test/good/xyz/018.tiff", "label": 0, "label_name": "good"}
+{"filename": "ChocolatePraline/test/good/rgb/016.png", "filename_xyz": "ChocolatePraline/test/good/xyz/016.tiff", "label": 0, "label_name": "good"}
+{"filename": "ChocolatePraline/test/good/rgb/009.png", "filename_xyz": "ChocolatePraline/test/good/xyz/009.tiff", "label": 0, "label_name": "good"}
+{"filename": "ChocolatePraline/test/good/rgb/007.png", "filename_xyz": "ChocolatePraline/test/good/xyz/007.tiff", "label": 0, "label_name": "good"}
+{"filename": "ChocolatePraline/test/good/rgb/014.png", "filename_xyz": "ChocolatePraline/test/good/xyz/014.tiff", "label": 0, "label_name": "good"}
+{"filename": "ChocolatePraline/test/good/rgb/000.png", "filename_xyz": "ChocolatePraline/test/good/xyz/000.tiff", "label": 0, "label_name": "good"}
+{"filename": "ChocolatePraline/test/good/rgb/017.png", "filename_xyz": "ChocolatePraline/test/good/xyz/017.tiff", "label": 0, "label_name": "good"}
+{"filename": "ChocolatePraline/test/good/rgb/022.png", "filename_xyz": "ChocolatePraline/test/good/xyz/022.tiff", "label": 0, "label_name": "good"}
+{"filename": "ChocolatePraline/test/good/rgb/019.png", "filename_xyz": "ChocolatePraline/test/good/xyz/019.tiff", "label": 0, "label_name": "good"}
+{"filename": "ChocolatePraline/test/good/rgb/012.png", "filename_xyz": "ChocolatePraline/test/good/xyz/012.tiff", "label": 0, "label_name": "good"}
+{"filename": "ChocolatePraline/test/good/rgb/010.png", "filename_xyz": "ChocolatePraline/test/good/xyz/010.tiff", "label": 0, "label_name": "good"}
+{"filename": "ChocolatePraline/test/good/rgb/024.png", "filename_xyz": "ChocolatePraline/test/good/xyz/024.tiff", "label": 0, "label_name": "good"}
+{"filename": "ChocolatePraline/test/good/rgb/004.png", "filename_xyz": "ChocolatePraline/test/good/xyz/004.tiff", "label": 0, "label_name": "good"}
+{"filename": "ChocolatePraline/test/good/rgb/011.png", "filename_xyz": "ChocolatePraline/test/good/xyz/011.tiff", "label": 0, "label_name": "good"}
+{"filename": "ChocolatePraline/test/good/rgb/005.png", "filename_xyz": "ChocolatePraline/test/good/xyz/005.tiff", "label": 0, "label_name": "good"}
+{"filename": "ChocolatePraline/test/good/rgb/015.png", "filename_xyz": "ChocolatePraline/test/good/xyz/015.tiff", "label": 0, "label_name": "good"}
+{"filename": "ChocolatePraline/test/good/rgb/013.png", "filename_xyz": "ChocolatePraline/test/good/xyz/013.tiff", "label": 0, "label_name": "good"}
+{"filename": "ChocolatePraline/test/good/rgb/001.png", "filename_xyz": "ChocolatePraline/test/good/xyz/001.tiff", "label": 0, "label_name": "good"}
+{"filename": "ChocolatePraline/test/good/rgb/021.png", "filename_xyz": "ChocolatePraline/test/good/xyz/021.tiff", "label": 0, "label_name": "good"}
+{"filename": "ChocolatePraline/test/good/rgb/023.png", "filename_xyz": "ChocolatePraline/test/good/xyz/023.tiff", "label": 0, "label_name": "good"}
+{"filename": "ChocolatePraline/test/good/rgb/002.png", "filename_xyz": "ChocolatePraline/test/good/xyz/002.tiff", "label": 0, "label_name": "good"}
+{"filename": "ChocolatePraline/test/good/rgb/008.png", "filename_xyz": "ChocolatePraline/test/good/xyz/008.tiff", "label": 0, "label_name": "good"}
+{"filename": "ChocolatePraline/test/good/rgb/006.png", "filename_xyz": "ChocolatePraline/test/good/xyz/006.tiff", "label": 0, "label_name": "good"}
+{"filename": "ChocolatePraline/test/good/rgb/003.png", "filename_xyz": "ChocolatePraline/test/good/xyz/003.tiff", "label": 0, "label_name": "good"}
+{"filename": "ChocolatePraline/test/good/rgb/020.png", "filename_xyz": "ChocolatePraline/test/good/xyz/020.tiff", "label": 0, "label_name": "good"}
+{"filename": "ChocolatePraline/test/bad/rgb/035.png", "filename_xyz": "ChocolatePraline/test/bad/xyz/035.tiff", "label": 1, "label_name": "defective", "maskname": "ChocolatePraline/test/bad/gt/035.png"}
+{"filename": "ChocolatePraline/test/bad/rgb/028.png", "filename_xyz": "ChocolatePraline/test/bad/xyz/028.tiff", "label": 1, "label_name": "defective", "maskname": "ChocolatePraline/test/bad/gt/028.png"}
+{"filename": "ChocolatePraline/test/bad/rgb/041.png", "filename_xyz": "ChocolatePraline/test/bad/xyz/041.tiff", "label": 1, "label_name": "defective", "maskname": "ChocolatePraline/test/bad/gt/041.png"}
+{"filename": "ChocolatePraline/test/bad/rgb/046.png", "filename_xyz": "ChocolatePraline/test/bad/xyz/046.tiff", "label": 1, "label_name": "defective", "maskname": "ChocolatePraline/test/bad/gt/046.png"}
+{"filename": "ChocolatePraline/test/bad/rgb/042.png", "filename_xyz": "ChocolatePraline/test/bad/xyz/042.tiff", "label": 1, "label_name": "defective", "maskname": "ChocolatePraline/test/bad/gt/042.png"}
+{"filename": "ChocolatePraline/test/bad/rgb/048.png", "filename_xyz": "ChocolatePraline/test/bad/xyz/048.tiff", "label": 1, "label_name": "defective", "maskname": "ChocolatePraline/test/bad/gt/048.png"}
+{"filename": "ChocolatePraline/test/bad/rgb/032.png", "filename_xyz": "ChocolatePraline/test/bad/xyz/032.tiff", "label": 1, "label_name": "defective", "maskname": "ChocolatePraline/test/bad/gt/032.png"}
+{"filename": "ChocolatePraline/test/bad/rgb/039.png", "filename_xyz": "ChocolatePraline/test/bad/xyz/039.tiff", "label": 1, "label_name": "defective", "maskname": "ChocolatePraline/test/bad/gt/039.png"}
+{"filename": "ChocolatePraline/test/bad/rgb/033.png", "filename_xyz": "ChocolatePraline/test/bad/xyz/033.tiff", "label": 1, "label_name": "defective", "maskname": "ChocolatePraline/test/bad/gt/033.png"}
+{"filename": "ChocolatePraline/test/bad/rgb/031.png", "filename_xyz": "ChocolatePraline/test/bad/xyz/031.tiff", "label": 1, "label_name": "defective", "maskname": "ChocolatePraline/test/bad/gt/031.png"}
+{"filename": "ChocolatePraline/test/bad/rgb/044.png", "filename_xyz": "ChocolatePraline/test/bad/xyz/044.tiff", "label": 1, "label_name": "defective", "maskname": "ChocolatePraline/test/bad/gt/044.png"}
+{"filename": "ChocolatePraline/test/bad/rgb/027.png", "filename_xyz": "ChocolatePraline/test/bad/xyz/027.tiff", "label": 1, "label_name": "defective", "maskname": "ChocolatePraline/test/bad/gt/027.png"}
+{"filename": "ChocolatePraline/test/bad/rgb/034.png", "filename_xyz": "ChocolatePraline/test/bad/xyz/034.tiff", "label": 1, "label_name": "defective", "maskname": "ChocolatePraline/test/bad/gt/034.png"}
+{"filename": "ChocolatePraline/test/bad/rgb/030.png", "filename_xyz": "ChocolatePraline/test/bad/xyz/030.tiff", "label": 1, "label_name": "defective", "maskname": "ChocolatePraline/test/bad/gt/030.png"}
+{"filename": "ChocolatePraline/test/bad/rgb/037.png", "filename_xyz": "ChocolatePraline/test/bad/xyz/037.tiff", "label": 1, "label_name": "defective", "maskname": "ChocolatePraline/test/bad/gt/037.png"}
+{"filename": "ChocolatePraline/test/bad/rgb/036.png", "filename_xyz": "ChocolatePraline/test/bad/xyz/036.tiff", "label": 1, "label_name": "defective", "maskname": "ChocolatePraline/test/bad/gt/036.png"}
+{"filename": "ChocolatePraline/test/bad/rgb/049.png", "filename_xyz": "ChocolatePraline/test/bad/xyz/049.tiff", "label": 1, "label_name": "defective", "maskname": "ChocolatePraline/test/bad/gt/049.png"}
+{"filename": "ChocolatePraline/test/bad/rgb/029.png", "filename_xyz": "ChocolatePraline/test/bad/xyz/029.tiff", "label": 1, "label_name": "defective", "maskname": "ChocolatePraline/test/bad/gt/029.png"}
+{"filename": "ChocolatePraline/test/bad/rgb/026.png", "filename_xyz": "ChocolatePraline/test/bad/xyz/026.tiff", "label": 1, "label_name": "defective", "maskname": "ChocolatePraline/test/bad/gt/026.png"}
+{"filename": "ChocolatePraline/test/bad/rgb/047.png", "filename_xyz": "ChocolatePraline/test/bad/xyz/047.tiff", "label": 1, "label_name": "defective", "maskname": "ChocolatePraline/test/bad/gt/047.png"}
+{"filename": "ChocolatePraline/test/bad/rgb/043.png", "filename_xyz": "ChocolatePraline/test/bad/xyz/043.tiff", "label": 1, "label_name": "defective", "maskname": "ChocolatePraline/test/bad/gt/043.png"}
+{"filename": "ChocolatePraline/test/bad/rgb/045.png", "filename_xyz": "ChocolatePraline/test/bad/xyz/045.tiff", "label": 1, "label_name": "defective", "maskname": "ChocolatePraline/test/bad/gt/045.png"}
+{"filename": "ChocolatePraline/test/bad/rgb/038.png", "filename_xyz": "ChocolatePraline/test/bad/xyz/038.tiff", "label": 1, "label_name": "defective", "maskname": "ChocolatePraline/test/bad/gt/038.png"}
+{"filename": "ChocolatePraline/test/bad/rgb/040.png", "filename_xyz": "ChocolatePraline/test/bad/xyz/040.tiff", "label": 1, "label_name": "defective", "maskname": "ChocolatePraline/test/bad/gt/040.png"}
+{"filename": "ChocolatePraline/test/bad/rgb/025.png", "filename_xyz": "ChocolatePraline/test/bad/xyz/025.tiff", "label": 1, "label_name": "defective", "maskname": "ChocolatePraline/test/bad/gt/025.png"}
+{"filename": "Confetto/test/good/rgb/018.png", "filename_xyz": "Confetto/test/good/xyz/018.tiff", "label": 0, "label_name": "good"}
+{"filename": "Confetto/test/good/rgb/016.png", "filename_xyz": "Confetto/test/good/xyz/016.tiff", "label": 0, "label_name": "good"}
+{"filename": "Confetto/test/good/rgb/009.png", "filename_xyz": "Confetto/test/good/xyz/009.tiff", "label": 0, "label_name": "good"}
+{"filename": "Confetto/test/good/rgb/007.png", "filename_xyz": "Confetto/test/good/xyz/007.tiff", "label": 0, "label_name": "good"}
+{"filename": "Confetto/test/good/rgb/014.png", "filename_xyz": "Confetto/test/good/xyz/014.tiff", "label": 0, "label_name": "good"}
+{"filename": "Confetto/test/good/rgb/000.png", "filename_xyz": "Confetto/test/good/xyz/000.tiff", "label": 0, "label_name": "good"}
+{"filename": "Confetto/test/good/rgb/017.png", "filename_xyz": "Confetto/test/good/xyz/017.tiff", "label": 0, "label_name": "good"}
+{"filename": "Confetto/test/good/rgb/022.png", "filename_xyz": "Confetto/test/good/xyz/022.tiff", "label": 0, "label_name": "good"}
+{"filename": "Confetto/test/good/rgb/019.png", "filename_xyz": "Confetto/test/good/xyz/019.tiff", "label": 0, "label_name": "good"}
+{"filename": "Confetto/test/good/rgb/012.png", "filename_xyz": "Confetto/test/good/xyz/012.tiff", "label": 0, "label_name": "good"}
+{"filename": "Confetto/test/good/rgb/010.png", "filename_xyz": "Confetto/test/good/xyz/010.tiff", "label": 0, "label_name": "good"}
+{"filename": "Confetto/test/good/rgb/024.png", "filename_xyz": "Confetto/test/good/xyz/024.tiff", "label": 0, "label_name": "good"}
+{"filename": "Confetto/test/good/rgb/004.png", "filename_xyz": "Confetto/test/good/xyz/004.tiff", "label": 0, "label_name": "good"}
+{"filename": "Confetto/test/good/rgb/011.png", "filename_xyz": "Confetto/test/good/xyz/011.tiff", "label": 0, "label_name": "good"}
+{"filename": "Confetto/test/good/rgb/005.png", "filename_xyz": "Confetto/test/good/xyz/005.tiff", "label": 0, "label_name": "good"}
+{"filename": "Confetto/test/good/rgb/015.png", "filename_xyz": "Confetto/test/good/xyz/015.tiff", "label": 0, "label_name": "good"}
+{"filename": "Confetto/test/good/rgb/013.png", "filename_xyz": "Confetto/test/good/xyz/013.tiff", "label": 0, "label_name": "good"}
+{"filename": "Confetto/test/good/rgb/001.png", "filename_xyz": "Confetto/test/good/xyz/001.tiff", "label": 0, "label_name": "good"}
+{"filename": "Confetto/test/good/rgb/021.png", "filename_xyz": "Confetto/test/good/xyz/021.tiff", "label": 0, "label_name": "good"}
+{"filename": "Confetto/test/good/rgb/023.png", "filename_xyz": "Confetto/test/good/xyz/023.tiff", "label": 0, "label_name": "good"}
+{"filename": "Confetto/test/good/rgb/002.png", "filename_xyz": "Confetto/test/good/xyz/002.tiff", "label": 0, "label_name": "good"}
+{"filename": "Confetto/test/good/rgb/008.png", "filename_xyz": "Confetto/test/good/xyz/008.tiff", "label": 0, "label_name": "good"}
+{"filename": "Confetto/test/good/rgb/006.png", "filename_xyz": "Confetto/test/good/xyz/006.tiff", "label": 0, "label_name": "good"}
+{"filename": "Confetto/test/good/rgb/003.png", "filename_xyz": "Confetto/test/good/xyz/003.tiff", "label": 0, "label_name": "good"}
+{"filename": "Confetto/test/good/rgb/020.png", "filename_xyz": "Confetto/test/good/xyz/020.tiff", "label": 0, "label_name": "good"}
+{"filename": "Confetto/test/bad/rgb/035.png", "filename_xyz": "Confetto/test/bad/xyz/035.tiff", "label": 1, "label_name": "defective", "maskname": "Confetto/test/bad/gt/035.png"}
+{"filename": "Confetto/test/bad/rgb/028.png", "filename_xyz": "Confetto/test/bad/xyz/028.tiff", "label": 1, "label_name": "defective", "maskname": "Confetto/test/bad/gt/028.png"}
+{"filename": "Confetto/test/bad/rgb/041.png", "filename_xyz": "Confetto/test/bad/xyz/041.tiff", "label": 1, "label_name": "defective", "maskname": "Confetto/test/bad/gt/041.png"}
+{"filename": "Confetto/test/bad/rgb/046.png", "filename_xyz": "Confetto/test/bad/xyz/046.tiff", "label": 1, "label_name": "defective", "maskname": "Confetto/test/bad/gt/046.png"}
+{"filename": "Confetto/test/bad/rgb/042.png", "filename_xyz": "Confetto/test/bad/xyz/042.tiff", "label": 1, "label_name": "defective", "maskname": "Confetto/test/bad/gt/042.png"}
+{"filename": "Confetto/test/bad/rgb/048.png", "filename_xyz": "Confetto/test/bad/xyz/048.tiff", "label": 1, "label_name": "defective", "maskname": "Confetto/test/bad/gt/048.png"}
+{"filename": "Confetto/test/bad/rgb/032.png", "filename_xyz": "Confetto/test/bad/xyz/032.tiff", "label": 1, "label_name": "defective", "maskname": "Confetto/test/bad/gt/032.png"}
+{"filename": "Confetto/test/bad/rgb/039.png", "filename_xyz": "Confetto/test/bad/xyz/039.tiff", "label": 1, "label_name": "defective", "maskname": "Confetto/test/bad/gt/039.png"}
+{"filename": "Confetto/test/bad/rgb/033.png", "filename_xyz": "Confetto/test/bad/xyz/033.tiff", "label": 1, "label_name": "defective", "maskname": "Confetto/test/bad/gt/033.png"}
+{"filename": "Confetto/test/bad/rgb/031.png", "filename_xyz": "Confetto/test/bad/xyz/031.tiff", "label": 1, "label_name": "defective", "maskname": "Confetto/test/bad/gt/031.png"}
+{"filename": "Confetto/test/bad/rgb/044.png", "filename_xyz": "Confetto/test/bad/xyz/044.tiff", "label": 1, "label_name": "defective", "maskname": "Confetto/test/bad/gt/044.png"}
+{"filename": "Confetto/test/bad/rgb/027.png", "filename_xyz": "Confetto/test/bad/xyz/027.tiff", "label": 1, "label_name": "defective", "maskname": "Confetto/test/bad/gt/027.png"}
+{"filename": "Confetto/test/bad/rgb/034.png", "filename_xyz": "Confetto/test/bad/xyz/034.tiff", "label": 1, "label_name": "defective", "maskname": "Confetto/test/bad/gt/034.png"}
+{"filename": "Confetto/test/bad/rgb/030.png", "filename_xyz": "Confetto/test/bad/xyz/030.tiff", "label": 1, "label_name": "defective", "maskname": "Confetto/test/bad/gt/030.png"}
+{"filename": "Confetto/test/bad/rgb/037.png", "filename_xyz": "Confetto/test/bad/xyz/037.tiff", "label": 1, "label_name": "defective", "maskname": "Confetto/test/bad/gt/037.png"}
+{"filename": "Confetto/test/bad/rgb/036.png", "filename_xyz": "Confetto/test/bad/xyz/036.tiff", "label": 1, "label_name": "defective", "maskname": "Confetto/test/bad/gt/036.png"}
+{"filename": "Confetto/test/bad/rgb/049.png", "filename_xyz": "Confetto/test/bad/xyz/049.tiff", "label": 1, "label_name": "defective", "maskname": "Confetto/test/bad/gt/049.png"}
+{"filename": "Confetto/test/bad/rgb/029.png", "filename_xyz": "Confetto/test/bad/xyz/029.tiff", "label": 1, "label_name": "defective", "maskname": "Confetto/test/bad/gt/029.png"}
+{"filename": "Confetto/test/bad/rgb/026.png", "filename_xyz": "Confetto/test/bad/xyz/026.tiff", "label": 1, "label_name": "defective", "maskname": "Confetto/test/bad/gt/026.png"}
+{"filename": "Confetto/test/bad/rgb/047.png", "filename_xyz": "Confetto/test/bad/xyz/047.tiff", "label": 1, "label_name": "defective", "maskname": "Confetto/test/bad/gt/047.png"}
+{"filename": "Confetto/test/bad/rgb/043.png", "filename_xyz": "Confetto/test/bad/xyz/043.tiff", "label": 1, "label_name": "defective", "maskname": "Confetto/test/bad/gt/043.png"}
+{"filename": "Confetto/test/bad/rgb/045.png", "filename_xyz": "Confetto/test/bad/xyz/045.tiff", "label": 1, "label_name": "defective", "maskname": "Confetto/test/bad/gt/045.png"}
+{"filename": "Confetto/test/bad/rgb/038.png", "filename_xyz": "Confetto/test/bad/xyz/038.tiff", "label": 1, "label_name": "defective", "maskname": "Confetto/test/bad/gt/038.png"}
+{"filename": "Confetto/test/bad/rgb/040.png", "filename_xyz": "Confetto/test/bad/xyz/040.tiff", "label": 1, "label_name": "defective", "maskname": "Confetto/test/bad/gt/040.png"}
+{"filename": "Confetto/test/bad/rgb/025.png", "filename_xyz": "Confetto/test/bad/xyz/025.tiff", "label": 1, "label_name": "defective", "maskname": "Confetto/test/bad/gt/025.png"}
+{"filename": "GummyBear/test/good/rgb/041.png", "filename_xyz": "GummyBear/test/good/xyz/041.tiff", "label": 0, "label_name": "good"}
+{"filename": "GummyBear/test/good/rgb/018.png", "filename_xyz": "GummyBear/test/good/xyz/018.tiff", "label": 0, "label_name": "good"}
+{"filename": "GummyBear/test/good/rgb/016.png", "filename_xyz": "GummyBear/test/good/xyz/016.tiff", "label": 0, "label_name": "good"}
+{"filename": "GummyBear/test/good/rgb/009.png", "filename_xyz": "GummyBear/test/good/xyz/009.tiff", "label": 0, "label_name": "good"}
+{"filename": "GummyBear/test/good/rgb/007.png", "filename_xyz": "GummyBear/test/good/xyz/007.tiff", "label": 0, "label_name": "good"}
+{"filename": "GummyBear/test/good/rgb/014.png", "filename_xyz": "GummyBear/test/good/xyz/014.tiff", "label": 0, "label_name": "good"}
+{"filename": "GummyBear/test/good/rgb/000.png", "filename_xyz": "GummyBear/test/good/xyz/000.tiff", "label": 0, "label_name": "good"}
+{"filename": "GummyBear/test/good/rgb/017.png", "filename_xyz": "GummyBear/test/good/xyz/017.tiff", "label": 0, "label_name": "good"}
+{"filename": "GummyBear/test/good/rgb/022.png", "filename_xyz": "GummyBear/test/good/xyz/022.tiff", "label": 0, "label_name": "good"}
+{"filename": "GummyBear/test/good/rgb/019.png", "filename_xyz": "GummyBear/test/good/xyz/019.tiff", "label": 0, "label_name": "good"}
+{"filename": "GummyBear/test/good/rgb/012.png", "filename_xyz": "GummyBear/test/good/xyz/012.tiff", "label": 0, "label_name": "good"}
+{"filename": "GummyBear/test/good/rgb/010.png", "filename_xyz": "GummyBear/test/good/xyz/010.tiff", "label": 0, "label_name": "good"}
+{"filename": "GummyBear/test/good/rgb/024.png", "filename_xyz": "GummyBear/test/good/xyz/024.tiff", "label": 0, "label_name": "good"}
+{"filename": "GummyBear/test/good/rgb/004.png", "filename_xyz": "GummyBear/test/good/xyz/004.tiff", "label": 0, "label_name": "good"}
+{"filename": "GummyBear/test/good/rgb/011.png", "filename_xyz": "GummyBear/test/good/xyz/011.tiff", "label": 0, "label_name": "good"}
+{"filename": "GummyBear/test/good/rgb/005.png", "filename_xyz": "GummyBear/test/good/xyz/005.tiff", "label": 0, "label_name": "good"}
+{"filename": "GummyBear/test/good/rgb/015.png", "filename_xyz": "GummyBear/test/good/xyz/015.tiff", "label": 0, "label_name": "good"}
+{"filename": "GummyBear/test/good/rgb/013.png", "filename_xyz": "GummyBear/test/good/xyz/013.tiff", "label": 0, "label_name": "good"}
+{"filename": "GummyBear/test/good/rgb/001.png", "filename_xyz": "GummyBear/test/good/xyz/001.tiff", "label": 0, "label_name": "good"}
+{"filename": "GummyBear/test/good/rgb/021.png", "filename_xyz": "GummyBear/test/good/xyz/021.tiff", "label": 0, "label_name": "good"}
+{"filename": "GummyBear/test/good/rgb/023.png", "filename_xyz": "GummyBear/test/good/xyz/023.tiff", "label": 0, "label_name": "good"}
+{"filename": "GummyBear/test/good/rgb/002.png", "filename_xyz": "GummyBear/test/good/xyz/002.tiff", "label": 0, "label_name": "good"}
+{"filename": "GummyBear/test/good/rgb/008.png", "filename_xyz": "GummyBear/test/good/xyz/008.tiff", "label": 0, "label_name": "good"}
+{"filename": "GummyBear/test/good/rgb/006.png", "filename_xyz": "GummyBear/test/good/xyz/006.tiff", "label": 0, "label_name": "good"}
+{"filename": "GummyBear/test/good/rgb/003.png", "filename_xyz": "GummyBear/test/good/xyz/003.tiff", "label": 0, "label_name": "good"}
+{"filename": "GummyBear/test/good/rgb/020.png", "filename_xyz": "GummyBear/test/good/xyz/020.tiff", "label": 0, "label_name": "good"}
+{"filename": "GummyBear/test/bad/rgb/035.png", "filename_xyz": "GummyBear/test/bad/xyz/035.tiff", "label": 1, "label_name": "defective", "maskname": "GummyBear/test/bad/gt/035.png"}
+{"filename": "GummyBear/test/bad/rgb/028.png", "filename_xyz": "GummyBear/test/bad/xyz/028.tiff", "label": 1, "label_name": "defective", "maskname": "GummyBear/test/bad/gt/028.png"}
+{"filename": "GummyBear/test/bad/rgb/046.png", "filename_xyz": "GummyBear/test/bad/xyz/046.tiff", "label": 1, "label_name": "defective", "maskname": "GummyBear/test/bad/gt/046.png"}
+{"filename": "GummyBear/test/bad/rgb/042.png", "filename_xyz": "GummyBear/test/bad/xyz/042.tiff", "label": 1, "label_name": "defective", "maskname": "GummyBear/test/bad/gt/042.png"}
+{"filename": "GummyBear/test/bad/rgb/048.png", "filename_xyz": "GummyBear/test/bad/xyz/048.tiff", "label": 1, "label_name": "defective", "maskname": "GummyBear/test/bad/gt/048.png"}
+{"filename": "GummyBear/test/bad/rgb/032.png", "filename_xyz": "GummyBear/test/bad/xyz/032.tiff", "label": 1, "label_name": "defective", "maskname": "GummyBear/test/bad/gt/032.png"}
+{"filename": "GummyBear/test/bad/rgb/039.png", "filename_xyz": "GummyBear/test/bad/xyz/039.tiff", "label": 1, "label_name": "defective", "maskname": "GummyBear/test/bad/gt/039.png"}
+{"filename": "GummyBear/test/bad/rgb/033.png", "filename_xyz": "GummyBear/test/bad/xyz/033.tiff", "label": 1, "label_name": "defective", "maskname": "GummyBear/test/bad/gt/033.png"}
+{"filename": "GummyBear/test/bad/rgb/031.png", "filename_xyz": "GummyBear/test/bad/xyz/031.tiff", "label": 1, "label_name": "defective", "maskname": "GummyBear/test/bad/gt/031.png"}
+{"filename": "GummyBear/test/bad/rgb/044.png", "filename_xyz": "GummyBear/test/bad/xyz/044.tiff", "label": 1, "label_name": "defective", "maskname": "GummyBear/test/bad/gt/044.png"}
+{"filename": "GummyBear/test/bad/rgb/027.png", "filename_xyz": "GummyBear/test/bad/xyz/027.tiff", "label": 1, "label_name": "defective", "maskname": "GummyBear/test/bad/gt/027.png"}
+{"filename": "GummyBear/test/bad/rgb/034.png", "filename_xyz": "GummyBear/test/bad/xyz/034.tiff", "label": 1, "label_name": "defective", "maskname": "GummyBear/test/bad/gt/034.png"}
+{"filename": "GummyBear/test/bad/rgb/030.png", "filename_xyz": "GummyBear/test/bad/xyz/030.tiff", "label": 1, "label_name": "defective", "maskname": "GummyBear/test/bad/gt/030.png"}
+{"filename": "GummyBear/test/bad/rgb/037.png", "filename_xyz": "GummyBear/test/bad/xyz/037.tiff", "label": 1, "label_name": "defective", "maskname": "GummyBear/test/bad/gt/037.png"}
+{"filename": "GummyBear/test/bad/rgb/036.png", "filename_xyz": "GummyBear/test/bad/xyz/036.tiff", "label": 1, "label_name": "defective", "maskname": "GummyBear/test/bad/gt/036.png"}
+{"filename": "GummyBear/test/bad/rgb/049.png", "filename_xyz": "GummyBear/test/bad/xyz/049.tiff", "label": 1, "label_name": "defective", "maskname": "GummyBear/test/bad/gt/049.png"}
+{"filename": "GummyBear/test/bad/rgb/029.png", "filename_xyz": "GummyBear/test/bad/xyz/029.tiff", "label": 1, "label_name": "defective", "maskname": "GummyBear/test/bad/gt/029.png"}
+{"filename": "GummyBear/test/bad/rgb/026.png", "filename_xyz": "GummyBear/test/bad/xyz/026.tiff", "label": 1, "label_name": "defective", "maskname": "GummyBear/test/bad/gt/026.png"}
+{"filename": "GummyBear/test/bad/rgb/047.png", "filename_xyz": "GummyBear/test/bad/xyz/047.tiff", "label": 1, "label_name": "defective", "maskname": "GummyBear/test/bad/gt/047.png"}
+{"filename": "GummyBear/test/bad/rgb/043.png", "filename_xyz": "GummyBear/test/bad/xyz/043.tiff", "label": 1, "label_name": "defective", "maskname": "GummyBear/test/bad/gt/043.png"}
+{"filename": "GummyBear/test/bad/rgb/045.png", "filename_xyz": "GummyBear/test/bad/xyz/045.tiff", "label": 1, "label_name": "defective", "maskname": "GummyBear/test/bad/gt/045.png"}
+{"filename": "GummyBear/test/bad/rgb/038.png", "filename_xyz": "GummyBear/test/bad/xyz/038.tiff", "label": 1, "label_name": "defective", "maskname": "GummyBear/test/bad/gt/038.png"}
+{"filename": "GummyBear/test/bad/rgb/040.png", "filename_xyz": "GummyBear/test/bad/xyz/040.tiff", "label": 1, "label_name": "defective", "maskname": "GummyBear/test/bad/gt/040.png"}
+{"filename": "GummyBear/test/bad/rgb/025.png", "filename_xyz": "GummyBear/test/bad/xyz/025.tiff", "label": 1, "label_name": "defective", "maskname": "GummyBear/test/bad/gt/025.png"}
+{"filename": "HazelnutTruffle/test/good/rgb/018.png", "filename_xyz": "HazelnutTruffle/test/good/xyz/018.tiff", "label": 0, "label_name": "good"}
+{"filename": "HazelnutTruffle/test/good/rgb/016.png", "filename_xyz": "HazelnutTruffle/test/good/xyz/016.tiff", "label": 0, "label_name": "good"}
+{"filename": "HazelnutTruffle/test/good/rgb/009.png", "filename_xyz": "HazelnutTruffle/test/good/xyz/009.tiff", "label": 0, "label_name": "good"}
+{"filename": "HazelnutTruffle/test/good/rgb/007.png", "filename_xyz": "HazelnutTruffle/test/good/xyz/007.tiff", "label": 0, "label_name": "good"}
+{"filename": "HazelnutTruffle/test/good/rgb/014.png", "filename_xyz": "HazelnutTruffle/test/good/xyz/014.tiff", "label": 0, "label_name": "good"}
+{"filename": "HazelnutTruffle/test/good/rgb/000.png", "filename_xyz": "HazelnutTruffle/test/good/xyz/000.tiff", "label": 0, "label_name": "good"}
+{"filename": "HazelnutTruffle/test/good/rgb/017.png", "filename_xyz": "HazelnutTruffle/test/good/xyz/017.tiff", "label": 0, "label_name": "good"}
+{"filename": "HazelnutTruffle/test/good/rgb/022.png", "filename_xyz": "HazelnutTruffle/test/good/xyz/022.tiff", "label": 0, "label_name": "good"}
+{"filename": "HazelnutTruffle/test/good/rgb/019.png", "filename_xyz": "HazelnutTruffle/test/good/xyz/019.tiff", "label": 0, "label_name": "good"}
+{"filename": "HazelnutTruffle/test/good/rgb/012.png", "filename_xyz": "HazelnutTruffle/test/good/xyz/012.tiff", "label": 0, "label_name": "good"}
+{"filename": "HazelnutTruffle/test/good/rgb/010.png", "filename_xyz": "HazelnutTruffle/test/good/xyz/010.tiff", "label": 0, "label_name": "good"}
+{"filename": "HazelnutTruffle/test/good/rgb/024.png", "filename_xyz": "HazelnutTruffle/test/good/xyz/024.tiff", "label": 0, "label_name": "good"}
+{"filename": "HazelnutTruffle/test/good/rgb/004.png", "filename_xyz": "HazelnutTruffle/test/good/xyz/004.tiff", "label": 0, "label_name": "good"}
+{"filename": "HazelnutTruffle/test/good/rgb/011.png", "filename_xyz": "HazelnutTruffle/test/good/xyz/011.tiff", "label": 0, "label_name": "good"}
+{"filename": "HazelnutTruffle/test/good/rgb/005.png", "filename_xyz": "HazelnutTruffle/test/good/xyz/005.tiff", "label": 0, "label_name": "good"}
+{"filename": "HazelnutTruffle/test/good/rgb/015.png", "filename_xyz": "HazelnutTruffle/test/good/xyz/015.tiff", "label": 0, "label_name": "good"}
+{"filename": "HazelnutTruffle/test/good/rgb/013.png", "filename_xyz": "HazelnutTruffle/test/good/xyz/013.tiff", "label": 0, "label_name": "good"}
+{"filename": "HazelnutTruffle/test/good/rgb/001.png", "filename_xyz": "HazelnutTruffle/test/good/xyz/001.tiff", "label": 0, "label_name": "good"}
+{"filename": "HazelnutTruffle/test/good/rgb/021.png", "filename_xyz": "HazelnutTruffle/test/good/xyz/021.tiff", "label": 0, "label_name": "good"}
+{"filename": "HazelnutTruffle/test/good/rgb/023.png", "filename_xyz": "HazelnutTruffle/test/good/xyz/023.tiff", "label": 0, "label_name": "good"}
+{"filename": "HazelnutTruffle/test/good/rgb/002.png", "filename_xyz": "HazelnutTruffle/test/good/xyz/002.tiff", "label": 0, "label_name": "good"}
+{"filename": "HazelnutTruffle/test/good/rgb/008.png", "filename_xyz": "HazelnutTruffle/test/good/xyz/008.tiff", "label": 0, "label_name": "good"}
+{"filename": "HazelnutTruffle/test/good/rgb/006.png", "filename_xyz": "HazelnutTruffle/test/good/xyz/006.tiff", "label": 0, "label_name": "good"}
+{"filename": "HazelnutTruffle/test/good/rgb/003.png", "filename_xyz": "HazelnutTruffle/test/good/xyz/003.tiff", "label": 0, "label_name": "good"}
+{"filename": "HazelnutTruffle/test/good/rgb/020.png", "filename_xyz": "HazelnutTruffle/test/good/xyz/020.tiff", "label": 0, "label_name": "good"}
+{"filename": "HazelnutTruffle/test/bad/rgb/035.png", "filename_xyz": "HazelnutTruffle/test/bad/xyz/035.tiff", "label": 1, "label_name": "defective", "maskname": "HazelnutTruffle/test/bad/gt/035.png"}
+{"filename": "HazelnutTruffle/test/bad/rgb/028.png", "filename_xyz": "HazelnutTruffle/test/bad/xyz/028.tiff", "label": 1, "label_name": "defective", "maskname": "HazelnutTruffle/test/bad/gt/028.png"}
+{"filename": "HazelnutTruffle/test/bad/rgb/041.png", "filename_xyz": "HazelnutTruffle/test/bad/xyz/041.tiff", "label": 1, "label_name": "defective", "maskname": "HazelnutTruffle/test/bad/gt/041.png"}
+{"filename": "HazelnutTruffle/test/bad/rgb/046.png", "filename_xyz": "HazelnutTruffle/test/bad/xyz/046.tiff", "label": 1, "label_name": "defective", "maskname": "HazelnutTruffle/test/bad/gt/046.png"}
+{"filename": "HazelnutTruffle/test/bad/rgb/042.png", "filename_xyz": "HazelnutTruffle/test/bad/xyz/042.tiff", "label": 1, "label_name": "defective", "maskname": "HazelnutTruffle/test/bad/gt/042.png"}
+{"filename": "HazelnutTruffle/test/bad/rgb/048.png", "filename_xyz": "HazelnutTruffle/test/bad/xyz/048.tiff", "label": 1, "label_name": "defective", "maskname": "HazelnutTruffle/test/bad/gt/048.png"}
+{"filename": "HazelnutTruffle/test/bad/rgb/032.png", "filename_xyz": "HazelnutTruffle/test/bad/xyz/032.tiff", "label": 1, "label_name": "defective", "maskname": "HazelnutTruffle/test/bad/gt/032.png"}
+{"filename": "HazelnutTruffle/test/bad/rgb/039.png", "filename_xyz": "HazelnutTruffle/test/bad/xyz/039.tiff", "label": 1, "label_name": "defective", "maskname": "HazelnutTruffle/test/bad/gt/039.png"}
+{"filename": "HazelnutTruffle/test/bad/rgb/033.png", "filename_xyz": "HazelnutTruffle/test/bad/xyz/033.tiff", "label": 1, "label_name": "defective", "maskname": "HazelnutTruffle/test/bad/gt/033.png"}
+{"filename": "HazelnutTruffle/test/bad/rgb/031.png", "filename_xyz": "HazelnutTruffle/test/bad/xyz/031.tiff", "label": 1, "label_name": "defective", "maskname": "HazelnutTruffle/test/bad/gt/031.png"}
+{"filename": "HazelnutTruffle/test/bad/rgb/044.png", "filename_xyz": "HazelnutTruffle/test/bad/xyz/044.tiff", "label": 1, "label_name": "defective", "maskname": "HazelnutTruffle/test/bad/gt/044.png"}
+{"filename": "HazelnutTruffle/test/bad/rgb/027.png", "filename_xyz": "HazelnutTruffle/test/bad/xyz/027.tiff", "label": 1, "label_name": "defective", "maskname": "HazelnutTruffle/test/bad/gt/027.png"}
+{"filename": "HazelnutTruffle/test/bad/rgb/034.png", "filename_xyz": "HazelnutTruffle/test/bad/xyz/034.tiff", "label": 1, "label_name": "defective", "maskname": "HazelnutTruffle/test/bad/gt/034.png"}
+{"filename": "HazelnutTruffle/test/bad/rgb/030.png", "filename_xyz": "HazelnutTruffle/test/bad/xyz/030.tiff", "label": 1, "label_name": "defective", "maskname": "HazelnutTruffle/test/bad/gt/030.png"}
+{"filename": "HazelnutTruffle/test/bad/rgb/037.png", "filename_xyz": "HazelnutTruffle/test/bad/xyz/037.tiff", "label": 1, "label_name": "defective", "maskname": "HazelnutTruffle/test/bad/gt/037.png"}
+{"filename": "HazelnutTruffle/test/bad/rgb/036.png", "filename_xyz": "HazelnutTruffle/test/bad/xyz/036.tiff", "label": 1, "label_name": "defective", "maskname": "HazelnutTruffle/test/bad/gt/036.png"}
+{"filename": "HazelnutTruffle/test/bad/rgb/049.png", "filename_xyz": "HazelnutTruffle/test/bad/xyz/049.tiff", "label": 1, "label_name": "defective", "maskname": "HazelnutTruffle/test/bad/gt/049.png"}
+{"filename": "HazelnutTruffle/test/bad/rgb/029.png", "filename_xyz": "HazelnutTruffle/test/bad/xyz/029.tiff", "label": 1, "label_name": "defective", "maskname": "HazelnutTruffle/test/bad/gt/029.png"}
+{"filename": "HazelnutTruffle/test/bad/rgb/026.png", "filename_xyz": "HazelnutTruffle/test/bad/xyz/026.tiff", "label": 1, "label_name": "defective", "maskname": "HazelnutTruffle/test/bad/gt/026.png"}
+{"filename": "HazelnutTruffle/test/bad/rgb/047.png", "filename_xyz": "HazelnutTruffle/test/bad/xyz/047.tiff", "label": 1, "label_name": "defective", "maskname": "HazelnutTruffle/test/bad/gt/047.png"}
+{"filename": "HazelnutTruffle/test/bad/rgb/043.png", "filename_xyz": "HazelnutTruffle/test/bad/xyz/043.tiff", "label": 1, "label_name": "defective", "maskname": "HazelnutTruffle/test/bad/gt/043.png"}
+{"filename": "HazelnutTruffle/test/bad/rgb/045.png", "filename_xyz": "HazelnutTruffle/test/bad/xyz/045.tiff", "label": 1, "label_name": "defective", "maskname": "HazelnutTruffle/test/bad/gt/045.png"}
+{"filename": "HazelnutTruffle/test/bad/rgb/038.png", "filename_xyz": "HazelnutTruffle/test/bad/xyz/038.tiff", "label": 1, "label_name": "defective", "maskname": "HazelnutTruffle/test/bad/gt/038.png"}
+{"filename": "HazelnutTruffle/test/bad/rgb/040.png", "filename_xyz": "HazelnutTruffle/test/bad/xyz/040.tiff", "label": 1, "label_name": "defective", "maskname": "HazelnutTruffle/test/bad/gt/040.png"}
+{"filename": "HazelnutTruffle/test/bad/rgb/025.png", "filename_xyz": "HazelnutTruffle/test/bad/xyz/025.tiff", "label": 1, "label_name": "defective", "maskname": "HazelnutTruffle/test/bad/gt/025.png"}

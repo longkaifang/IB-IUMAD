@@ -1,0 +1,50 @@
+{"filename": "Marshmallow/test/good/rgb/018.png", "filename_xyz": "Marshmallow/test/good/xyz/018.tiff", "label": 0, "label_name": "good", "clsname": "Marshmallow"}
+{"filename": "Marshmallow/test/good/rgb/016.png", "filename_xyz": "Marshmallow/test/good/xyz/016.tiff", "label": 0, "label_name": "good", "clsname": "Marshmallow"}
+{"filename": "Marshmallow/test/good/rgb/009.png", "filename_xyz": "Marshmallow/test/good/xyz/009.tiff", "label": 0, "label_name": "good", "clsname": "Marshmallow"}
+{"filename": "Marshmallow/test/good/rgb/007.png", "filename_xyz": "Marshmallow/test/good/xyz/007.tiff", "label": 0, "label_name": "good", "clsname": "Marshmallow"}
+{"filename": "Marshmallow/test/good/rgb/014.png", "filename_xyz": "Marshmallow/test/good/xyz/014.tiff", "label": 0, "label_name": "good", "clsname": "Marshmallow"}
+{"filename": "Marshmallow/test/good/rgb/000.png", "filename_xyz": "Marshmallow/test/good/xyz/000.tiff", "label": 0, "label_name": "good", "clsname": "Marshmallow"}
+{"filename": "Marshmallow/test/good/rgb/017.png", "filename_xyz": "Marshmallow/test/good/xyz/017.tiff", "label": 0, "label_name": "good", "clsname": "Marshmallow"}
+{"filename": "Marshmallow/test/good/rgb/022.png", "filename_xyz": "Marshmallow/test/good/xyz/022.tiff", "label": 0, "label_name": "good", "clsname": "Marshmallow"}
+{"filename": "Marshmallow/test/good/rgb/019.png", "filename_xyz": "Marshmallow/test/good/xyz/019.tiff", "label": 0, "label_name": "good", "clsname": "Marshmallow"}
+{"filename": "Marshmallow/test/good/rgb/012.png", "filename_xyz": "Marshmallow/test/good/xyz/012.tiff", "label": 0, "label_name": "good", "clsname": "Marshmallow"}
+{"filename": "Marshmallow/test/good/rgb/010.png", "filename_xyz": "Marshmallow/test/good/xyz/010.tiff", "label": 0, "label_name": "good", "clsname": "Marshmallow"}
+{"filename": "Marshmallow/test/good/rgb/024.png", "filename_xyz": "Marshmallow/test/good/xyz/024.tiff", "label": 0, "label_name": "good", "clsname": "Marshmallow"}
+{"filename": "Marshmallow/test/good/rgb/004.png", "filename_xyz": "Marshmallow/test/good/xyz/004.tiff", "label": 0, "label_name": "good", "clsname": "Marshmallow"}
+{"filename": "Marshmallow/test/good/rgb/011.png", "filename_xyz": "Marshmallow/test/good/xyz/011.tiff", "label": 0, "label_name": "good", "clsname": "Marshmallow"}
+{"filename": "Marshmallow/test/good/rgb/005.png", "filename_xyz": "Marshmallow/test/good/xyz/005.tiff", "label": 0, "label_name": "good", "clsname": "Marshmallow"}
+{"filename": "Marshmallow/test/good/rgb/015.png", "filename_xyz": "Marshmallow/test/good/xyz/015.tiff", "label": 0, "label_name": "good", "clsname": "Marshmallow"}
+{"filename": "Marshmallow/test/good/rgb/013.png", "filename_xyz": "Marshmallow/test/good/xyz/013.tiff", "label": 0, "label_name": "good", "clsname": "Marshmallow"}
+{"filename": "Marshmallow/test/good/rgb/001.png", "filename_xyz": "Marshmallow/test/good/xyz/001.tiff", "label": 0, "label_name": "good", "clsname": "Marshmallow"}
+{"filename": "Marshmallow/test/good/rgb/021.png", "filename_xyz": "Marshmallow/test/good/xyz/021.tiff", "label": 0, "label_name": "good", "clsname": "Marshmallow"}
+{"filename": "Marshmallow/test/good/rgb/023.png", "filename_xyz": "Marshmallow/test/good/xyz/023.tiff", "label": 0, "label_name": "good", "clsname": "Marshmallow"}
+{"filename": "Marshmallow/test/good/rgb/002.png", "filename_xyz": "Marshmallow/test/good/xyz/002.tiff", "label": 0, "label_name": "good", "clsname": "Marshmallow"}
+{"filename": "Marshmallow/test/good/rgb/008.png", "filename_xyz": "Marshmallow/test/good/xyz/008.tiff", "label": 0, "label_name": "good", "clsname": "Marshmallow"}
+{"filename": "Marshmallow/test/good/rgb/006.png", "filename_xyz": "Marshmallow/test/good/xyz/006.tiff", "label": 0, "label_name": "good", "clsname": "Marshmallow"}
+{"filename": "Marshmallow/test/good/rgb/003.png", "filename_xyz": "Marshmallow/test/good/xyz/003.tiff", "label": 0, "label_name": "good", "clsname": "Marshmallow"}
+{"filename": "Marshmallow/test/good/rgb/020.png", "filename_xyz": "Marshmallow/test/good/xyz/020.tiff", "label": 0, "label_name": "good", "clsname": "Marshmallow"}
+{"filename": "Marshmallow/test/bad/rgb/035.png", "filename_xyz": "Marshmallow/test/bad/xyz/035.tiff", "label": 1, "label_name": "defective", "maskname": "Marshmallow/test/bad/gt/035.png", "clsname": "Marshmallow"}
+{"filename": "Marshmallow/test/bad/rgb/028.png", "filename_xyz": "Marshmallow/test/bad/xyz/028.tiff", "label": 1, "label_name": "defective", "maskname": "Marshmallow/test/bad/gt/028.png", "clsname": "Marshmallow"}
+{"filename": "Marshmallow/test/bad/rgb/041.png", "filename_xyz": "Marshmallow/test/bad/xyz/041.tiff", "label": 1, "label_name": "defective", "maskname": "Marshmallow/test/bad/gt/041.png", "clsname": "Marshmallow"}
+{"filename": "Marshmallow/test/bad/rgb/046.png", "filename_xyz": "Marshmallow/test/bad/xyz/046.tiff", "label": 1, "label_name": "defective", "maskname": "Marshmallow/test/bad/gt/046.png", "clsname": "Marshmallow"}
+{"filename": "Marshmallow/test/bad/rgb/042.png", "filename_xyz": "Marshmallow/test/bad/xyz/042.tiff", "label": 1, "label_name": "defective", "maskname": "Marshmallow/test/bad/gt/042.png", "clsname": "Marshmallow"}
+{"filename": "Marshmallow/test/bad/rgb/048.png", "filename_xyz": "Marshmallow/test/bad/xyz/048.tiff", "label": 1, "label_name": "defective", "maskname": "Marshmallow/test/bad/gt/048.png", "clsname": "Marshmallow"}
+{"filename": "Marshmallow/test/bad/rgb/032.png", "filename_xyz": "Marshmallow/test/bad/xyz/032.tiff", "label": 1, "label_name": "defective", "maskname": "Marshmallow/test/bad/gt/032.png", "clsname": "Marshmallow"}
+{"filename": "Marshmallow/test/bad/rgb/039.png", "filename_xyz": "Marshmallow/test/bad/xyz/039.tiff", "label": 1, "label_name": "defective", "maskname": "Marshmallow/test/bad/gt/039.png", "clsname": "Marshmallow"}
+{"filename": "Marshmallow/test/bad/rgb/033.png", "filename_xyz": "Marshmallow/test/bad/xyz/033.tiff", "label": 1, "label_name": "defective", "maskname": "Marshmallow/test/bad/gt/033.png", "clsname": "Marshmallow"}
+{"filename": "Marshmallow/test/bad/rgb/031.png", "filename_xyz": "Marshmallow/test/bad/xyz/031.tiff", "label": 1, "label_name": "defective", "maskname": "Marshmallow/test/bad/gt/031.png", "clsname": "Marshmallow"}
+{"filename": "Marshmallow/test/bad/rgb/044.png", "filename_xyz": "Marshmallow/test/bad/xyz/044.tiff", "label": 1, "label_name": "defective", "maskname": "Marshmallow/test/bad/gt/044.png", "clsname": "Marshmallow"}
+{"filename": "Marshmallow/test/bad/rgb/027.png", "filename_xyz": "Marshmallow/test/bad/xyz/027.tiff", "label": 1, "label_name": "defective", "maskname": "Marshmallow/test/bad/gt/027.png", "clsname": "Marshmallow"}
+{"filename": "Marshmallow/test/bad/rgb/034.png", "filename_xyz": "Marshmallow/test/bad/xyz/034.tiff", "label": 1, "label_name": "defective", "maskname": "Marshmallow/test/bad/gt/034.png", "clsname": "Marshmallow"}
+{"filename": "Marshmallow/test/bad/rgb/030.png", "filename_xyz": "Marshmallow/test/bad/xyz/030.tiff", "label": 1, "label_name": "defective", "maskname": "Marshmallow/test/bad/gt/030.png", "clsname": "Marshmallow"}
+{"filename": "Marshmallow/test/bad/rgb/037.png", "filename_xyz": "Marshmallow/test/bad/xyz/037.tiff", "label": 1, "label_name": "defective", "maskname": "Marshmallow/test/bad/gt/037.png", "clsname": "Marshmallow"}
+{"filename": "Marshmallow/test/bad/rgb/036.png", "filename_xyz": "Marshmallow/test/bad/xyz/036.tiff", "label": 1, "label_name": "defective", "maskname": "Marshmallow/test/bad/gt/036.png", "clsname": "Marshmallow"}
+{"filename": "Marshmallow/test/bad/rgb/049.png", "filename_xyz": "Marshmallow/test/bad/xyz/049.tiff", "label": 1, "label_name": "defective", "maskname": "Marshmallow/test/bad/gt/049.png", "clsname": "Marshmallow"}
+{"filename": "Marshmallow/test/bad/rgb/029.png", "filename_xyz": "Marshmallow/test/bad/xyz/029.tiff", "label": 1, "label_name": "defective", "maskname": "Marshmallow/test/bad/gt/029.png", "clsname": "Marshmallow"}
+{"filename": "Marshmallow/test/bad/rgb/026.png", "filename_xyz": "Marshmallow/test/bad/xyz/026.tiff", "label": 1, "label_name": "defective", "maskname": "Marshmallow/test/bad/gt/026.png", "clsname": "Marshmallow"}
+{"filename": "Marshmallow/test/bad/rgb/047.png", "filename_xyz": "Marshmallow/test/bad/xyz/047.tiff", "label": 1, "label_name": "defective", "maskname": "Marshmallow/test/bad/gt/047.png", "clsname": "Marshmallow"}
+{"filename": "Marshmallow/test/bad/rgb/043.png", "filename_xyz": "Marshmallow/test/bad/xyz/043.tiff", "label": 1, "label_name": "defective", "maskname": "Marshmallow/test/bad/gt/043.png", "clsname": "Marshmallow"}
+{"filename": "Marshmallow/test/bad/rgb/045.png", "filename_xyz": "Marshmallow/test/bad/xyz/045.tiff", "label": 1, "label_name": "defective", "maskname": "Marshmallow/test/bad/gt/045.png", "clsname": "Marshmallow"}
+{"filename": "Marshmallow/test/bad/rgb/038.png", "filename_xyz": "Marshmallow/test/bad/xyz/038.tiff", "label": 1, "label_name": "defective", "maskname": "Marshmallow/test/bad/gt/038.png", "clsname": "Marshmallow"}
+{"filename": "Marshmallow/test/bad/rgb/040.png", "filename_xyz": "Marshmallow/test/bad/xyz/040.tiff", "label": 1, "label_name": "defective", "maskname": "Marshmallow/test/bad/gt/040.png", "clsname": "Marshmallow"}
+{"filename": "Marshmallow/test/bad/rgb/025.png", "filename_xyz": "Marshmallow/test/bad/xyz/025.tiff", "label": 1, "label_name": "defective", "maskname": "Marshmallow/test/bad/gt/025.png", "clsname": "Marshmallow"}
