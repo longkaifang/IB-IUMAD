@@ -16,4 +16,5 @@ Please refer to requirements.txt
 
 # 💾 Dataset Preparation
 We have already provided data processing for the MVTec 3D-AD dataset. For the Eyecandies dataset, you can refer to the .py file in A_ori_dataset_split/MVTec_3D-AD/.py for relevant processing.
+You can also refer to Dataset Preparation and Configuration in [IUF]: https://github.com/jqtangust/IUF; our RGB-D data is constructed according to the IUF standard.
 
