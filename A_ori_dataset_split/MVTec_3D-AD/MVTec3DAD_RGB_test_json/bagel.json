@@ -1,0 +1,110 @@
+{"filename": "bagel/test/good/rgb/010.png", "label": 0, "label_name": "good"}
+{"filename": "bagel/test/good/rgb/002.png", "label": 0, "label_name": "good"}
+{"filename": "bagel/test/good/rgb/008.png", "label": 0, "label_name": "good"}
+{"filename": "bagel/test/good/rgb/021.png", "label": 0, "label_name": "good"}
+{"filename": "bagel/test/good/rgb/018.png", "label": 0, "label_name": "good"}
+{"filename": "bagel/test/good/rgb/007.png", "label": 0, "label_name": "good"}
+{"filename": "bagel/test/good/rgb/017.png", "label": 0, "label_name": "good"}
+{"filename": "bagel/test/good/rgb/020.png", "label": 0, "label_name": "good"}
+{"filename": "bagel/test/good/rgb/015.png", "label": 0, "label_name": "good"}
+{"filename": "bagel/test/good/rgb/011.png", "label": 0, "label_name": "good"}
+{"filename": "bagel/test/good/rgb/006.png", "label": 0, "label_name": "good"}
+{"filename": "bagel/test/good/rgb/004.png", "label": 0, "label_name": "good"}
+{"filename": "bagel/test/good/rgb/003.png", "label": 0, "label_name": "good"}
+{"filename": "bagel/test/good/rgb/012.png", "label": 0, "label_name": "good"}
+{"filename": "bagel/test/good/rgb/014.png", "label": 0, "label_name": "good"}
+{"filename": "bagel/test/good/rgb/013.png", "label": 0, "label_name": "good"}
+{"filename": "bagel/test/good/rgb/005.png", "label": 0, "label_name": "good"}
+{"filename": "bagel/test/good/rgb/019.png", "label": 0, "label_name": "good"}
+{"filename": "bagel/test/good/rgb/016.png", "label": 0, "label_name": "good"}
+{"filename": "bagel/test/good/rgb/000.png", "label": 0, "label_name": "good"}
+{"filename": "bagel/test/good/rgb/009.png", "label": 0, "label_name": "good"}
+{"filename": "bagel/test/good/rgb/001.png", "label": 0, "label_name": "good"}
+{"filename": "bagel/test/combined/rgb/010.png", "label": 1, "label_name": "defective", "maskname": "bagel/test/combined/gt/010.png"}
+{"filename": "bagel/test/combined/rgb/002.png", "label": 1, "label_name": "defective", "maskname": "bagel/test/combined/gt/002.png"}
+{"filename": "bagel/test/combined/rgb/008.png", "label": 1, "label_name": "defective", "maskname": "bagel/test/combined/gt/008.png"}
+{"filename": "bagel/test/combined/rgb/021.png", "label": 1, "label_name": "defective", "maskname": "bagel/test/combined/gt/021.png"}
+{"filename": "bagel/test/combined/rgb/018.png", "label": 1, "label_name": "defective", "maskname": "bagel/test/combined/gt/018.png"}
+{"filename": "bagel/test/combined/rgb/007.png", "label": 1, "label_name": "defective", "maskname": "bagel/test/combined/gt/007.png"}
+{"filename": "bagel/test/combined/rgb/017.png", "label": 1, "label_name": "defective", "maskname": "bagel/test/combined/gt/017.png"}
+{"filename": "bagel/test/combined/rgb/020.png", "label": 1, "label_name": "defective", "maskname": "bagel/test/combined/gt/020.png"}
+{"filename": "bagel/test/combined/rgb/015.png", "label": 1, "label_name": "defective", "maskname": "bagel/test/combined/gt/015.png"}
+{"filename": "bagel/test/combined/rgb/011.png", "label": 1, "label_name": "defective", "maskname": "bagel/test/combined/gt/011.png"}
+{"filename": "bagel/test/combined/rgb/006.png", "label": 1, "label_name": "defective", "maskname": "bagel/test/combined/gt/006.png"}
+{"filename": "bagel/test/combined/rgb/004.png", "label": 1, "label_name": "defective", "maskname": "bagel/test/combined/gt/004.png"}
+{"filename": "bagel/test/combined/rgb/003.png", "label": 1, "label_name": "defective", "maskname": "bagel/test/combined/gt/003.png"}
+{"filename": "bagel/test/combined/rgb/012.png", "label": 1, "label_name": "defective", "maskname": "bagel/test/combined/gt/012.png"}
+{"filename": "bagel/test/combined/rgb/014.png", "label": 1, "label_name": "defective", "maskname": "bagel/test/combined/gt/014.png"}
+{"filename": "bagel/test/combined/rgb/013.png", "label": 1, "label_name": "defective", "maskname": "bagel/test/combined/gt/013.png"}
+{"filename": "bagel/test/combined/rgb/005.png", "label": 1, "label_name": "defective", "maskname": "bagel/test/combined/gt/005.png"}
+{"filename": "bagel/test/combined/rgb/022.png", "label": 1, "label_name": "defective", "maskname": "bagel/test/combined/gt/022.png"}
+{"filename": "bagel/test/combined/rgb/019.png", "label": 1, "label_name": "defective", "maskname": "bagel/test/combined/gt/019.png"}
+{"filename": "bagel/test/combined/rgb/016.png", "label": 1, "label_name": "defective", "maskname": "bagel/test/combined/gt/016.png"}
+{"filename": "bagel/test/combined/rgb/000.png", "label": 1, "label_name": "defective", "maskname": "bagel/test/combined/gt/000.png"}
+{"filename": "bagel/test/combined/rgb/009.png", "label": 1, "label_name": "defective", "maskname": "bagel/test/combined/gt/009.png"}
+{"filename": "bagel/test/combined/rgb/001.png", "label": 1, "label_name": "defective", "maskname": "bagel/test/combined/gt/001.png"}
+{"filename": "bagel/test/contamination/rgb/010.png", "label": 1, "label_name": "defective", "maskname": "bagel/test/contamination/gt/010.png"}
+{"filename": "bagel/test/contamination/rgb/002.png", "label": 1, "label_name": "defective", "maskname": "bagel/test/contamination/gt/002.png"}
+{"filename": "bagel/test/contamination/rgb/008.png", "label": 1, "label_name": "defective", "maskname": "bagel/test/contamination/gt/008.png"}
+{"filename": "bagel/test/contamination/rgb/021.png", "label": 1, "label_name": "defective", "maskname": "bagel/test/contamination/gt/021.png"}
+{"filename": "bagel/test/contamination/rgb/018.png", "label": 1, "label_name": "defective", "maskname": "bagel/test/contamination/gt/018.png"}
+{"filename": "bagel/test/contamination/rgb/007.png", "label": 1, "label_name": "defective", "maskname": "bagel/test/contamination/gt/007.png"}
+{"filename": "bagel/test/contamination/rgb/017.png", "label": 1, "label_name": "defective", "maskname": "bagel/test/contamination/gt/017.png"}
+{"filename": "bagel/test/contamination/rgb/020.png", "label": 1, "label_name": "defective", "maskname": "bagel/test/contamination/gt/020.png"}
+{"filename": "bagel/test/contamination/rgb/015.png", "label": 1, "label_name": "defective", "maskname": "bagel/test/contamination/gt/015.png"}
+{"filename": "bagel/test/contamination/rgb/011.png", "label": 1, "label_name": "defective", "maskname": "bagel/test/contamination/gt/011.png"}
+{"filename": "bagel/test/contamination/rgb/006.png", "label": 1, "label_name": "defective", "maskname": "bagel/test/contamination/gt/006.png"}
+{"filename": "bagel/test/contamination/rgb/004.png", "label": 1, "label_name": "defective", "maskname": "bagel/test/contamination/gt/004.png"}
+{"filename": "bagel/test/contamination/rgb/003.png", "label": 1, "label_name": "defective", "maskname": "bagel/test/contamination/gt/003.png"}
+{"filename": "bagel/test/contamination/rgb/012.png", "label": 1, "label_name": "defective", "maskname": "bagel/test/contamination/gt/012.png"}
+{"filename": "bagel/test/contamination/rgb/014.png", "label": 1, "label_name": "defective", "maskname": "bagel/test/contamination/gt/014.png"}
+{"filename": "bagel/test/contamination/rgb/013.png", "label": 1, "label_name": "defective", "maskname": "bagel/test/contamination/gt/013.png"}
+{"filename": "bagel/test/contamination/rgb/005.png", "label": 1, "label_name": "defective", "maskname": "bagel/test/contamination/gt/005.png"}
+{"filename": "bagel/test/contamination/rgb/019.png", "label": 1, "label_name": "defective", "maskname": "bagel/test/contamination/gt/019.png"}
+{"filename": "bagel/test/contamination/rgb/016.png", "label": 1, "label_name": "defective", "maskname": "bagel/test/contamination/gt/016.png"}
+{"filename": "bagel/test/contamination/rgb/000.png", "label": 1, "label_name": "defective", "maskname": "bagel/test/contamination/gt/000.png"}
+{"filename": "bagel/test/contamination/rgb/009.png", "label": 1, "label_name": "defective", "maskname": "bagel/test/contamination/gt/009.png"}
+{"filename": "bagel/test/contamination/rgb/001.png", "label": 1, "label_name": "defective", "maskname": "bagel/test/contamination/gt/001.png"}
+{"filename": "bagel/test/crack/rgb/010.png", "label": 1, "label_name": "defective", "maskname": "bagel/test/crack/gt/010.png"}
+{"filename": "bagel/test/crack/rgb/002.png", "label": 1, "label_name": "defective", "maskname": "bagel/test/crack/gt/002.png"}
+{"filename": "bagel/test/crack/rgb/008.png", "label": 1, "label_name": "defective", "maskname": "bagel/test/crack/gt/008.png"}
+{"filename": "bagel/test/crack/rgb/021.png", "label": 1, "label_name": "defective", "maskname": "bagel/test/crack/gt/021.png"}
+{"filename": "bagel/test/crack/rgb/018.png", "label": 1, "label_name": "defective", "maskname": "bagel/test/crack/gt/018.png"}
+{"filename": "bagel/test/crack/rgb/007.png", "label": 1, "label_name": "defective", "maskname": "bagel/test/crack/gt/007.png"}
+{"filename": "bagel/test/crack/rgb/017.png", "label": 1, "label_name": "defective", "maskname": "bagel/test/crack/gt/017.png"}
+{"filename": "bagel/test/crack/rgb/020.png", "label": 1, "label_name": "defective", "maskname": "bagel/test/crack/gt/020.png"}
+{"filename": "bagel/test/crack/rgb/015.png", "label": 1, "label_name": "defective", "maskname": "bagel/test/crack/gt/015.png"}
+{"filename": "bagel/test/crack/rgb/011.png", "label": 1, "label_name": "defective", "maskname": "bagel/test/crack/gt/011.png"}
+{"filename": "bagel/test/crack/rgb/006.png", "label": 1, "label_name": "defective", "maskname": "bagel/test/crack/gt/006.png"}
+{"filename": "bagel/test/crack/rgb/004.png", "label": 1, "label_name": "defective", "maskname": "bagel/test/crack/gt/004.png"}
+{"filename": "bagel/test/crack/rgb/003.png", "label": 1, "label_name": "defective", "maskname": "bagel/test/crack/gt/003.png"}
+{"filename": "bagel/test/crack/rgb/012.png", "label": 1, "label_name": "defective", "maskname": "bagel/test/crack/gt/012.png"}
+{"filename": "bagel/test/crack/rgb/014.png", "label": 1, "label_name": "defective", "maskname": "bagel/test/crack/gt/014.png"}
+{"filename": "bagel/test/crack/rgb/013.png", "label": 1, "label_name": "defective", "maskname": "bagel/test/crack/gt/013.png"}
+{"filename": "bagel/test/crack/rgb/005.png", "label": 1, "label_name": "defective", "maskname": "bagel/test/crack/gt/005.png"}
+{"filename": "bagel/test/crack/rgb/019.png", "label": 1, "label_name": "defective", "maskname": "bagel/test/crack/gt/019.png"}
+{"filename": "bagel/test/crack/rgb/016.png", "label": 1, "label_name": "defective", "maskname": "bagel/test/crack/gt/016.png"}
+{"filename": "bagel/test/crack/rgb/000.png", "label": 1, "label_name": "defective", "maskname": "bagel/test/crack/gt/000.png"}
+{"filename": "bagel/test/crack/rgb/009.png", "label": 1, "label_name": "defective", "maskname": "bagel/test/crack/gt/009.png"}
+{"filename": "bagel/test/crack/rgb/001.png", "label": 1, "label_name": "defective", "maskname": "bagel/test/crack/gt/001.png"}
+{"filename": "bagel/test/hole/rgb/010.png", "label": 1, "label_name": "defective", "maskname": "bagel/test/hole/gt/010.png"}
+{"filename": "bagel/test/hole/rgb/002.png", "label": 1, "label_name": "defective", "maskname": "bagel/test/hole/gt/002.png"}
+{"filename": "bagel/test/hole/rgb/008.png", "label": 1, "label_name": "defective", "maskname": "bagel/test/hole/gt/008.png"}
+{"filename": "bagel/test/hole/rgb/018.png", "label": 1, "label_name": "defective", "maskname": "bagel/test/hole/gt/018.png"}
+{"filename": "bagel/test/hole/rgb/007.png", "label": 1, "label_name": "defective", "maskname": "bagel/test/hole/gt/007.png"}
+{"filename": "bagel/test/hole/rgb/017.png", "label": 1, "label_name": "defective", "maskname": "bagel/test/hole/gt/017.png"}
+{"filename": "bagel/test/hole/rgb/020.png", "label": 1, "label_name": "defective", "maskname": "bagel/test/hole/gt/020.png"}
+{"filename": "bagel/test/hole/rgb/015.png", "label": 1, "label_name": "defective", "maskname": "bagel/test/hole/gt/015.png"}
+{"filename": "bagel/test/hole/rgb/011.png", "label": 1, "label_name": "defective", "maskname": "bagel/test/hole/gt/011.png"}
+{"filename": "bagel/test/hole/rgb/006.png", "label": 1, "label_name": "defective", "maskname": "bagel/test/hole/gt/006.png"}
+{"filename": "bagel/test/hole/rgb/004.png", "label": 1, "label_name": "defective", "maskname": "bagel/test/hole/gt/004.png"}
+{"filename": "bagel/test/hole/rgb/003.png", "label": 1, "label_name": "defective", "maskname": "bagel/test/hole/gt/003.png"}
+{"filename": "bagel/test/hole/rgb/012.png", "label": 1, "label_name": "defective", "maskname": "bagel/test/hole/gt/012.png"}
+{"filename": "bagel/test/hole/rgb/014.png", "label": 1, "label_name": "defective", "maskname": "bagel/test/hole/gt/014.png"}
+{"filename": "bagel/test/hole/rgb/013.png", "label": 1, "label_name": "defective", "maskname": "bagel/test/hole/gt/013.png"}
+{"filename": "bagel/test/hole/rgb/005.png", "label": 1, "label_name": "defective", "maskname": "bagel/test/hole/gt/005.png"}
+{"filename": "bagel/test/hole/rgb/019.png", "label": 1, "label_name": "defective", "maskname": "bagel/test/hole/gt/019.png"}
+{"filename": "bagel/test/hole/rgb/016.png", "label": 1, "label_name": "defective", "maskname": "bagel/test/hole/gt/016.png"}
+{"filename": "bagel/test/hole/rgb/000.png", "label": 1, "label_name": "defective", "maskname": "bagel/test/hole/gt/000.png"}
+{"filename": "bagel/test/hole/rgb/009.png", "label": 1, "label_name": "defective", "maskname": "bagel/test/hole/gt/009.png"}
+{"filename": "bagel/test/hole/rgb/001.png", "label": 1, "label_name": "defective", "maskname": "bagel/test/hole/gt/001.png"}

@@ -1,0 +1,159 @@
+{"filename": "carrot/test/good/rgb/010.png", "label": 0, "label_name": "good"}
+{"filename": "carrot/test/good/rgb/002.png", "label": 0, "label_name": "good"}
+{"filename": "carrot/test/good/rgb/008.png", "label": 0, "label_name": "good"}
+{"filename": "carrot/test/good/rgb/021.png", "label": 0, "label_name": "good"}
+{"filename": "carrot/test/good/rgb/018.png", "label": 0, "label_name": "good"}
+{"filename": "carrot/test/good/rgb/007.png", "label": 0, "label_name": "good"}
+{"filename": "carrot/test/good/rgb/017.png", "label": 0, "label_name": "good"}
+{"filename": "carrot/test/good/rgb/020.png", "label": 0, "label_name": "good"}
+{"filename": "carrot/test/good/rgb/023.png", "label": 0, "label_name": "good"}
+{"filename": "carrot/test/good/rgb/015.png", "label": 0, "label_name": "good"}
+{"filename": "carrot/test/good/rgb/026.png", "label": 0, "label_name": "good"}
+{"filename": "carrot/test/good/rgb/011.png", "label": 0, "label_name": "good"}
+{"filename": "carrot/test/good/rgb/025.png", "label": 0, "label_name": "good"}
+{"filename": "carrot/test/good/rgb/006.png", "label": 0, "label_name": "good"}
+{"filename": "carrot/test/good/rgb/004.png", "label": 0, "label_name": "good"}
+{"filename": "carrot/test/good/rgb/003.png", "label": 0, "label_name": "good"}
+{"filename": "carrot/test/good/rgb/012.png", "label": 0, "label_name": "good"}
+{"filename": "carrot/test/good/rgb/024.png", "label": 0, "label_name": "good"}
+{"filename": "carrot/test/good/rgb/014.png", "label": 0, "label_name": "good"}
+{"filename": "carrot/test/good/rgb/013.png", "label": 0, "label_name": "good"}
+{"filename": "carrot/test/good/rgb/005.png", "label": 0, "label_name": "good"}
+{"filename": "carrot/test/good/rgb/022.png", "label": 0, "label_name": "good"}
+{"filename": "carrot/test/good/rgb/019.png", "label": 0, "label_name": "good"}
+{"filename": "carrot/test/good/rgb/016.png", "label": 0, "label_name": "good"}
+{"filename": "carrot/test/good/rgb/000.png", "label": 0, "label_name": "good"}
+{"filename": "carrot/test/good/rgb/009.png", "label": 0, "label_name": "good"}
+{"filename": "carrot/test/good/rgb/001.png", "label": 0, "label_name": "good"}
+{"filename": "carrot/test/combined/rgb/010.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/combined/gt/010.png"}
+{"filename": "carrot/test/combined/rgb/002.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/combined/gt/002.png"}
+{"filename": "carrot/test/combined/rgb/008.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/combined/gt/008.png"}
+{"filename": "carrot/test/combined/rgb/021.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/combined/gt/021.png"}
+{"filename": "carrot/test/combined/rgb/018.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/combined/gt/018.png"}
+{"filename": "carrot/test/combined/rgb/007.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/combined/gt/007.png"}
+{"filename": "carrot/test/combined/rgb/017.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/combined/gt/017.png"}
+{"filename": "carrot/test/combined/rgb/020.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/combined/gt/020.png"}
+{"filename": "carrot/test/combined/rgb/023.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/combined/gt/023.png"}
+{"filename": "carrot/test/combined/rgb/015.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/combined/gt/015.png"}
+{"filename": "carrot/test/combined/rgb/026.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/combined/gt/026.png"}
+{"filename": "carrot/test/combined/rgb/011.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/combined/gt/011.png"}
+{"filename": "carrot/test/combined/rgb/025.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/combined/gt/025.png"}
+{"filename": "carrot/test/combined/rgb/006.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/combined/gt/006.png"}
+{"filename": "carrot/test/combined/rgb/004.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/combined/gt/004.png"}
+{"filename": "carrot/test/combined/rgb/003.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/combined/gt/003.png"}
+{"filename": "carrot/test/combined/rgb/012.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/combined/gt/012.png"}
+{"filename": "carrot/test/combined/rgb/024.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/combined/gt/024.png"}
+{"filename": "carrot/test/combined/rgb/014.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/combined/gt/014.png"}
+{"filename": "carrot/test/combined/rgb/013.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/combined/gt/013.png"}
+{"filename": "carrot/test/combined/rgb/005.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/combined/gt/005.png"}
+{"filename": "carrot/test/combined/rgb/022.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/combined/gt/022.png"}
+{"filename": "carrot/test/combined/rgb/019.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/combined/gt/019.png"}
+{"filename": "carrot/test/combined/rgb/016.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/combined/gt/016.png"}
+{"filename": "carrot/test/combined/rgb/000.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/combined/gt/000.png"}
+{"filename": "carrot/test/combined/rgb/009.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/combined/gt/009.png"}
+{"filename": "carrot/test/combined/rgb/001.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/combined/gt/001.png"}
+{"filename": "carrot/test/contamination/rgb/010.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/contamination/gt/010.png"}
+{"filename": "carrot/test/contamination/rgb/002.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/contamination/gt/002.png"}
+{"filename": "carrot/test/contamination/rgb/008.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/contamination/gt/008.png"}
+{"filename": "carrot/test/contamination/rgb/021.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/contamination/gt/021.png"}
+{"filename": "carrot/test/contamination/rgb/018.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/contamination/gt/018.png"}
+{"filename": "carrot/test/contamination/rgb/007.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/contamination/gt/007.png"}
+{"filename": "carrot/test/contamination/rgb/017.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/contamination/gt/017.png"}
+{"filename": "carrot/test/contamination/rgb/020.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/contamination/gt/020.png"}
+{"filename": "carrot/test/contamination/rgb/023.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/contamination/gt/023.png"}
+{"filename": "carrot/test/contamination/rgb/015.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/contamination/gt/015.png"}
+{"filename": "carrot/test/contamination/rgb/026.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/contamination/gt/026.png"}
+{"filename": "carrot/test/contamination/rgb/011.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/contamination/gt/011.png"}
+{"filename": "carrot/test/contamination/rgb/025.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/contamination/gt/025.png"}
+{"filename": "carrot/test/contamination/rgb/006.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/contamination/gt/006.png"}
+{"filename": "carrot/test/contamination/rgb/004.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/contamination/gt/004.png"}
+{"filename": "carrot/test/contamination/rgb/003.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/contamination/gt/003.png"}
+{"filename": "carrot/test/contamination/rgb/012.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/contamination/gt/012.png"}
+{"filename": "carrot/test/contamination/rgb/024.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/contamination/gt/024.png"}
+{"filename": "carrot/test/contamination/rgb/014.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/contamination/gt/014.png"}
+{"filename": "carrot/test/contamination/rgb/013.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/contamination/gt/013.png"}
+{"filename": "carrot/test/contamination/rgb/005.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/contamination/gt/005.png"}
+{"filename": "carrot/test/contamination/rgb/022.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/contamination/gt/022.png"}
+{"filename": "carrot/test/contamination/rgb/019.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/contamination/gt/019.png"}
+{"filename": "carrot/test/contamination/rgb/016.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/contamination/gt/016.png"}
+{"filename": "carrot/test/contamination/rgb/000.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/contamination/gt/000.png"}
+{"filename": "carrot/test/contamination/rgb/009.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/contamination/gt/009.png"}
+{"filename": "carrot/test/contamination/rgb/001.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/contamination/gt/001.png"}
+{"filename": "carrot/test/crack/rgb/010.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/crack/gt/010.png"}
+{"filename": "carrot/test/crack/rgb/002.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/crack/gt/002.png"}
+{"filename": "carrot/test/crack/rgb/008.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/crack/gt/008.png"}
+{"filename": "carrot/test/crack/rgb/021.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/crack/gt/021.png"}
+{"filename": "carrot/test/crack/rgb/018.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/crack/gt/018.png"}
+{"filename": "carrot/test/crack/rgb/007.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/crack/gt/007.png"}
+{"filename": "carrot/test/crack/rgb/017.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/crack/gt/017.png"}
+{"filename": "carrot/test/crack/rgb/020.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/crack/gt/020.png"}
+{"filename": "carrot/test/crack/rgb/023.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/crack/gt/023.png"}
+{"filename": "carrot/test/crack/rgb/015.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/crack/gt/015.png"}
+{"filename": "carrot/test/crack/rgb/011.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/crack/gt/011.png"}
+{"filename": "carrot/test/crack/rgb/025.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/crack/gt/025.png"}
+{"filename": "carrot/test/crack/rgb/006.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/crack/gt/006.png"}
+{"filename": "carrot/test/crack/rgb/004.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/crack/gt/004.png"}
+{"filename": "carrot/test/crack/rgb/003.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/crack/gt/003.png"}
+{"filename": "carrot/test/crack/rgb/012.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/crack/gt/012.png"}
+{"filename": "carrot/test/crack/rgb/024.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/crack/gt/024.png"}
+{"filename": "carrot/test/crack/rgb/014.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/crack/gt/014.png"}
+{"filename": "carrot/test/crack/rgb/013.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/crack/gt/013.png"}
+{"filename": "carrot/test/crack/rgb/005.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/crack/gt/005.png"}
+{"filename": "carrot/test/crack/rgb/022.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/crack/gt/022.png"}
+{"filename": "carrot/test/crack/rgb/019.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/crack/gt/019.png"}
+{"filename": "carrot/test/crack/rgb/016.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/crack/gt/016.png"}
+{"filename": "carrot/test/crack/rgb/000.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/crack/gt/000.png"}
+{"filename": "carrot/test/crack/rgb/009.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/crack/gt/009.png"}
+{"filename": "carrot/test/crack/rgb/001.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/crack/gt/001.png"}
+{"filename": "carrot/test/hole/rgb/010.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/hole/gt/010.png"}
+{"filename": "carrot/test/hole/rgb/002.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/hole/gt/002.png"}
+{"filename": "carrot/test/hole/rgb/008.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/hole/gt/008.png"}
+{"filename": "carrot/test/hole/rgb/021.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/hole/gt/021.png"}
+{"filename": "carrot/test/hole/rgb/018.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/hole/gt/018.png"}
+{"filename": "carrot/test/hole/rgb/007.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/hole/gt/007.png"}
+{"filename": "carrot/test/hole/rgb/017.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/hole/gt/017.png"}
+{"filename": "carrot/test/hole/rgb/020.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/hole/gt/020.png"}
+{"filename": "carrot/test/hole/rgb/023.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/hole/gt/023.png"}
+{"filename": "carrot/test/hole/rgb/015.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/hole/gt/015.png"}
+{"filename": "carrot/test/hole/rgb/011.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/hole/gt/011.png"}
+{"filename": "carrot/test/hole/rgb/025.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/hole/gt/025.png"}
+{"filename": "carrot/test/hole/rgb/006.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/hole/gt/006.png"}
+{"filename": "carrot/test/hole/rgb/004.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/hole/gt/004.png"}
+{"filename": "carrot/test/hole/rgb/003.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/hole/gt/003.png"}
+{"filename": "carrot/test/hole/rgb/012.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/hole/gt/012.png"}
+{"filename": "carrot/test/hole/rgb/024.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/hole/gt/024.png"}
+{"filename": "carrot/test/hole/rgb/014.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/hole/gt/014.png"}
+{"filename": "carrot/test/hole/rgb/013.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/hole/gt/013.png"}
+{"filename": "carrot/test/hole/rgb/005.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/hole/gt/005.png"}
+{"filename": "carrot/test/hole/rgb/022.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/hole/gt/022.png"}
+{"filename": "carrot/test/hole/rgb/019.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/hole/gt/019.png"}
+{"filename": "carrot/test/hole/rgb/016.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/hole/gt/016.png"}
+{"filename": "carrot/test/hole/rgb/000.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/hole/gt/000.png"}
+{"filename": "carrot/test/hole/rgb/009.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/hole/gt/009.png"}
+{"filename": "carrot/test/hole/rgb/001.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/hole/gt/001.png"}
+{"filename": "carrot/test/cut/rgb/010.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/cut/gt/010.png"}
+{"filename": "carrot/test/cut/rgb/002.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/cut/gt/002.png"}
+{"filename": "carrot/test/cut/rgb/008.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/cut/gt/008.png"}
+{"filename": "carrot/test/cut/rgb/021.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/cut/gt/021.png"}
+{"filename": "carrot/test/cut/rgb/018.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/cut/gt/018.png"}
+{"filename": "carrot/test/cut/rgb/007.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/cut/gt/007.png"}
+{"filename": "carrot/test/cut/rgb/017.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/cut/gt/017.png"}
+{"filename": "carrot/test/cut/rgb/020.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/cut/gt/020.png"}
+{"filename": "carrot/test/cut/rgb/023.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/cut/gt/023.png"}
+{"filename": "carrot/test/cut/rgb/015.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/cut/gt/015.png"}
+{"filename": "carrot/test/cut/rgb/011.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/cut/gt/011.png"}
+{"filename": "carrot/test/cut/rgb/025.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/cut/gt/025.png"}
+{"filename": "carrot/test/cut/rgb/006.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/cut/gt/006.png"}
+{"filename": "carrot/test/cut/rgb/004.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/cut/gt/004.png"}
+{"filename": "carrot/test/cut/rgb/003.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/cut/gt/003.png"}
+{"filename": "carrot/test/cut/rgb/012.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/cut/gt/012.png"}
+{"filename": "carrot/test/cut/rgb/024.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/cut/gt/024.png"}
+{"filename": "carrot/test/cut/rgb/014.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/cut/gt/014.png"}
+{"filename": "carrot/test/cut/rgb/013.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/cut/gt/013.png"}
+{"filename": "carrot/test/cut/rgb/005.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/cut/gt/005.png"}
+{"filename": "carrot/test/cut/rgb/022.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/cut/gt/022.png"}
+{"filename": "carrot/test/cut/rgb/019.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/cut/gt/019.png"}
+{"filename": "carrot/test/cut/rgb/016.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/cut/gt/016.png"}
+{"filename": "carrot/test/cut/rgb/000.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/cut/gt/000.png"}
+{"filename": "carrot/test/cut/rgb/009.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/cut/gt/009.png"}
+{"filename": "carrot/test/cut/rgb/001.png", "label": 1, "label_name": "defective", "maskname": "carrot/test/cut/gt/001.png"}

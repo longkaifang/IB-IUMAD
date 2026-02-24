@@ -1,0 +1,101 @@
+{"filename": "rope/test/good/rgb/027.png", "label": 0, "label_name": "good"}
+{"filename": "rope/test/good/rgb/010.png", "label": 0, "label_name": "good"}
+{"filename": "rope/test/good/rgb/002.png", "label": 0, "label_name": "good"}
+{"filename": "rope/test/good/rgb/008.png", "label": 0, "label_name": "good"}
+{"filename": "rope/test/good/rgb/021.png", "label": 0, "label_name": "good"}
+{"filename": "rope/test/good/rgb/018.png", "label": 0, "label_name": "good"}
+{"filename": "rope/test/good/rgb/007.png", "label": 0, "label_name": "good"}
+{"filename": "rope/test/good/rgb/017.png", "label": 0, "label_name": "good"}
+{"filename": "rope/test/good/rgb/020.png", "label": 0, "label_name": "good"}
+{"filename": "rope/test/good/rgb/023.png", "label": 0, "label_name": "good"}
+{"filename": "rope/test/good/rgb/015.png", "label": 0, "label_name": "good"}
+{"filename": "rope/test/good/rgb/026.png", "label": 0, "label_name": "good"}
+{"filename": "rope/test/good/rgb/029.png", "label": 0, "label_name": "good"}
+{"filename": "rope/test/good/rgb/011.png", "label": 0, "label_name": "good"}
+{"filename": "rope/test/good/rgb/030.png", "label": 0, "label_name": "good"}
+{"filename": "rope/test/good/rgb/025.png", "label": 0, "label_name": "good"}
+{"filename": "rope/test/good/rgb/031.png", "label": 0, "label_name": "good"}
+{"filename": "rope/test/good/rgb/006.png", "label": 0, "label_name": "good"}
+{"filename": "rope/test/good/rgb/004.png", "label": 0, "label_name": "good"}
+{"filename": "rope/test/good/rgb/003.png", "label": 0, "label_name": "good"}
+{"filename": "rope/test/good/rgb/012.png", "label": 0, "label_name": "good"}
+{"filename": "rope/test/good/rgb/024.png", "label": 0, "label_name": "good"}
+{"filename": "rope/test/good/rgb/014.png", "label": 0, "label_name": "good"}
+{"filename": "rope/test/good/rgb/013.png", "label": 0, "label_name": "good"}
+{"filename": "rope/test/good/rgb/005.png", "label": 0, "label_name": "good"}
+{"filename": "rope/test/good/rgb/028.png", "label": 0, "label_name": "good"}
+{"filename": "rope/test/good/rgb/022.png", "label": 0, "label_name": "good"}
+{"filename": "rope/test/good/rgb/019.png", "label": 0, "label_name": "good"}
+{"filename": "rope/test/good/rgb/016.png", "label": 0, "label_name": "good"}
+{"filename": "rope/test/good/rgb/000.png", "label": 0, "label_name": "good"}
+{"filename": "rope/test/good/rgb/009.png", "label": 0, "label_name": "good"}
+{"filename": "rope/test/good/rgb/001.png", "label": 0, "label_name": "good"}
+{"filename": "rope/test/open/rgb/010.png", "label": 1, "label_name": "defective", "maskname": "rope/test/open/gt/010.png"}
+{"filename": "rope/test/open/rgb/002.png", "label": 1, "label_name": "defective", "maskname": "rope/test/open/gt/002.png"}
+{"filename": "rope/test/open/rgb/008.png", "label": 1, "label_name": "defective", "maskname": "rope/test/open/gt/008.png"}
+{"filename": "rope/test/open/rgb/007.png", "label": 1, "label_name": "defective", "maskname": "rope/test/open/gt/007.png"}
+{"filename": "rope/test/open/rgb/015.png", "label": 1, "label_name": "defective", "maskname": "rope/test/open/gt/015.png"}
+{"filename": "rope/test/open/rgb/011.png", "label": 1, "label_name": "defective", "maskname": "rope/test/open/gt/011.png"}
+{"filename": "rope/test/open/rgb/006.png", "label": 1, "label_name": "defective", "maskname": "rope/test/open/gt/006.png"}
+{"filename": "rope/test/open/rgb/004.png", "label": 1, "label_name": "defective", "maskname": "rope/test/open/gt/004.png"}
+{"filename": "rope/test/open/rgb/003.png", "label": 1, "label_name": "defective", "maskname": "rope/test/open/gt/003.png"}
+{"filename": "rope/test/open/rgb/012.png", "label": 1, "label_name": "defective", "maskname": "rope/test/open/gt/012.png"}
+{"filename": "rope/test/open/rgb/014.png", "label": 1, "label_name": "defective", "maskname": "rope/test/open/gt/014.png"}
+{"filename": "rope/test/open/rgb/013.png", "label": 1, "label_name": "defective", "maskname": "rope/test/open/gt/013.png"}
+{"filename": "rope/test/open/rgb/005.png", "label": 1, "label_name": "defective", "maskname": "rope/test/open/gt/005.png"}
+{"filename": "rope/test/open/rgb/016.png", "label": 1, "label_name": "defective", "maskname": "rope/test/open/gt/016.png"}
+{"filename": "rope/test/open/rgb/000.png", "label": 1, "label_name": "defective", "maskname": "rope/test/open/gt/000.png"}
+{"filename": "rope/test/open/rgb/009.png", "label": 1, "label_name": "defective", "maskname": "rope/test/open/gt/009.png"}
+{"filename": "rope/test/open/rgb/001.png", "label": 1, "label_name": "defective", "maskname": "rope/test/open/gt/001.png"}
+{"filename": "rope/test/contamination/rgb/010.png", "label": 1, "label_name": "defective", "maskname": "rope/test/contamination/gt/010.png"}
+{"filename": "rope/test/contamination/rgb/002.png", "label": 1, "label_name": "defective", "maskname": "rope/test/contamination/gt/002.png"}
+{"filename": "rope/test/contamination/rgb/008.png", "label": 1, "label_name": "defective", "maskname": "rope/test/contamination/gt/008.png"}
+{"filename": "rope/test/contamination/rgb/021.png", "label": 1, "label_name": "defective", "maskname": "rope/test/contamination/gt/021.png"}
+{"filename": "rope/test/contamination/rgb/018.png", "label": 1, "label_name": "defective", "maskname": "rope/test/contamination/gt/018.png"}
+{"filename": "rope/test/contamination/rgb/007.png", "label": 1, "label_name": "defective", "maskname": "rope/test/contamination/gt/007.png"}
+{"filename": "rope/test/contamination/rgb/017.png", "label": 1, "label_name": "defective", "maskname": "rope/test/contamination/gt/017.png"}
+{"filename": "rope/test/contamination/rgb/020.png", "label": 1, "label_name": "defective", "maskname": "rope/test/contamination/gt/020.png"}
+{"filename": "rope/test/contamination/rgb/023.png", "label": 1, "label_name": "defective", "maskname": "rope/test/contamination/gt/023.png"}
+{"filename": "rope/test/contamination/rgb/015.png", "label": 1, "label_name": "defective", "maskname": "rope/test/contamination/gt/015.png"}
+{"filename": "rope/test/contamination/rgb/011.png", "label": 1, "label_name": "defective", "maskname": "rope/test/contamination/gt/011.png"}
+{"filename": "rope/test/contamination/rgb/006.png", "label": 1, "label_name": "defective", "maskname": "rope/test/contamination/gt/006.png"}
+{"filename": "rope/test/contamination/rgb/004.png", "label": 1, "label_name": "defective", "maskname": "rope/test/contamination/gt/004.png"}
+{"filename": "rope/test/contamination/rgb/003.png", "label": 1, "label_name": "defective", "maskname": "rope/test/contamination/gt/003.png"}
+{"filename": "rope/test/contamination/rgb/012.png", "label": 1, "label_name": "defective", "maskname": "rope/test/contamination/gt/012.png"}
+{"filename": "rope/test/contamination/rgb/024.png", "label": 1, "label_name": "defective", "maskname": "rope/test/contamination/gt/024.png"}
+{"filename": "rope/test/contamination/rgb/014.png", "label": 1, "label_name": "defective", "maskname": "rope/test/contamination/gt/014.png"}
+{"filename": "rope/test/contamination/rgb/013.png", "label": 1, "label_name": "defective", "maskname": "rope/test/contamination/gt/013.png"}
+{"filename": "rope/test/contamination/rgb/005.png", "label": 1, "label_name": "defective", "maskname": "rope/test/contamination/gt/005.png"}
+{"filename": "rope/test/contamination/rgb/022.png", "label": 1, "label_name": "defective", "maskname": "rope/test/contamination/gt/022.png"}
+{"filename": "rope/test/contamination/rgb/019.png", "label": 1, "label_name": "defective", "maskname": "rope/test/contamination/gt/019.png"}
+{"filename": "rope/test/contamination/rgb/016.png", "label": 1, "label_name": "defective", "maskname": "rope/test/contamination/gt/016.png"}
+{"filename": "rope/test/contamination/rgb/000.png", "label": 1, "label_name": "defective", "maskname": "rope/test/contamination/gt/000.png"}
+{"filename": "rope/test/contamination/rgb/009.png", "label": 1, "label_name": "defective", "maskname": "rope/test/contamination/gt/009.png"}
+{"filename": "rope/test/contamination/rgb/001.png", "label": 1, "label_name": "defective", "maskname": "rope/test/contamination/gt/001.png"}
+{"filename": "rope/test/cut/rgb/010.png", "label": 1, "label_name": "defective", "maskname": "rope/test/cut/gt/010.png"}
+{"filename": "rope/test/cut/rgb/002.png", "label": 1, "label_name": "defective", "maskname": "rope/test/cut/gt/002.png"}
+{"filename": "rope/test/cut/rgb/008.png", "label": 1, "label_name": "defective", "maskname": "rope/test/cut/gt/008.png"}
+{"filename": "rope/test/cut/rgb/021.png", "label": 1, "label_name": "defective", "maskname": "rope/test/cut/gt/021.png"}
+{"filename": "rope/test/cut/rgb/018.png", "label": 1, "label_name": "defective", "maskname": "rope/test/cut/gt/018.png"}
+{"filename": "rope/test/cut/rgb/007.png", "label": 1, "label_name": "defective", "maskname": "rope/test/cut/gt/007.png"}
+{"filename": "rope/test/cut/rgb/017.png", "label": 1, "label_name": "defective", "maskname": "rope/test/cut/gt/017.png"}
+{"filename": "rope/test/cut/rgb/020.png", "label": 1, "label_name": "defective", "maskname": "rope/test/cut/gt/020.png"}
+{"filename": "rope/test/cut/rgb/023.png", "label": 1, "label_name": "defective", "maskname": "rope/test/cut/gt/023.png"}
+{"filename": "rope/test/cut/rgb/015.png", "label": 1, "label_name": "defective", "maskname": "rope/test/cut/gt/015.png"}
+{"filename": "rope/test/cut/rgb/026.png", "label": 1, "label_name": "defective", "maskname": "rope/test/cut/gt/026.png"}
+{"filename": "rope/test/cut/rgb/011.png", "label": 1, "label_name": "defective", "maskname": "rope/test/cut/gt/011.png"}
+{"filename": "rope/test/cut/rgb/025.png", "label": 1, "label_name": "defective", "maskname": "rope/test/cut/gt/025.png"}
+{"filename": "rope/test/cut/rgb/006.png", "label": 1, "label_name": "defective", "maskname": "rope/test/cut/gt/006.png"}
+{"filename": "rope/test/cut/rgb/004.png", "label": 1, "label_name": "defective", "maskname": "rope/test/cut/gt/004.png"}
+{"filename": "rope/test/cut/rgb/003.png", "label": 1, "label_name": "defective", "maskname": "rope/test/cut/gt/003.png"}
+{"filename": "rope/test/cut/rgb/012.png", "label": 1, "label_name": "defective", "maskname": "rope/test/cut/gt/012.png"}
+{"filename": "rope/test/cut/rgb/024.png", "label": 1, "label_name": "defective", "maskname": "rope/test/cut/gt/024.png"}
+{"filename": "rope/test/cut/rgb/014.png", "label": 1, "label_name": "defective", "maskname": "rope/test/cut/gt/014.png"}
+{"filename": "rope/test/cut/rgb/013.png", "label": 1, "label_name": "defective", "maskname": "rope/test/cut/gt/013.png"}
+{"filename": "rope/test/cut/rgb/005.png", "label": 1, "label_name": "defective", "maskname": "rope/test/cut/gt/005.png"}
+{"filename": "rope/test/cut/rgb/022.png", "label": 1, "label_name": "defective", "maskname": "rope/test/cut/gt/022.png"}
+{"filename": "rope/test/cut/rgb/019.png", "label": 1, "label_name": "defective", "maskname": "rope/test/cut/gt/019.png"}
+{"filename": "rope/test/cut/rgb/016.png", "label": 1, "label_name": "defective", "maskname": "rope/test/cut/gt/016.png"}
+{"filename": "rope/test/cut/rgb/000.png", "label": 1, "label_name": "defective", "maskname": "rope/test/cut/gt/000.png"}
+{"filename": "rope/test/cut/rgb/009.png", "label": 1, "label_name": "defective", "maskname": "rope/test/cut/gt/009.png"}
+{"filename": "rope/test/cut/rgb/001.png", "label": 1, "label_name": "defective", "maskname": "rope/test/cut/gt/001.png"}

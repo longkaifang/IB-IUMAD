@@ -1,0 +1,108 @@
+{"filename": "cable_gland/test/good/rgb/010.png", "filename_xyz": "cable_gland/test/good/xyz/010.tiff", "label": 0, "label_name": "good"}
+{"filename": "cable_gland/test/good/rgb/002.png", "filename_xyz": "cable_gland/test/good/xyz/002.tiff", "label": 0, "label_name": "good"}
+{"filename": "cable_gland/test/good/rgb/008.png", "filename_xyz": "cable_gland/test/good/xyz/008.tiff", "label": 0, "label_name": "good"}
+{"filename": "cable_gland/test/good/rgb/018.png", "filename_xyz": "cable_gland/test/good/xyz/018.tiff", "label": 0, "label_name": "good"}
+{"filename": "cable_gland/test/good/rgb/007.png", "filename_xyz": "cable_gland/test/good/xyz/007.tiff", "label": 0, "label_name": "good"}
+{"filename": "cable_gland/test/good/rgb/017.png", "filename_xyz": "cable_gland/test/good/xyz/017.tiff", "label": 0, "label_name": "good"}
+{"filename": "cable_gland/test/good/rgb/020.png", "filename_xyz": "cable_gland/test/good/xyz/020.tiff", "label": 0, "label_name": "good"}
+{"filename": "cable_gland/test/good/rgb/015.png", "filename_xyz": "cable_gland/test/good/xyz/015.tiff", "label": 0, "label_name": "good"}
+{"filename": "cable_gland/test/good/rgb/011.png", "filename_xyz": "cable_gland/test/good/xyz/011.tiff", "label": 0, "label_name": "good"}
+{"filename": "cable_gland/test/good/rgb/006.png", "filename_xyz": "cable_gland/test/good/xyz/006.tiff", "label": 0, "label_name": "good"}
+{"filename": "cable_gland/test/good/rgb/004.png", "filename_xyz": "cable_gland/test/good/xyz/004.tiff", "label": 0, "label_name": "good"}
+{"filename": "cable_gland/test/good/rgb/003.png", "filename_xyz": "cable_gland/test/good/xyz/003.tiff", "label": 0, "label_name": "good"}
+{"filename": "cable_gland/test/good/rgb/012.png", "filename_xyz": "cable_gland/test/good/xyz/012.tiff", "label": 0, "label_name": "good"}
+{"filename": "cable_gland/test/good/rgb/014.png", "filename_xyz": "cable_gland/test/good/xyz/014.tiff", "label": 0, "label_name": "good"}
+{"filename": "cable_gland/test/good/rgb/013.png", "filename_xyz": "cable_gland/test/good/xyz/013.tiff", "label": 0, "label_name": "good"}
+{"filename": "cable_gland/test/good/rgb/005.png", "filename_xyz": "cable_gland/test/good/xyz/005.tiff", "label": 0, "label_name": "good"}
+{"filename": "cable_gland/test/good/rgb/019.png", "filename_xyz": "cable_gland/test/good/xyz/019.tiff", "label": 0, "label_name": "good"}
+{"filename": "cable_gland/test/good/rgb/016.png", "filename_xyz": "cable_gland/test/good/xyz/016.tiff", "label": 0, "label_name": "good"}
+{"filename": "cable_gland/test/good/rgb/000.png", "filename_xyz": "cable_gland/test/good/xyz/000.tiff", "label": 0, "label_name": "good"}
+{"filename": "cable_gland/test/good/rgb/009.png", "filename_xyz": "cable_gland/test/good/xyz/009.tiff", "label": 0, "label_name": "good"}
+{"filename": "cable_gland/test/good/rgb/001.png", "filename_xyz": "cable_gland/test/good/xyz/001.tiff", "label": 0, "label_name": "good"}
+{"filename": "cable_gland/test/bent/rgb/010.png", "filename_xyz": "cable_gland/test/bent/xyz/010.tiff", "label": 1, "label_name": "defective", "maskname": "cable_gland/test/bent/gt/010.png"}
+{"filename": "cable_gland/test/bent/rgb/002.png", "filename_xyz": "cable_gland/test/bent/xyz/002.tiff", "label": 1, "label_name": "defective", "maskname": "cable_gland/test/bent/gt/002.png"}
+{"filename": "cable_gland/test/bent/rgb/008.png", "filename_xyz": "cable_gland/test/bent/xyz/008.tiff", "label": 1, "label_name": "defective", "maskname": "cable_gland/test/bent/gt/008.png"}
+{"filename": "cable_gland/test/bent/rgb/018.png", "filename_xyz": "cable_gland/test/bent/xyz/018.tiff", "label": 1, "label_name": "defective", "maskname": "cable_gland/test/bent/gt/018.png"}
+{"filename": "cable_gland/test/bent/rgb/007.png", "filename_xyz": "cable_gland/test/bent/xyz/007.tiff", "label": 1, "label_name": "defective", "maskname": "cable_gland/test/bent/gt/007.png"}
+{"filename": "cable_gland/test/bent/rgb/017.png", "filename_xyz": "cable_gland/test/bent/xyz/017.tiff", "label": 1, "label_name": "defective", "maskname": "cable_gland/test/bent/gt/017.png"}
+{"filename": "cable_gland/test/bent/rgb/020.png", "filename_xyz": "cable_gland/test/bent/xyz/020.tiff", "label": 1, "label_name": "defective", "maskname": "cable_gland/test/bent/gt/020.png"}
+{"filename": "cable_gland/test/bent/rgb/015.png", "filename_xyz": "cable_gland/test/bent/xyz/015.tiff", "label": 1, "label_name": "defective", "maskname": "cable_gland/test/bent/gt/015.png"}
+{"filename": "cable_gland/test/bent/rgb/011.png", "filename_xyz": "cable_gland/test/bent/xyz/011.tiff", "label": 1, "label_name": "defective", "maskname": "cable_gland/test/bent/gt/011.png"}
+{"filename": "cable_gland/test/bent/rgb/006.png", "filename_xyz": "cable_gland/test/bent/xyz/006.tiff", "label": 1, "label_name": "defective", "maskname": "cable_gland/test/bent/gt/006.png"}
+{"filename": "cable_gland/test/bent/rgb/004.png", "filename_xyz": "cable_gland/test/bent/xyz/004.tiff", "label": 1, "label_name": "defective", "maskname": "cable_gland/test/bent/gt/004.png"}
+{"filename": "cable_gland/test/bent/rgb/003.png", "filename_xyz": "cable_gland/test/bent/xyz/003.tiff", "label": 1, "label_name": "defective", "maskname": "cable_gland/test/bent/gt/003.png"}
+{"filename": "cable_gland/test/bent/rgb/012.png", "filename_xyz": "cable_gland/test/bent/xyz/012.tiff", "label": 1, "label_name": "defective", "maskname": "cable_gland/test/bent/gt/012.png"}
+{"filename": "cable_gland/test/bent/rgb/014.png", "filename_xyz": "cable_gland/test/bent/xyz/014.tiff", "label": 1, "label_name": "defective", "maskname": "cable_gland/test/bent/gt/014.png"}
+{"filename": "cable_gland/test/bent/rgb/013.png", "filename_xyz": "cable_gland/test/bent/xyz/013.tiff", "label": 1, "label_name": "defective", "maskname": "cable_gland/test/bent/gt/013.png"}
+{"filename": "cable_gland/test/bent/rgb/005.png", "filename_xyz": "cable_gland/test/bent/xyz/005.tiff", "label": 1, "label_name": "defective", "maskname": "cable_gland/test/bent/gt/005.png"}
+{"filename": "cable_gland/test/bent/rgb/019.png", "filename_xyz": "cable_gland/test/bent/xyz/019.tiff", "label": 1, "label_name": "defective", "maskname": "cable_gland/test/bent/gt/019.png"}
+{"filename": "cable_gland/test/bent/rgb/016.png", "filename_xyz": "cable_gland/test/bent/xyz/016.tiff", "label": 1, "label_name": "defective", "maskname": "cable_gland/test/bent/gt/016.png"}
+{"filename": "cable_gland/test/bent/rgb/000.png", "filename_xyz": "cable_gland/test/bent/xyz/000.tiff", "label": 1, "label_name": "defective", "maskname": "cable_gland/test/bent/gt/000.png"}
+{"filename": "cable_gland/test/bent/rgb/009.png", "filename_xyz": "cable_gland/test/bent/xyz/009.tiff", "label": 1, "label_name": "defective", "maskname": "cable_gland/test/bent/gt/009.png"}
+{"filename": "cable_gland/test/bent/rgb/001.png", "filename_xyz": "cable_gland/test/bent/xyz/001.tiff", "label": 1, "label_name": "defective", "maskname": "cable_gland/test/bent/gt/001.png"}
+{"filename": "cable_gland/test/cut/rgb/010.png", "filename_xyz": "cable_gland/test/cut/xyz/010.tiff", "label": 1, "label_name": "defective", "maskname": "cable_gland/test/cut/gt/010.png"}
+{"filename": "cable_gland/test/cut/rgb/002.png", "filename_xyz": "cable_gland/test/cut/xyz/002.tiff", "label": 1, "label_name": "defective", "maskname": "cable_gland/test/cut/gt/002.png"}
+{"filename": "cable_gland/test/cut/rgb/008.png", "filename_xyz": "cable_gland/test/cut/xyz/008.tiff", "label": 1, "label_name": "defective", "maskname": "cable_gland/test/cut/gt/008.png"}
+{"filename": "cable_gland/test/cut/rgb/021.png", "filename_xyz": "cable_gland/test/cut/xyz/021.tiff", "label": 1, "label_name": "defective", "maskname": "cable_gland/test/cut/gt/021.png"}
+{"filename": "cable_gland/test/cut/rgb/018.png", "filename_xyz": "cable_gland/test/cut/xyz/018.tiff", "label": 1, "label_name": "defective", "maskname": "cable_gland/test/cut/gt/018.png"}
+{"filename": "cable_gland/test/cut/rgb/007.png", "filename_xyz": "cable_gland/test/cut/xyz/007.tiff", "label": 1, "label_name": "defective", "maskname": "cable_gland/test/cut/gt/007.png"}
+{"filename": "cable_gland/test/cut/rgb/017.png", "filename_xyz": "cable_gland/test/cut/xyz/017.tiff", "label": 1, "label_name": "defective", "maskname": "cable_gland/test/cut/gt/017.png"}
+{"filename": "cable_gland/test/cut/rgb/020.png", "filename_xyz": "cable_gland/test/cut/xyz/020.tiff", "label": 1, "label_name": "defective", "maskname": "cable_gland/test/cut/gt/020.png"}
+{"filename": "cable_gland/test/cut/rgb/015.png", "filename_xyz": "cable_gland/test/cut/xyz/015.tiff", "label": 1, "label_name": "defective", "maskname": "cable_gland/test/cut/gt/015.png"}
+{"filename": "cable_gland/test/cut/rgb/011.png", "filename_xyz": "cable_gland/test/cut/xyz/011.tiff", "label": 1, "label_name": "defective", "maskname": "cable_gland/test/cut/gt/011.png"}
+{"filename": "cable_gland/test/cut/rgb/006.png", "filename_xyz": "cable_gland/test/cut/xyz/006.tiff", "label": 1, "label_name": "defective", "maskname": "cable_gland/test/cut/gt/006.png"}
+{"filename": "cable_gland/test/cut/rgb/004.png", "filename_xyz": "cable_gland/test/cut/xyz/004.tiff", "label": 1, "label_name": "defective", "maskname": "cable_gland/test/cut/gt/004.png"}
+{"filename": "cable_gland/test/cut/rgb/003.png", "filename_xyz": "cable_gland/test/cut/xyz/003.tiff", "label": 1, "label_name": "defective", "maskname": "cable_gland/test/cut/gt/003.png"}
+{"filename": "cable_gland/test/cut/rgb/012.png", "filename_xyz": "cable_gland/test/cut/xyz/012.tiff", "label": 1, "label_name": "defective", "maskname": "cable_gland/test/cut/gt/012.png"}
+{"filename": "cable_gland/test/cut/rgb/014.png", "filename_xyz": "cable_gland/test/cut/xyz/014.tiff", "label": 1, "label_name": "defective", "maskname": "cable_gland/test/cut/gt/014.png"}
+{"filename": "cable_gland/test/cut/rgb/013.png", "filename_xyz": "cable_gland/test/cut/xyz/013.tiff", "label": 1, "label_name": "defective", "maskname": "cable_gland/test/cut/gt/013.png"}
+{"filename": "cable_gland/test/cut/rgb/005.png", "filename_xyz": "cable_gland/test/cut/xyz/005.tiff", "label": 1, "label_name": "defective", "maskname": "cable_gland/test/cut/gt/005.png"}
+{"filename": "cable_gland/test/cut/rgb/019.png", "filename_xyz": "cable_gland/test/cut/xyz/019.tiff", "label": 1, "label_name": "defective", "maskname": "cable_gland/test/cut/gt/019.png"}
+{"filename": "cable_gland/test/cut/rgb/016.png", "filename_xyz": "cable_gland/test/cut/xyz/016.tiff", "label": 1, "label_name": "defective", "maskname": "cable_gland/test/cut/gt/016.png"}
+{"filename": "cable_gland/test/cut/rgb/000.png", "filename_xyz": "cable_gland/test/cut/xyz/000.tiff", "label": 1, "label_name": "defective", "maskname": "cable_gland/test/cut/gt/000.png"}
+{"filename": "cable_gland/test/cut/rgb/009.png", "filename_xyz": "cable_gland/test/cut/xyz/009.tiff", "label": 1, "label_name": "defective", "maskname": "cable_gland/test/cut/gt/009.png"}
+{"filename": "cable_gland/test/cut/rgb/001.png", "filename_xyz": "cable_gland/test/cut/xyz/001.tiff", "label": 1, "label_name": "defective", "maskname": "cable_gland/test/cut/gt/001.png"}
+{"filename": "cable_gland/test/thread/rgb/010.png", "filename_xyz": "cable_gland/test/thread/xyz/010.tiff", "label": 1, "label_name": "defective", "maskname": "cable_gland/test/thread/gt/010.png"}
+{"filename": "cable_gland/test/thread/rgb/002.png", "filename_xyz": "cable_gland/test/thread/xyz/002.tiff", "label": 1, "label_name": "defective", "maskname": "cable_gland/test/thread/gt/002.png"}
+{"filename": "cable_gland/test/thread/rgb/008.png", "filename_xyz": "cable_gland/test/thread/xyz/008.tiff", "label": 1, "label_name": "defective", "maskname": "cable_gland/test/thread/gt/008.png"}
+{"filename": "cable_gland/test/thread/rgb/021.png", "filename_xyz": "cable_gland/test/thread/xyz/021.tiff", "label": 1, "label_name": "defective", "maskname": "cable_gland/test/thread/gt/021.png"}
+{"filename": "cable_gland/test/thread/rgb/018.png", "filename_xyz": "cable_gland/test/thread/xyz/018.tiff", "label": 1, "label_name": "defective", "maskname": "cable_gland/test/thread/gt/018.png"}
+{"filename": "cable_gland/test/thread/rgb/007.png", "filename_xyz": "cable_gland/test/thread/xyz/007.tiff", "label": 1, "label_name": "defective", "maskname": "cable_gland/test/thread/gt/007.png"}
+{"filename": "cable_gland/test/thread/rgb/017.png", "filename_xyz": "cable_gland/test/thread/xyz/017.tiff", "label": 1, "label_name": "defective", "maskname": "cable_gland/test/thread/gt/017.png"}
+{"filename": "cable_gland/test/thread/rgb/020.png", "filename_xyz": "cable_gland/test/thread/xyz/020.tiff", "label": 1, "label_name": "defective", "maskname": "cable_gland/test/thread/gt/020.png"}
+{"filename": "cable_gland/test/thread/rgb/015.png", "filename_xyz": "cable_gland/test/thread/xyz/015.tiff", "label": 1, "label_name": "defective", "maskname": "cable_gland/test/thread/gt/015.png"}
+{"filename": "cable_gland/test/thread/rgb/011.png", "filename_xyz": "cable_gland/test/thread/xyz/011.tiff", "label": 1, "label_name": "defective", "maskname": "cable_gland/test/thread/gt/011.png"}
+{"filename": "cable_gland/test/thread/rgb/006.png", "filename_xyz": "cable_gland/test/thread/xyz/006.tiff", "label": 1, "label_name": "defective", "maskname": "cable_gland/test/thread/gt/006.png"}
+{"filename": "cable_gland/test/thread/rgb/004.png", "filename_xyz": "cable_gland/test/thread/xyz/004.tiff", "label": 1, "label_name": "defective", "maskname": "cable_gland/test/thread/gt/004.png"}
+{"filename": "cable_gland/test/thread/rgb/003.png", "filename_xyz": "cable_gland/test/thread/xyz/003.tiff", "label": 1, "label_name": "defective", "maskname": "cable_gland/test/thread/gt/003.png"}
+{"filename": "cable_gland/test/thread/rgb/012.png", "filename_xyz": "cable_gland/test/thread/xyz/012.tiff", "label": 1, "label_name": "defective", "maskname": "cable_gland/test/thread/gt/012.png"}
+{"filename": "cable_gland/test/thread/rgb/014.png", "filename_xyz": "cable_gland/test/thread/xyz/014.tiff", "label": 1, "label_name": "defective", "maskname": "cable_gland/test/thread/gt/014.png"}
+{"filename": "cable_gland/test/thread/rgb/013.png", "filename_xyz": "cable_gland/test/thread/xyz/013.tiff", "label": 1, "label_name": "defective", "maskname": "cable_gland/test/thread/gt/013.png"}
+{"filename": "cable_gland/test/thread/rgb/005.png", "filename_xyz": "cable_gland/test/thread/xyz/005.tiff", "label": 1, "label_name": "defective", "maskname": "cable_gland/test/thread/gt/005.png"}
+{"filename": "cable_gland/test/thread/rgb/019.png", "filename_xyz": "cable_gland/test/thread/xyz/019.tiff", "label": 1, "label_name": "defective", "maskname": "cable_gland/test/thread/gt/019.png"}
+{"filename": "cable_gland/test/thread/rgb/016.png", "filename_xyz": "cable_gland/test/thread/xyz/016.tiff", "label": 1, "label_name": "defective", "maskname": "cable_gland/test/thread/gt/016.png"}
+{"filename": "cable_gland/test/thread/rgb/000.png", "filename_xyz": "cable_gland/test/thread/xyz/000.tiff", "label": 1, "label_name": "defective", "maskname": "cable_gland/test/thread/gt/000.png"}
+{"filename": "cable_gland/test/thread/rgb/009.png", "filename_xyz": "cable_gland/test/thread/xyz/009.tiff", "label": 1, "label_name": "defective", "maskname": "cable_gland/test/thread/gt/009.png"}
+{"filename": "cable_gland/test/thread/rgb/001.png", "filename_xyz": "cable_gland/test/thread/xyz/001.tiff", "label": 1, "label_name": "defective", "maskname": "cable_gland/test/thread/gt/001.png"}
+{"filename": "cable_gland/test/hole/rgb/010.png", "filename_xyz": "cable_gland/test/hole/xyz/010.tiff", "label": 1, "label_name": "defective", "maskname": "cable_gland/test/hole/gt/010.png"}
+{"filename": "cable_gland/test/hole/rgb/002.png", "filename_xyz": "cable_gland/test/hole/xyz/002.tiff", "label": 1, "label_name": "defective", "maskname": "cable_gland/test/hole/gt/002.png"}
+{"filename": "cable_gland/test/hole/rgb/008.png", "filename_xyz": "cable_gland/test/hole/xyz/008.tiff", "label": 1, "label_name": "defective", "maskname": "cable_gland/test/hole/gt/008.png"}
+{"filename": "cable_gland/test/hole/rgb/021.png", "filename_xyz": "cable_gland/test/hole/xyz/021.tiff", "label": 1, "label_name": "defective", "maskname": "cable_gland/test/hole/gt/021.png"}
+{"filename": "cable_gland/test/hole/rgb/018.png", "filename_xyz": "cable_gland/test/hole/xyz/018.tiff", "label": 1, "label_name": "defective", "maskname": "cable_gland/test/hole/gt/018.png"}
+{"filename": "cable_gland/test/hole/rgb/007.png", "filename_xyz": "cable_gland/test/hole/xyz/007.tiff", "label": 1, "label_name": "defective", "maskname": "cable_gland/test/hole/gt/007.png"}
+{"filename": "cable_gland/test/hole/rgb/017.png", "filename_xyz": "cable_gland/test/hole/xyz/017.tiff", "label": 1, "label_name": "defective", "maskname": "cable_gland/test/hole/gt/017.png"}
+{"filename": "cable_gland/test/hole/rgb/020.png", "filename_xyz": "cable_gland/test/hole/xyz/020.tiff", "label": 1, "label_name": "defective", "maskname": "cable_gland/test/hole/gt/020.png"}
+{"filename": "cable_gland/test/hole/rgb/015.png", "filename_xyz": "cable_gland/test/hole/xyz/015.tiff", "label": 1, "label_name": "defective", "maskname": "cable_gland/test/hole/gt/015.png"}
+{"filename": "cable_gland/test/hole/rgb/011.png", "filename_xyz": "cable_gland/test/hole/xyz/011.tiff", "label": 1, "label_name": "defective", "maskname": "cable_gland/test/hole/gt/011.png"}
+{"filename": "cable_gland/test/hole/rgb/006.png", "filename_xyz": "cable_gland/test/hole/xyz/006.tiff", "label": 1, "label_name": "defective", "maskname": "cable_gland/test/hole/gt/006.png"}
+{"filename": "cable_gland/test/hole/rgb/004.png", "filename_xyz": "cable_gland/test/hole/xyz/004.tiff", "label": 1, "label_name": "defective", "maskname": "cable_gland/test/hole/gt/004.png"}
+{"filename": "cable_gland/test/hole/rgb/003.png", "filename_xyz": "cable_gland/test/hole/xyz/003.tiff", "label": 1, "label_name": "defective", "maskname": "cable_gland/test/hole/gt/003.png"}
+{"filename": "cable_gland/test/hole/rgb/012.png", "filename_xyz": "cable_gland/test/hole/xyz/012.tiff", "label": 1, "label_name": "defective", "maskname": "cable_gland/test/hole/gt/012.png"}
+{"filename": "cable_gland/test/hole/rgb/014.png", "filename_xyz": "cable_gland/test/hole/xyz/014.tiff", "label": 1, "label_name": "defective", "maskname": "cable_gland/test/hole/gt/014.png"}
+{"filename": "cable_gland/test/hole/rgb/013.png", "filename_xyz": "cable_gland/test/hole/xyz/013.tiff", "label": 1, "label_name": "defective", "maskname": "cable_gland/test/hole/gt/013.png"}
+{"filename": "cable_gland/test/hole/rgb/005.png", "filename_xyz": "cable_gland/test/hole/xyz/005.tiff", "label": 1, "label_name": "defective", "maskname": "cable_gland/test/hole/gt/005.png"}
+{"filename": "cable_gland/test/hole/rgb/019.png", "filename_xyz": "cable_gland/test/hole/xyz/019.tiff", "label": 1, "label_name": "defective", "maskname": "cable_gland/test/hole/gt/019.png"}
+{"filename": "cable_gland/test/hole/rgb/016.png", "filename_xyz": "cable_gland/test/hole/xyz/016.tiff", "label": 1, "label_name": "defective", "maskname": "cable_gland/test/hole/gt/016.png"}
+{"filename": "cable_gland/test/hole/rgb/000.png", "filename_xyz": "cable_gland/test/hole/xyz/000.tiff", "label": 1, "label_name": "defective", "maskname": "cable_gland/test/hole/gt/000.png"}
+{"filename": "cable_gland/test/hole/rgb/009.png", "filename_xyz": "cable_gland/test/hole/xyz/009.tiff", "label": 1, "label_name": "defective", "maskname": "cable_gland/test/hole/gt/009.png"}
+{"filename": "cable_gland/test/hole/rgb/001.png", "filename_xyz": "cable_gland/test/hole/xyz/001.tiff", "label": 1, "label_name": "defective", "maskname": "cable_gland/test/hole/gt/001.png"}

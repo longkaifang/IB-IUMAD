@@ -1,0 +1,130 @@
+{"filename": "dowel/test/good/rgb/010.png", "label": 0, "label_name": "good"}
+{"filename": "dowel/test/good/rgb/002.png", "label": 0, "label_name": "good"}
+{"filename": "dowel/test/good/rgb/008.png", "label": 0, "label_name": "good"}
+{"filename": "dowel/test/good/rgb/021.png", "label": 0, "label_name": "good"}
+{"filename": "dowel/test/good/rgb/018.png", "label": 0, "label_name": "good"}
+{"filename": "dowel/test/good/rgb/007.png", "label": 0, "label_name": "good"}
+{"filename": "dowel/test/good/rgb/017.png", "label": 0, "label_name": "good"}
+{"filename": "dowel/test/good/rgb/020.png", "label": 0, "label_name": "good"}
+{"filename": "dowel/test/good/rgb/023.png", "label": 0, "label_name": "good"}
+{"filename": "dowel/test/good/rgb/015.png", "label": 0, "label_name": "good"}
+{"filename": "dowel/test/good/rgb/011.png", "label": 0, "label_name": "good"}
+{"filename": "dowel/test/good/rgb/025.png", "label": 0, "label_name": "good"}
+{"filename": "dowel/test/good/rgb/006.png", "label": 0, "label_name": "good"}
+{"filename": "dowel/test/good/rgb/004.png", "label": 0, "label_name": "good"}
+{"filename": "dowel/test/good/rgb/003.png", "label": 0, "label_name": "good"}
+{"filename": "dowel/test/good/rgb/012.png", "label": 0, "label_name": "good"}
+{"filename": "dowel/test/good/rgb/024.png", "label": 0, "label_name": "good"}
+{"filename": "dowel/test/good/rgb/014.png", "label": 0, "label_name": "good"}
+{"filename": "dowel/test/good/rgb/013.png", "label": 0, "label_name": "good"}
+{"filename": "dowel/test/good/rgb/005.png", "label": 0, "label_name": "good"}
+{"filename": "dowel/test/good/rgb/022.png", "label": 0, "label_name": "good"}
+{"filename": "dowel/test/good/rgb/019.png", "label": 0, "label_name": "good"}
+{"filename": "dowel/test/good/rgb/016.png", "label": 0, "label_name": "good"}
+{"filename": "dowel/test/good/rgb/000.png", "label": 0, "label_name": "good"}
+{"filename": "dowel/test/good/rgb/009.png", "label": 0, "label_name": "good"}
+{"filename": "dowel/test/good/rgb/001.png", "label": 0, "label_name": "good"}
+{"filename": "dowel/test/combined/rgb/010.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/combined/gt/010.png"}
+{"filename": "dowel/test/combined/rgb/002.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/combined/gt/002.png"}
+{"filename": "dowel/test/combined/rgb/008.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/combined/gt/008.png"}
+{"filename": "dowel/test/combined/rgb/021.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/combined/gt/021.png"}
+{"filename": "dowel/test/combined/rgb/018.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/combined/gt/018.png"}
+{"filename": "dowel/test/combined/rgb/007.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/combined/gt/007.png"}
+{"filename": "dowel/test/combined/rgb/017.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/combined/gt/017.png"}
+{"filename": "dowel/test/combined/rgb/020.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/combined/gt/020.png"}
+{"filename": "dowel/test/combined/rgb/023.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/combined/gt/023.png"}
+{"filename": "dowel/test/combined/rgb/015.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/combined/gt/015.png"}
+{"filename": "dowel/test/combined/rgb/011.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/combined/gt/011.png"}
+{"filename": "dowel/test/combined/rgb/025.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/combined/gt/025.png"}
+{"filename": "dowel/test/combined/rgb/006.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/combined/gt/006.png"}
+{"filename": "dowel/test/combined/rgb/004.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/combined/gt/004.png"}
+{"filename": "dowel/test/combined/rgb/003.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/combined/gt/003.png"}
+{"filename": "dowel/test/combined/rgb/012.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/combined/gt/012.png"}
+{"filename": "dowel/test/combined/rgb/024.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/combined/gt/024.png"}
+{"filename": "dowel/test/combined/rgb/014.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/combined/gt/014.png"}
+{"filename": "dowel/test/combined/rgb/013.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/combined/gt/013.png"}
+{"filename": "dowel/test/combined/rgb/005.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/combined/gt/005.png"}
+{"filename": "dowel/test/combined/rgb/022.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/combined/gt/022.png"}
+{"filename": "dowel/test/combined/rgb/019.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/combined/gt/019.png"}
+{"filename": "dowel/test/combined/rgb/016.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/combined/gt/016.png"}
+{"filename": "dowel/test/combined/rgb/000.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/combined/gt/000.png"}
+{"filename": "dowel/test/combined/rgb/009.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/combined/gt/009.png"}
+{"filename": "dowel/test/combined/rgb/001.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/combined/gt/001.png"}
+{"filename": "dowel/test/contamination/rgb/010.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/contamination/gt/010.png"}
+{"filename": "dowel/test/contamination/rgb/002.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/contamination/gt/002.png"}
+{"filename": "dowel/test/contamination/rgb/008.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/contamination/gt/008.png"}
+{"filename": "dowel/test/contamination/rgb/021.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/contamination/gt/021.png"}
+{"filename": "dowel/test/contamination/rgb/018.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/contamination/gt/018.png"}
+{"filename": "dowel/test/contamination/rgb/007.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/contamination/gt/007.png"}
+{"filename": "dowel/test/contamination/rgb/017.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/contamination/gt/017.png"}
+{"filename": "dowel/test/contamination/rgb/020.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/contamination/gt/020.png"}
+{"filename": "dowel/test/contamination/rgb/023.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/contamination/gt/023.png"}
+{"filename": "dowel/test/contamination/rgb/015.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/contamination/gt/015.png"}
+{"filename": "dowel/test/contamination/rgb/011.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/contamination/gt/011.png"}
+{"filename": "dowel/test/contamination/rgb/025.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/contamination/gt/025.png"}
+{"filename": "dowel/test/contamination/rgb/006.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/contamination/gt/006.png"}
+{"filename": "dowel/test/contamination/rgb/004.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/contamination/gt/004.png"}
+{"filename": "dowel/test/contamination/rgb/003.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/contamination/gt/003.png"}
+{"filename": "dowel/test/contamination/rgb/012.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/contamination/gt/012.png"}
+{"filename": "dowel/test/contamination/rgb/024.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/contamination/gt/024.png"}
+{"filename": "dowel/test/contamination/rgb/014.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/contamination/gt/014.png"}
+{"filename": "dowel/test/contamination/rgb/013.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/contamination/gt/013.png"}
+{"filename": "dowel/test/contamination/rgb/005.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/contamination/gt/005.png"}
+{"filename": "dowel/test/contamination/rgb/022.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/contamination/gt/022.png"}
+{"filename": "dowel/test/contamination/rgb/019.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/contamination/gt/019.png"}
+{"filename": "dowel/test/contamination/rgb/016.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/contamination/gt/016.png"}
+{"filename": "dowel/test/contamination/rgb/000.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/contamination/gt/000.png"}
+{"filename": "dowel/test/contamination/rgb/009.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/contamination/gt/009.png"}
+{"filename": "dowel/test/contamination/rgb/001.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/contamination/gt/001.png"}
+{"filename": "dowel/test/cut/rgb/010.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/cut/gt/010.png"}
+{"filename": "dowel/test/cut/rgb/002.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/cut/gt/002.png"}
+{"filename": "dowel/test/cut/rgb/008.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/cut/gt/008.png"}
+{"filename": "dowel/test/cut/rgb/021.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/cut/gt/021.png"}
+{"filename": "dowel/test/cut/rgb/018.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/cut/gt/018.png"}
+{"filename": "dowel/test/cut/rgb/007.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/cut/gt/007.png"}
+{"filename": "dowel/test/cut/rgb/017.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/cut/gt/017.png"}
+{"filename": "dowel/test/cut/rgb/020.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/cut/gt/020.png"}
+{"filename": "dowel/test/cut/rgb/023.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/cut/gt/023.png"}
+{"filename": "dowel/test/cut/rgb/015.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/cut/gt/015.png"}
+{"filename": "dowel/test/cut/rgb/011.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/cut/gt/011.png"}
+{"filename": "dowel/test/cut/rgb/006.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/cut/gt/006.png"}
+{"filename": "dowel/test/cut/rgb/004.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/cut/gt/004.png"}
+{"filename": "dowel/test/cut/rgb/003.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/cut/gt/003.png"}
+{"filename": "dowel/test/cut/rgb/012.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/cut/gt/012.png"}
+{"filename": "dowel/test/cut/rgb/024.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/cut/gt/024.png"}
+{"filename": "dowel/test/cut/rgb/014.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/cut/gt/014.png"}
+{"filename": "dowel/test/cut/rgb/013.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/cut/gt/013.png"}
+{"filename": "dowel/test/cut/rgb/005.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/cut/gt/005.png"}
+{"filename": "dowel/test/cut/rgb/022.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/cut/gt/022.png"}
+{"filename": "dowel/test/cut/rgb/019.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/cut/gt/019.png"}
+{"filename": "dowel/test/cut/rgb/016.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/cut/gt/016.png"}
+{"filename": "dowel/test/cut/rgb/000.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/cut/gt/000.png"}
+{"filename": "dowel/test/cut/rgb/009.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/cut/gt/009.png"}
+{"filename": "dowel/test/cut/rgb/001.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/cut/gt/001.png"}
+{"filename": "dowel/test/bent/rgb/010.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/bent/gt/010.png"}
+{"filename": "dowel/test/bent/rgb/002.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/bent/gt/002.png"}
+{"filename": "dowel/test/bent/rgb/008.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/bent/gt/008.png"}
+{"filename": "dowel/test/bent/rgb/021.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/bent/gt/021.png"}
+{"filename": "dowel/test/bent/rgb/018.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/bent/gt/018.png"}
+{"filename": "dowel/test/bent/rgb/007.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/bent/gt/007.png"}
+{"filename": "dowel/test/bent/rgb/017.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/bent/gt/017.png"}
+{"filename": "dowel/test/bent/rgb/020.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/bent/gt/020.png"}
+{"filename": "dowel/test/bent/rgb/023.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/bent/gt/023.png"}
+{"filename": "dowel/test/bent/rgb/015.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/bent/gt/015.png"}
+{"filename": "dowel/test/bent/rgb/026.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/bent/gt/026.png"}
+{"filename": "dowel/test/bent/rgb/011.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/bent/gt/011.png"}
+{"filename": "dowel/test/bent/rgb/025.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/bent/gt/025.png"}
+{"filename": "dowel/test/bent/rgb/006.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/bent/gt/006.png"}
+{"filename": "dowel/test/bent/rgb/004.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/bent/gt/004.png"}
+{"filename": "dowel/test/bent/rgb/003.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/bent/gt/003.png"}
+{"filename": "dowel/test/bent/rgb/012.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/bent/gt/012.png"}
+{"filename": "dowel/test/bent/rgb/024.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/bent/gt/024.png"}
+{"filename": "dowel/test/bent/rgb/014.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/bent/gt/014.png"}
+{"filename": "dowel/test/bent/rgb/013.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/bent/gt/013.png"}
+{"filename": "dowel/test/bent/rgb/005.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/bent/gt/005.png"}
+{"filename": "dowel/test/bent/rgb/022.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/bent/gt/022.png"}
+{"filename": "dowel/test/bent/rgb/019.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/bent/gt/019.png"}
+{"filename": "dowel/test/bent/rgb/016.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/bent/gt/016.png"}
+{"filename": "dowel/test/bent/rgb/000.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/bent/gt/000.png"}
+{"filename": "dowel/test/bent/rgb/009.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/bent/gt/009.png"}
+{"filename": "dowel/test/bent/rgb/001.png", "label": 1, "label_name": "defective", "maskname": "dowel/test/bent/gt/001.png"}

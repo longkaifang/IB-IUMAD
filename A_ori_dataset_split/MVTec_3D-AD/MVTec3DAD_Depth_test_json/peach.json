@@ -1,0 +1,107 @@
+{"filename": "peach/test/good/xyz/001.tiff", "label": 0, "label_name": "good"}
+{"filename": "peach/test/good/xyz/004.tiff", "label": 0, "label_name": "good"}
+{"filename": "peach/test/good/xyz/016.tiff", "label": 0, "label_name": "good"}
+{"filename": "peach/test/good/xyz/024.tiff", "label": 0, "label_name": "good"}
+{"filename": "peach/test/good/xyz/017.tiff", "label": 0, "label_name": "good"}
+{"filename": "peach/test/good/xyz/019.tiff", "label": 0, "label_name": "good"}
+{"filename": "peach/test/good/xyz/009.tiff", "label": 0, "label_name": "good"}
+{"filename": "peach/test/good/xyz/008.tiff", "label": 0, "label_name": "good"}
+{"filename": "peach/test/good/xyz/025.tiff", "label": 0, "label_name": "good"}
+{"filename": "peach/test/good/xyz/015.tiff", "label": 0, "label_name": "good"}
+{"filename": "peach/test/good/xyz/011.tiff", "label": 0, "label_name": "good"}
+{"filename": "peach/test/good/xyz/003.tiff", "label": 0, "label_name": "good"}
+{"filename": "peach/test/good/xyz/005.tiff", "label": 0, "label_name": "good"}
+{"filename": "peach/test/good/xyz/006.tiff", "label": 0, "label_name": "good"}
+{"filename": "peach/test/good/xyz/007.tiff", "label": 0, "label_name": "good"}
+{"filename": "peach/test/good/xyz/012.tiff", "label": 0, "label_name": "good"}
+{"filename": "peach/test/good/xyz/022.tiff", "label": 0, "label_name": "good"}
+{"filename": "peach/test/good/xyz/000.tiff", "label": 0, "label_name": "good"}
+{"filename": "peach/test/good/xyz/002.tiff", "label": 0, "label_name": "good"}
+{"filename": "peach/test/good/xyz/013.tiff", "label": 0, "label_name": "good"}
+{"filename": "peach/test/good/xyz/014.tiff", "label": 0, "label_name": "good"}
+{"filename": "peach/test/good/xyz/018.tiff", "label": 0, "label_name": "good"}
+{"filename": "peach/test/good/xyz/020.tiff", "label": 0, "label_name": "good"}
+{"filename": "peach/test/good/xyz/010.tiff", "label": 0, "label_name": "good"}
+{"filename": "peach/test/good/xyz/021.tiff", "label": 0, "label_name": "good"}
+{"filename": "peach/test/good/xyz/023.tiff", "label": 0, "label_name": "good"}
+{"filename": "peach/test/combined/xyz/001.tiff", "label": 1, "label_name": "defective", "maskname": "peach/test/combined/gt/001.png"}
+{"filename": "peach/test/combined/xyz/004.tiff", "label": 1, "label_name": "defective", "maskname": "peach/test/combined/gt/004.png"}
+{"filename": "peach/test/combined/xyz/016.tiff", "label": 1, "label_name": "defective", "maskname": "peach/test/combined/gt/016.png"}
+{"filename": "peach/test/combined/xyz/024.tiff", "label": 1, "label_name": "defective", "maskname": "peach/test/combined/gt/024.png"}
+{"filename": "peach/test/combined/xyz/017.tiff", "label": 1, "label_name": "defective", "maskname": "peach/test/combined/gt/017.png"}
+{"filename": "peach/test/combined/xyz/019.tiff", "label": 1, "label_name": "defective", "maskname": "peach/test/combined/gt/019.png"}
+{"filename": "peach/test/combined/xyz/009.tiff", "label": 1, "label_name": "defective", "maskname": "peach/test/combined/gt/009.png"}
+{"filename": "peach/test/combined/xyz/008.tiff", "label": 1, "label_name": "defective", "maskname": "peach/test/combined/gt/008.png"}
+{"filename": "peach/test/combined/xyz/015.tiff", "label": 1, "label_name": "defective", "maskname": "peach/test/combined/gt/015.png"}
+{"filename": "peach/test/combined/xyz/011.tiff", "label": 1, "label_name": "defective", "maskname": "peach/test/combined/gt/011.png"}
+{"filename": "peach/test/combined/xyz/003.tiff", "label": 1, "label_name": "defective", "maskname": "peach/test/combined/gt/003.png"}
+{"filename": "peach/test/combined/xyz/005.tiff", "label": 1, "label_name": "defective", "maskname": "peach/test/combined/gt/005.png"}
+{"filename": "peach/test/combined/xyz/006.tiff", "label": 1, "label_name": "defective", "maskname": "peach/test/combined/gt/006.png"}
+{"filename": "peach/test/combined/xyz/007.tiff", "label": 1, "label_name": "defective", "maskname": "peach/test/combined/gt/007.png"}
+{"filename": "peach/test/combined/xyz/012.tiff", "label": 1, "label_name": "defective", "maskname": "peach/test/combined/gt/012.png"}
+{"filename": "peach/test/combined/xyz/022.tiff", "label": 1, "label_name": "defective", "maskname": "peach/test/combined/gt/022.png"}
+{"filename": "peach/test/combined/xyz/000.tiff", "label": 1, "label_name": "defective", "maskname": "peach/test/combined/gt/000.png"}
+{"filename": "peach/test/combined/xyz/002.tiff", "label": 1, "label_name": "defective", "maskname": "peach/test/combined/gt/002.png"}
+{"filename": "peach/test/combined/xyz/013.tiff", "label": 1, "label_name": "defective", "maskname": "peach/test/combined/gt/013.png"}
+{"filename": "peach/test/combined/xyz/014.tiff", "label": 1, "label_name": "defective", "maskname": "peach/test/combined/gt/014.png"}
+{"filename": "peach/test/combined/xyz/018.tiff", "label": 1, "label_name": "defective", "maskname": "peach/test/combined/gt/018.png"}
+{"filename": "peach/test/combined/xyz/020.tiff", "label": 1, "label_name": "defective", "maskname": "peach/test/combined/gt/020.png"}
+{"filename": "peach/test/combined/xyz/010.tiff", "label": 1, "label_name": "defective", "maskname": "peach/test/combined/gt/010.png"}
+{"filename": "peach/test/combined/xyz/021.tiff", "label": 1, "label_name": "defective", "maskname": "peach/test/combined/gt/021.png"}
+{"filename": "peach/test/combined/xyz/023.tiff", "label": 1, "label_name": "defective", "maskname": "peach/test/combined/gt/023.png"}
+{"filename": "peach/test/contamination/xyz/001.tiff", "label": 1, "label_name": "defective", "maskname": "peach/test/contamination/gt/001.png"}
+{"filename": "peach/test/contamination/xyz/004.tiff", "label": 1, "label_name": "defective", "maskname": "peach/test/contamination/gt/004.png"}
+{"filename": "peach/test/contamination/xyz/016.tiff", "label": 1, "label_name": "defective", "maskname": "peach/test/contamination/gt/016.png"}
+{"filename": "peach/test/contamination/xyz/024.tiff", "label": 1, "label_name": "defective", "maskname": "peach/test/contamination/gt/024.png"}
+{"filename": "peach/test/contamination/xyz/017.tiff", "label": 1, "label_name": "defective", "maskname": "peach/test/contamination/gt/017.png"}
+{"filename": "peach/test/contamination/xyz/019.tiff", "label": 1, "label_name": "defective", "maskname": "peach/test/contamination/gt/019.png"}
+{"filename": "peach/test/contamination/xyz/009.tiff", "label": 1, "label_name": "defective", "maskname": "peach/test/contamination/gt/009.png"}
+{"filename": "peach/test/contamination/xyz/008.tiff", "label": 1, "label_name": "defective", "maskname": "peach/test/contamination/gt/008.png"}
+{"filename": "peach/test/contamination/xyz/025.tiff", "label": 1, "label_name": "defective", "maskname": "peach/test/contamination/gt/025.png"}
+{"filename": "peach/test/contamination/xyz/015.tiff", "label": 1, "label_name": "defective", "maskname": "peach/test/contamination/gt/015.png"}
+{"filename": "peach/test/contamination/xyz/026.tiff", "label": 1, "label_name": "defective", "maskname": "peach/test/contamination/gt/026.png"}
+{"filename": "peach/test/contamination/xyz/011.tiff", "label": 1, "label_name": "defective", "maskname": "peach/test/contamination/gt/011.png"}
+{"filename": "peach/test/contamination/xyz/003.tiff", "label": 1, "label_name": "defective", "maskname": "peach/test/contamination/gt/003.png"}
+{"filename": "peach/test/contamination/xyz/005.tiff", "label": 1, "label_name": "defective", "maskname": "peach/test/contamination/gt/005.png"}
+{"filename": "peach/test/contamination/xyz/006.tiff", "label": 1, "label_name": "defective", "maskname": "peach/test/contamination/gt/006.png"}
+{"filename": "peach/test/contamination/xyz/007.tiff", "label": 1, "label_name": "defective", "maskname": "peach/test/contamination/gt/007.png"}
+{"filename": "peach/test/contamination/xyz/012.tiff", "label": 1, "label_name": "defective", "maskname": "peach/test/contamination/gt/012.png"}
+{"filename": "peach/test/contamination/xyz/022.tiff", "label": 1, "label_name": "defective", "maskname": "peach/test/contamination/gt/022.png"}
+{"filename": "peach/test/contamination/xyz/000.tiff", "label": 1, "label_name": "defective", "maskname": "peach/test/contamination/gt/000.png"}
+{"filename": "peach/test/contamination/xyz/002.tiff", "label": 1, "label_name": "defective", "maskname": "peach/test/contamination/gt/002.png"}
+{"filename": "peach/test/contamination/xyz/013.tiff", "label": 1, "label_name": "defective", "maskname": "peach/test/contamination/gt/013.png"}
+{"filename": "peach/test/contamination/xyz/014.tiff", "label": 1, "label_name": "defective", "maskname": "peach/test/contamination/gt/014.png"}
+{"filename": "peach/test/contamination/xyz/018.tiff", "label": 1, "label_name": "defective", "maskname": "peach/test/contamination/gt/018.png"}
+{"filename": "peach/test/contamination/xyz/020.tiff", "label": 1, "label_name": "defective", "maskname": "peach/test/contamination/gt/020.png"}
+{"filename": "peach/test/contamination/xyz/010.tiff", "label": 1, "label_name": "defective", "maskname": "peach/test/contamination/gt/010.png"}
+{"filename": "peach/test/contamination/xyz/021.tiff", "label": 1, "label_name": "defective", "maskname": "peach/test/contamination/gt/021.png"}
+{"filename": "peach/test/contamination/xyz/023.tiff", "label": 1, "label_name": "defective", "maskname": "peach/test/contamination/gt/023.png"}
+{"filename": "peach/test/hole/xyz/001.tiff", "label": 1, "label_name": "defective", "maskname": "peach/test/hole/gt/001.png"}
+{"filename": "peach/test/hole/xyz/004.tiff", "label": 1, "label_name": "defective", "maskname": "peach/test/hole/gt/004.png"}
+{"filename": "peach/test/hole/xyz/016.tiff", "label": 1, "label_name": "defective", "maskname": "peach/test/hole/gt/016.png"}
+{"filename": "peach/test/hole/xyz/024.tiff", "label": 1, "label_name": "defective", "maskname": "peach/test/hole/gt/024.png"}
+{"filename": "peach/test/hole/xyz/017.tiff", "label": 1, "label_name": "defective", "maskname": "peach/test/hole/gt/017.png"}
+{"filename": "peach/test/hole/xyz/019.tiff", "label": 1, "label_name": "defective", "maskname": "peach/test/hole/gt/019.png"}
+{"filename": "peach/test/hole/xyz/009.tiff", "label": 1, "label_name": "defective", "maskname": "peach/test/hole/gt/009.png"}
+{"filename": "peach/test/hole/xyz/008.tiff", "label": 1, "label_name": "defective", "maskname": "peach/test/hole/gt/008.png"}
+{"filename": "peach/test/hole/xyz/025.tiff", "label": 1, "label_name": "defective", "maskname": "peach/test/hole/gt/025.png"}
+{"filename": "peach/test/hole/xyz/015.tiff", "label": 1, "label_name": "defective", "maskname": "peach/test/hole/gt/015.png"}
+{"filename": "peach/test/hole/xyz/026.tiff", "label": 1, "label_name": "defective", "maskname": "peach/test/hole/gt/026.png"}
+{"filename": "peach/test/hole/xyz/011.tiff", "label": 1, "label_name": "defective", "maskname": "peach/test/hole/gt/011.png"}
+{"filename": "peach/test/hole/xyz/003.tiff", "label": 1, "label_name": "defective", "maskname": "peach/test/hole/gt/003.png"}
+{"filename": "peach/test/hole/xyz/005.tiff", "label": 1, "label_name": "defective", "maskname": "peach/test/hole/gt/005.png"}
+{"filename": "peach/test/hole/xyz/006.tiff", "label": 1, "label_name": "defective", "maskname": "peach/test/hole/gt/006.png"}
+{"filename": "peach/test/hole/xyz/007.tiff", "label": 1, "label_name": "defective", "maskname": "peach/test/hole/gt/007.png"}
+{"filename": "peach/test/hole/xyz/012.tiff", "label": 1, "label_name": "defective", "maskname": "peach/test/hole/gt/012.png"}
+{"filename": "peach/test/hole/xyz/022.tiff", "label": 1, "label_name": "defective", "maskname": "peach/test/hole/gt/022.png"}
+{"filename": "peach/test/hole/xyz/028.tiff", "label": 1, "label_name": "defective", "maskname": "peach/test/hole/gt/028.png"}
+{"filename": "peach/test/hole/xyz/000.tiff", "label": 1, "label_name": "defective", "maskname": "peach/test/hole/gt/000.png"}
+{"filename": "peach/test/hole/xyz/002.tiff", "label": 1, "label_name": "defective", "maskname": "peach/test/hole/gt/002.png"}
+{"filename": "peach/test/hole/xyz/013.tiff", "label": 1, "label_name": "defective", "maskname": "peach/test/hole/gt/013.png"}
+{"filename": "peach/test/hole/xyz/014.tiff", "label": 1, "label_name": "defective", "maskname": "peach/test/hole/gt/014.png"}
+{"filename": "peach/test/hole/xyz/027.tiff", "label": 1, "label_name": "defective", "maskname": "peach/test/hole/gt/027.png"}
+{"filename": "peach/test/hole/xyz/018.tiff", "label": 1, "label_name": "defective", "maskname": "peach/test/hole/gt/018.png"}
+{"filename": "peach/test/hole/xyz/020.tiff", "label": 1, "label_name": "defective", "maskname": "peach/test/hole/gt/020.png"}
+{"filename": "peach/test/hole/xyz/010.tiff", "label": 1, "label_name": "defective", "maskname": "peach/test/hole/gt/010.png"}
+{"filename": "peach/test/hole/xyz/021.tiff", "label": 1, "label_name": "defective", "maskname": "peach/test/hole/gt/021.png"}
+{"filename": "peach/test/hole/xyz/023.tiff", "label": 1, "label_name": "defective", "maskname": "peach/test/hole/gt/023.png"}
