@@ -2,6 +2,6 @@
 ## Towards an Incremental Unified Multimodal Anomaly Detection: Augmenting Multimodal Denoising From  an Information Bottleneck Perspective
 
 <p align="center">
-    <strong>Towards an Incremental Unified Multimodal Anomaly Detection: Augmenting Multimodal Denoising From  an Information Bottleneck Perspective
+    ## <strong>Towards an Incremental Unified Multimodal Anomaly Detection: Augmenting Multimodal Denoising From  an Information Bottleneck Perspective
 </strong><br>
 </p>
