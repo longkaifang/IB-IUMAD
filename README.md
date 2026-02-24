@@ -67,6 +67,6 @@ CUDA_VISIBLE_DEVICES=0,1,2,3 python ./tools/train_val.py --config /home/admin1/2
 # ⚡ Performance
 Compared with other baselines, our model achieves the best performance:
 #### 🌟 Quantitative evaluation in MvTec 3D AD.
-<img src="./MvTec_3D_AD.png"  width="1000"/>
+<img src="./MVTec_3D_AD.png"  width="1000"/>
 #### 🌟 Quantitative evaluation in Eyecandies.
 <img src="./Eyecandies.png"  width="1000"/>
