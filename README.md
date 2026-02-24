@@ -13,3 +13,7 @@ The quest for incremental unified multimodal anomaly detection seeks to empower 
 
 # 🚀 Environment
 Please refer to requirements.txt
+
+# 💾 Dataset Preparation
+We have already provided data processing for the MVTec 3D-AD dataset. For the Eyecandies dataset, you can refer to the .py file in A_ori_dataset_split/MVTec_3D-AD/.py for relevant processing.
+
