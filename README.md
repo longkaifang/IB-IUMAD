@@ -21,4 +21,9 @@ You can also refer to Dataset Preparation and Configuration in <a href="https://
 
 # 🖥️ Training and Testing
 Our paper presents experiments under four incremental settings: 10-0 with 0 step (training a unified model), 9-1 with 1 step,  6-4 with 1 step, and  6-1 with 4 steps. We strongly recommend that the authors incorporate Setting  1-1 with 10 steps into their experiments, as it would enhance the robustness and usefulness of their results. Below, we describe the training and testing procedures for these four incremental settings.
+#### 🌟10-0 with 0 step
+```bibtex
+export PYTHONPATH="/home/admin1/2Tsdb/lkf/uniform-3dad/IB-IUMAD"
 
+CUDA_VISIBLE_DEVICES=0,1,2,3 python ./tools/train_val.py --config /home/admin1/2Tsdb/lkf/uniform-3dad/IB-IUMAD/experiments/MVTec_3DAD/10_0_with_0_step/config_c1.yaml
+```
