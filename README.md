@@ -62,4 +62,4 @@ CUDA_VISIBLE_DEVICES=0,1,2,3 python ./tools/train_val.py --config /home/admin1/2
 #step2 
 CUDA_VISIBLE_DEVICES=0,1,2,3 python ./tools/train_val.py --config /home/admin1/2Tsdb/lkf/uniform-3dad/IB-IUMAD/experiments/MVTec_3DAD/6_4_with_1_step/config_c12.yaml
 ```
-#### 📧 If you still have questions about the incremental setup training process, please refer to B.
+#### 📧 If you still have questions about the incremental setup training process, please refer to <a href="https://github.com/jqtangust/IUF">IUF</a>.
