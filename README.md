@@ -80,3 +80,6 @@ Compared with other baselines, our model achieves the best performance:
   year={2025}
 }
 ```
+
+# 📢 Notice
+This paper aims to provide an incremental unified framework for multimodal anomaly detection. In the provided code, if you wish to use the Mamba encoder, you can refer to paper[code] <a href="https://github.com/millieXie/FusionMamba">Link1</a> or <a href="https://github.com/Ruixxxx/Awesome-Vision-Mamba-Models">Link2</a>  to replace the ViT with the Mamba encoder. Similarly, ViT can also be substituted with ResNet18, ResNet34, or ResNet50. For the design of the information bottleneck fusion module, please refer to the paper[code] <a href="https://github.com/jqtangust/IUF">Link</a>. Both components are easy to implement and integrate.
