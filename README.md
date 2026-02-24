@@ -1,4 +1,4 @@
-#### 🌟 This paper has been accepted to CVPR 2026.🌟
+#### 🌟 This paper has been accepted to CVPR 2026.
 #
 
 <h1 align="center">Towards an Incremental Unified Multimodal Anomaly Detection: Augmenting Multimodal Denoising From an Information Bottleneck Perspective</h1>
@@ -66,3 +66,7 @@ CUDA_VISIBLE_DEVICES=0,1,2,3 python ./tools/train_val.py --config /home/admin1/2
 
 # ⚡ Performance
 Compared with other baselines, our model achieves the best performance:
+#### 🌟 Quantitative evaluation in MvTec 3D AD.
+<img src="./MvTec_3D_AD.png"  width="1000"/>
+#### 🌟 Quantitative evaluation in Eyecandies.
+<img src="./Eyecandies.png"  width="1000"/>
