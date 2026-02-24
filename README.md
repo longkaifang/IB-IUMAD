@@ -73,7 +73,7 @@ Compared with other baselines, our model achieves the best performance:
 
 # 🌐 Citations
 ```bibtex
-@inproceedings{long2025revisiting,
+@inproceedings{long2026Towards,
   title={Towards an Incremental Unified Multimodal Anomaly Detection: Augmenting Multimodal Denoising From an Information Bottleneck Perspective},
   author={Long, Kaifang and Ma, Lianbo and Liu, Jiaqi and Liu Liming and Xie, Guoyang},
   booktitle={CVPR},
