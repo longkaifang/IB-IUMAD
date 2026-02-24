@@ -19,3 +19,6 @@ We have already provided data processing for the MVTec 3D-AD dataset. For the Ey
 
 You can also refer to Dataset Preparation and Configuration in <a href="https://github.com/jqtangust/IUF">IUF</a>; our RGB-D data is constructed according to the IUF standard.
 
+# 🖥️ Training and Testing
+Our paper presents experiments under four incremental settings: 10-0 with 0 step (training a unified model), 9-1 with 1 step,  6-4 with 1 step, and  6-1 with 4 steps. We strongly recommend that the authors incorporate Setting  1-1 with 10 steps into their experiments, as it would enhance the robustness and usefulness of their results. Below, we describe the training and testing procedures for these four incremental settings.
+
