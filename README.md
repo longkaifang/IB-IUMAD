@@ -40,4 +40,26 @@ CUDA_VISIBLE_DEVICES=0,1,2,3 python ./tools/train_val.py --config /home/admin1/2
 CUDA_VISIBLE_DEVICES=0,1,2,3 python ./tools/train_val.py --config /home/admin1/2Tsdb/lkf/uniform-3dad/IB-IUMAD/experiments/MVTec_3DAD/9_1_with_1_step/config_c10.yaml
 ```
 If you encounter an error when executing step 2, where the parameter for `torch.load()` is None, you need to manually adjust the path in `./tools/train_val.py`: `lastest_model = os.path.join("config.save_path", "ckpt.pth.tar")`.
-
+#### 🌟6-1 with 4 step
+```bibtex
+export PYTHONPATH="/home/admin1/2Tsdb/lkf/uniform-3dad/IB-IUMAD"
+#step1
+CUDA_VISIBLE_DEVICES=0,1,2,3 python ./tools/train_val.py --config /home/admin1/2Tsdb/lkf/uniform-3dad/IB-IUMAD/experiments/MVTec_3DAD/6_1_with_4_step/config_c1.yaml
+#step2 
+CUDA_VISIBLE_DEVICES=0,1,2,3 python ./tools/train_val.py --config /home/admin1/2Tsdb/lkf/uniform-3dad/IB-IUMAD/experiments/MVTec_3DAD/6_1_with_4_step/config_c9.yaml
+#step3
+CUDA_VISIBLE_DEVICES=0,1,2,3 python ./tools/train_val.py --config /home/admin1/2Tsdb/lkf/uniform-3dad/IB-IUMAD/experiments/MVTec_3DAD/6_1_with_4_step/config_c10.yaml
+#step4
+CUDA_VISIBLE_DEVICES=0,1,2,3 python ./tools/train_val.py --config /home/admin1/2Tsdb/lkf/uniform-3dad/IB-IUMAD/experiments/MVTec_3DAD/6_1_with_4_step/config_c11.yaml
+#step5
+CUDA_VISIBLE_DEVICES=0,1,2,3 python ./tools/train_val.py --config /home/admin1/2Tsdb/lkf/uniform-3dad/IB-IUMAD/experiments/MVTec_3DAD/6_1_with_4_step/config_c12.yaml
+```
+#### 🌟6-4 with 1 step
+```bibtex
+export PYTHONPATH="/home/admin1/2Tsdb/lkf/uniform-3dad/IB-IUMAD"
+#step1
+CUDA_VISIBLE_DEVICES=0,1,2,3 python ./tools/train_val.py --config /home/admin1/2Tsdb/lkf/uniform-3dad/IB-IUMAD/experiments/MVTec_3DAD/6_4_with_1_step/config_c1.yaml
+#step2 
+CUDA_VISIBLE_DEVICES=0,1,2,3 python ./tools/train_val.py --config /home/admin1/2Tsdb/lkf/uniform-3dad/IB-IUMAD/experiments/MVTec_3DAD/6_4_with_1_step/config_c12.yaml
+```
+#### 📧 If you still have questions about the incremental setup training process, please refer to B.
